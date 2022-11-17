@@ -1,16 +1,15 @@
-<!-- docs/_sidebar.md -->
-
 - [Home](/docs)
-- [Diretrizes](/docs/Diretrizes/Diretrizes.md)
+- [Diretrizes](docs/Diretrizes/Diretrizes.md)
 
-- **Base**
-  - [1. Desenho de Software (Base)](/docs/Base/1.Base.md)
-    - [1.1. Módulo Projeto Não Orientado a Abordagens Específicas](/docs/Base/1.1.AbordagemNaoEspecifica.md)
-    - [1.2. Módulo Processos/Metodologias/Abordagens](/docs/Base/1.2.ProcessosMetodologiasAbordagens.md)
-    - [1.3. Iniciativas Extras - Base](/docs/Base/1.3.IniciativasExtras.md)
-    - [1.4. Participações - Base](/docs/Base/1.4.ParticipacoesBase.md)
+- [**Base**](#)
+  - [1. Desenho de Software (Base)](docs/Base/Base.md)
+    - [1.1. Módulo Projeto Não Orientado a Abordagens Específicas](docs/Base/AbordagemNaoEspecifica.md)
+      - [Design Sprint](docs/Base/DesignSprint.md)
+    - [1.2. Módulo Processos/Metodologias/Abordagens](docs/Base/ProcessosMetodologiasAbordagens.md)
+    - [1.3. Iniciativas Extras - Base](docs/Base/IniciativasExtras.md)
+    - [1.4. Participações - Base](docs/Base/ParticipacoesBase.md)
 
-- **Modelagem**
+- [**Modelagem**](#)
   - [2. Desenho de Software (Modelagem)](/docs/Modelagem/2.Modelagem.md)
     - [2.1. Módulo Projeto Orientado a Abordagens Tradicionais](/docs/Modelagem/2.1.ModelagemTradicional.md)
       - [2.1.1. Notação UML – Diagramas Estáticos](/docs/Modelagem/2.1.1.UMLEstaticos.md)

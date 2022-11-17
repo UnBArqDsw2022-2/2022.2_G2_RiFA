@@ -12,3 +12,5 @@ elaborados, e (iv) comentários gerais sobre iniciativas extras. Tempo da Aprese
 A Wiki ou GitPages do Projeto deve conter um tópico dedicado ao Módulo Projeto Não Orientado a Abordagens Específicas, com artefatos, histórico de versões, referências, e demais detalhamentos gerados pela equipe nesse escopo.
 
 Demais orientações disponíveis nas Diretrizes (vide Moodle).
+
+
