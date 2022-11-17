@@ -1,53 +1,50 @@
-# RepositorioTemplate
-Esse repositório é para ser utilizado pelos grupos como um template inicial, da home page do Projeto.
-As seções do Template NÃO DEVEM SER OMITIDAS, sendo TODAS RELEVANTES.
-Demais diretrizes sobre a organização da wiki constam no Moodle Aprender 3.
-
-**!! Atenção: Renomeie o seu repositório para (Ano.Semestre)_(Grupo)_(NomeDoProjeto)*. !!** 
-
-**!! *Não coloque os nomes dos alunos no título do repositório*. !!**
-
-**!! *Exemplo de título correto: 2022.1_G1_ProjetoPandora*. !!** 
- 
- (Apague esses comentários)
-
-# Nome do Projeto
+# e-Rifas
 
 **Código da Disciplina**: FGA0208<br>
-**Número do Grupo**: XX<br>
+**Número do Grupo**: 02<br>
 
 ## Alunos
-|Matrícula | Aluno |
-| -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
 
-## Sobre 
-Descreva o seu projeto em linhas gerais.
-Use referências, links, que permitam conhecer um pouco mais sobre o projeto.
+| Matrícula  | Aluno                                                                                                                                                                                                        |
+|------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 19/0108011 | <img height="250px" src="../../assets/guilhermeFoto.jpg" width="250px"/><br/> <div style="text-align: center"><a href="https://github.com/dev-brito" style="text-decoration: none">Guilherme Brito</a></div> |
+| xx/xxxxxx  | xxxx xxxx xxxxx                                                                                                                                                                                              |
+
+## Sobre
+
+O e-rifas foi pensado para que organizadores e compradores de rifas possam ser integrados em uma plataforma unificada.
+Nela, organizadores podem compartilhar os seus sorteios e compradores podem buscar por esses sorteios abertos e
+consequentemente efetuar a compra dessas rifas.
 
 ## Screenshots Primeira Entrega <<FOCO: DSW(Base)>>
+
 Adicione 2 ou mais screenshots do projeto em termos de artefatos da Primeira Entrega.
 
 ## Screenshots Segunda Entrega <<FOCO: DSW(Modelagem)>>
+
 Adicione 2 ou mais screenshots do projeto em termos de artefatos da Segunda Entrega.
 
 ## Screenshots Terceira Entrega <<FOCO: DSW(Padrões de Projeto)>>
+
 Adicione 2 ou mais screenshots do projeto em termos de artefatos da Terceira Entrega.
 
 ## Screenshots Quarta Entrega (FINAL) <<FOCOS: Arquitetura & Reutilização de Software & PROJETO FINAL>>
+
 Adicione 2 ou mais screenshots do projeto em termos de interface e/ou funcionamento.
 
-## Descritivo dos Principais Aspectos Técnicos 
+## Descritivo dos Principais Aspectos Técnicos
+
 **Principal(is) Metodologia(s) Adotada(s)**: xxxxxx<br>
 **Principais Linguagens Utilizadas e/ou Pretendidas**: xxxxxx<br>
 **Principais Tecnologias Utilizadas e/ou Pretendidas**: xxxxxx<br>
 **Principal(is) Estilo(s) Arquitetural(is) Adotado(s)**: xxxxxx<br>
 
 ## O Projeto está rodando?
+
 ( ) SIM
 ( ) NÃO
 Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados em consultar o projeto.
 
-## Informações Complementares 
+## Informações Complementares
+
 Quaisquer outras informações sobre seu projeto podem ser descritas nessa seção.
