@@ -21,9 +21,9 @@ Desta forma, para categorizar o diagrama, foi feita uma adaptação com os méto
 
 ## 3. Diagrama de Ishikawa
 
-|   ![Imagem](../../assets/diagramaCausaEfeito.png)   |
-|:--------------------------------------------:|
-| Figura 1 : Kanban Board Utilizado no Projeto |
+|            ![Imagem](../../assets/diagramaCausaEfeito.png)            |
+|:---------------------------------------------------------------------:|
+| Figura 1 : Diagrama de Ishiwaka construído para o contexto do Projeto |
 
 Após a confecção e análise do diagrama, podemos fazer as seguintes conclusões sobre cada categoria acerca do problema:
 
