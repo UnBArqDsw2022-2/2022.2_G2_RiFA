@@ -5,6 +5,8 @@
   - [1. Desenho de Software (Base)](docs/Base/Base.md)
     - [1.1. Módulo Projeto Não Orientado a Abordagens Específicas](docs/Base/AbordagemNaoEspecifica.md)
       - [Design Sprint](docs/Base/DesignSprint.md)
+      - [Rich Picture](docs/Base/rich-picture.md)
+      - [Diagrama Causa-Efeito](docs/Base/diagramaCausaEfeito.md)
     - [1.2. Módulo Processos/Metodologias/Abordagens](docs/Base/ProcessosMetodologiasAbordagens.md)
     - [1.3. Iniciativas Extras - Base](docs/Base/IniciativasExtras.md)
     - [1.4. Participações - Base](docs/Base/ParticipacoesBase.md)

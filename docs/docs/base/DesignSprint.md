@@ -37,22 +37,16 @@ As discussões realizadas no primeiro dia deram caminho para a elaboração da d
 ### Unpack ou Definição
 Foi realizado um brainstormig, na qual os membros da equipe compartilharam suas ideias, visando explorar as possibilidades de projeto, para então discutir qual seria o mais adequado para a equipe.
 
-Após isso, dividiu-se a equipa para a realização das diversas tarefas que acompanham a design sprint, como Rich Picture, Mapa mental, 5W2H e outros.
+Após isso, dividiu-se a equipa para a realização das diversas tarefas que acompanham a design sprint, como [Rich Picture](docs/Base/rich-picture.md), Mapa mental, 5W2H e outros.
 
 #### Mapa Mental
 Técnica que auxilia na organização de ideias, consiste em expandir o tema central do trabalho em palavras-chave que estejam ligadas ao mesmo.
 
-<!-- Img do Mapa Mental -->
-
 #### 5W2H
 O método é uma ferramenta que parte de sete questões para elaborar um plano de ação alinhados ao projeto, de maneira rápida e eficiente [5W2H, 2020]. 
 
-<!-- Img do 5w2h -->
-
-#### Diagrama Causa-Efeito
+#### [Diagrama Causa-Efeito](docs/Base/diagramaCausaEfeito.md)
 De acordo com Robson Camargo, o diagrama Causa e Efeito é um gráfico, onde o objetivo é organizar o raciocício de um problema central e tem como propósito encontrar fatores que possam gerar uma situação indesejada em determinado escopo, seja trabalho, projeto ou organização.
-
-<!-- Img do diagrama causa efeito -->
 
 ### Sketch
 Tendo como base a etapa anterior, a equipe rascunhou uma possível solução para resolver o problema então escolhido, e então foi produzido o artefato Rich Picture.x
