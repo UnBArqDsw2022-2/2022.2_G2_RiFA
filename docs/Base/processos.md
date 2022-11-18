@@ -1,5 +1,9 @@
 # Processos Envolvidos no Desenvolvimento do Trabalho
 
+### Participantes do Artefato
+
+- Guilherme Brito
+
 ## 1. Introdução
 
 Neste documento, será dissertado um pouco sobre a importância do BPMN (Business Process Management Notation) para melhor
@@ -54,7 +58,7 @@ todo (Cada Sprint seguirá esse modelo).
 
 <iframe src="https://modeler.cloud.camunda.io/embed/325ab50d-9ddd-4627-8654-9b06af183a4f" style="width:700px;height:500px;border:1px solid #ccc" allowfullscreen></iframe>
 
->   Diagrama 1: FLuxo Processual de Sprint -> Autor: Guilherme Brito Vilas - Bôas
+> Diagrama 1: FLuxo Processual de Sprint -> Autor: Guilherme Brito Vilas - Bôas
 
 ### 3.1.1 - Processo de Sprint Planning
 
@@ -63,7 +67,7 @@ modelado conforme o diagrama abaixo.
 
 <iframe src="https://modeler.cloud.camunda.io/embed/bcacc039-0a37-4de7-bb23-1cbc1b26fc66" style="width:700px;height:500px;border:1px solid #ccc" allowfullscreen></iframe>
 
->   Diagrama 2: Fluxo Processual de Sprint Planning -> Autor: Guilherme Brito Vilas - Bôas
+> Diagrama 2: Fluxo Processual de Sprint Planning -> Autor: Guilherme Brito Vilas - Bôas
 
 ### 3.1.2 - Processo de Desenvolvimento
 
@@ -83,7 +87,8 @@ O Processo de Sprint Review modelado pode ser visualizado no diagrama abaixo.
 
 ## Referências
 
-- [1] - **Modelagem de Processos para os Negócios** Disponível em: https://www.lecom.com.br/blog/modelagem-de-processo-para-os-negocios
+- [1] - **Modelagem de Processos para os Negócios** Disponível
+  em: https://www.lecom.com.br/blog/modelagem-de-processo-para-os-negocios
 
 ## Histórico de Versões
 

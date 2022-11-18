@@ -18,7 +18,8 @@ consequentemente efetuar a compra dessas rifas.
 
 ## Screenshots Primeira Entrega <<FOCO: DSW(Base)>>
 
-Adicione 2 ou mais screenshots do projeto em termos de artefatos da Primeira Entrega.
+![screenshot1.png](assets/screenshot1_1.png)
+![screenshot2.png](assets/screenshot1_2.png)
 
 ## Screenshots Segunda Entrega <<FOCO: DSW(Modelagem)>>
 
