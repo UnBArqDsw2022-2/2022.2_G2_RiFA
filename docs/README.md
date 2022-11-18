@@ -24,8 +24,8 @@ Arthur Melo</b></sub></a><br />
       <tr>
     <td align="center"><a href="https://github.com/Foxtrot40"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/24324267?v=4" width="100px;" alt=""/><br /><sub><b>Marcos Cabeceira</b></sub></a><br />
     <td align="center"><a href="https://github.com/ErickMVdO"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/48844857?v=4" width="100px;" alt=""/><br /><sub><b>Erick Melo</b></sub></a><br />
-    <td align="center"><a href="https://github.com/ArthurMeloG"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/66687841?v=4" width="100px;" alt=""/><br /><sub><b>
-Arthur Melo</b></sub></a><br />
+    <td align="center"><a href="https://github.com/eliasyousef00"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/54670498?v=4" width="100px;" alt=""/><br /><sub><b>
+Eliás Yousef</b></sub></a><br />
   </tr>
 </table>
 
