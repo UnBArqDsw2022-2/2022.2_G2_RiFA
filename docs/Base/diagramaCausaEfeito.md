@@ -1,9 +1,5 @@
 # Diagrama Causa-Efeito
 
-## Participantes do Artefato
-
-- Karla Feliciano
-
 ## 1. Introdução
 
 Este documento apresenta o Diagrama Causa-Efeito, ou "Diagrama de Ishikawa", ou "Diagrama Espinha de Peixe", que tem por objetivo descobrir as origens de um efeito, tanto positivo quanto negativo, ao analisar possíveis causas que levam a esse efeito. No escopo desse projeto, este método foi utilizado para identificar possíveis causas acerca do problema que planejamos resolver com nosso projeto.  
@@ -23,7 +19,7 @@ Desta forma, para categorizar o diagrama, foi feita uma adaptação com os méto
 
 |   ![Imagem](../../assets/diagramaCausaEfeito.png)   |
 |:--------------------------------------------:|
-| Figura 1 : Kanban Board Utilizado no Projeto |
+| Figura 1 : Diagrama Causa-Efeito <br> Fonte: Autoria própria |
 
 Após a confecção e análise do diagrama, podemos fazer as seguintes conclusões sobre cada categoria acerca do problema:
 
@@ -37,10 +33,10 @@ Após a confecção e análise do diagrama, podemos fazer as seguintes conclusõ
 
 ## 4. Referências
 
-- [1] - **Diagrama de Ishikawa (Ferramenta da Qualidade): Teoria + Exemplo Prático** Disponível em: https://youtu.be/U-0qzmFqH-0
+- [1] - **Diagrama de Ishikawa (Ferramenta da Qualidade): Teoria + Exemplo Prático** Disponível em: https://youtu.be/U-0qzmFqH-0. Acesso em: 17/11/2022.
 
 ## 5. Histórico de Versões
 
 | Data | Versão | Descrição | Autor(es) |
 |------|--------|-----------|-----------|
-|17/11/2022      |    1.0    |     Criação do documento e elaboração do diagrama      |    Karla Feliciano       |
+|   17/11/2022   |    1.0    |     Criação do documento e elaboração do diagrama      |    Karla Feliciano       |
