@@ -14,6 +14,7 @@
         - [Diagrama Causa-Efeito](/Base/artefatos-design-sprint/diagramaCausaEfeito.md)
         - [Léxicos](/Base/artefatos-design-sprint/lexicos.md)
         - [Plano De Riscos](/Base/artefatos-design-sprint/PlanoDeRiscos.md)
+        - [5W2H](/Base/5w2h.md)
     - [1.2. Metodologia](/Base/1.2.ProcessosMetodologiasAbordagens.md)
       - [Metodologias Adotadas](/Base/metodologiasAdotadas.md)
       - [Processos Envolvidos](/Base/processos.md)
