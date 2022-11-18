@@ -24,7 +24,7 @@ A versão inicial do mapa mental foi realizada durante uma reunião no dia 16 de
 
 <figcaption>Mapa Mental v.1</figcaption>
 
-![Mapa Mental](../assets/Base/mapa-mental-v1.png)
+![Mapa Mental](../../assets/Base/mapa-mental-v1.png)
 
 <figcaption>Autor: André Alves</figcaption>
 

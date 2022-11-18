@@ -23,7 +23,7 @@ Desta forma, para categorizar o diagrama, foi feita uma adaptação com os méto
 
 |   ![Imagem](../../assets/diagramaCausaEfeito.png)   |
 |:--------------------------------------------:|
-| Figura 1 : Kanban Board Utilizado no Projeto |
+| Figura 1 : Diagrama Causa-Efeito <br> Fonte: Autoria própria |
 
 Após a confecção e análise do diagrama, podemos fazer as seguintes conclusões sobre cada categoria acerca do problema:
 
