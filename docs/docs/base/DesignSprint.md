@@ -55,12 +55,13 @@ De acordo com Robson Camargo, o diagrama Causa e Efeito é um gráfico, onde o o
 <!-- Img do diagrama causa efeito -->
 
 ### Sketch
-
+Tendo como base a etapa anterior, a equipe rascunhou uma possível solução para resolver o problema então escolhido, e então foi produzido o artefato Rich Picture.x
 
 ### Decision
+É uma continuidade da fase skecth, onde as ideias levantadas são filtradas e então é decidido a melhor solução levantada para o problema da fase 1.
 
 ### Prototype
-
+Com a ideia de solução já escolhida, é momento de prototipá-la. É importante que este protótipo seja de média/alta fidelidade para auxiliar na fase de teste, trazendo um feedback mais preciso do cliente e público alvo, o que facilita para fazer os ajustes necessários.
 
 ## Referência
 * 5W2H: o que é, como funciona e por que você deveria usar?. Disponível em: https://fia.com.br/blog/5w2h/. Acesso em: 14 de novembro de 2022.
