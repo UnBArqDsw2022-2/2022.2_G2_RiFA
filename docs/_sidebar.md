@@ -8,7 +8,7 @@
     - [1.1. Baseline de Requisitos](/Base/1.1.AbordagemNaoEspecifica.md)
       - Pré-Rastreabilidade
         - [Estimativa de Custo e Esforços](/Base/pre-rastreabilidade/estimativaCustoTempo.md)
-      - Artefatos Construídos no [Design Sprint](/Base/artefatos-design-sprint/designSprint.md)
+      - Artefatos Construídos no [Design Sprint](/Base/designSprint.md)
         - [Rich Picture](/Base/artefatos-design-sprint/rich-picture.md)
         - [Mapa Mental](/Base/artefatos-design-sprint/mapaMental.md)
         - [Diagrama Causa-Efeito](/Base/artefatos-design-sprint/diagramaCausaEfeito.md)
