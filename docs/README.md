@@ -5,10 +5,10 @@
 
 ## Alunos
 
-| Matrícula  | Aluno                                                                                                                                                                                                        |
-|------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 19/0108011 | <img height="250px" src="../../assets/guilhermeFoto.jpg" width="250px"/><br/> <div style="text-align: center"><a href="https://github.com/dev-brito" style="text-decoration: none">Guilherme Brito</a></div> |
-| xx/xxxxxx  | xxxx xxxx xxxxx                                                                                                                                                                                              |
+| Matrícula  | Aluno                                                                                                                                                                                                  |
+|------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 19/0108011 | <img height="250px" src="assets/guilhermeFoto.jpg" width="250px"/><br/> <div style="text-align: center"><a href="https://github.com/dev-brito" style="text-decoration: none">Guilherme Brito</a></div> |
+| xx/xxxxxx  | xxxx xxxx xxxxx                                                                                                                                                                                        |
 
 ## Sobre
 
