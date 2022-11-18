@@ -14,12 +14,12 @@
         - [Diagrama Causa-Efeito](/Base/artefatos-design-sprint/diagramaCausaEfeito.md)
         - [Léxicos](/Base/artefatos-design-sprint/lexicos.md)
         - [Plano De Riscos](/Base/artefatos-design-sprint/PlanoDeRiscos.md)
+        - [5W2H](/Base/5w2h.md)
     - [1.2. Metodologia](/Base/1.2.ProcessosMetodologiasAbordagens.md)
       - [Metodologias Adotadas](/Base/metodologiasAdotadas.md)
       - [Processos Envolvidos](/Base/processos.md)
     - [1.3. Iniciativas Extras - Base](/Base/1.3.IniciativasExtras.md)
     - [1.4. Participações - Base](/Base/1.4.ParticipacoesBase.md)
-    - [1.5 5W2H](/Base/5w2h.md)
 
 - **Modelagem**
   - [2. Desenho de Software (Modelagem)](/docs/Modelagem/2.Modelagem.md)
