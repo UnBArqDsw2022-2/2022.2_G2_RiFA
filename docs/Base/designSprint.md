@@ -26,7 +26,7 @@ Design sprint é um artefato elaborado durante a Google Ventures que consiste em
 * Dia 2 - Sketch: nesta fase, os integrantes do grupo devem se dividir e produzir um esboço do que entendeu do projeto, o que permite coletar diferentes pontos de vista do que foi debatido na etapa anterior.
 * Dia 3 - Decision: nesse momento, todos os esboços realizados na etapa anterior são unidos para a equipe eleger aquele que melhor se adequa à ideia inicial do projeto e essa escolha irá guiar todo o resto do processo de desenvolvimento da aplicação.
 * Dia 4 - Prototype: com a decisão da ideia já tomada, deve-se então prototipá-la, com o intuito de guiar a equipe de desenvolvimeto e realizar possíveis validações com os clientes, caso já existam. Vale ressaltar que nesta etapa não é necessário produzir o protótipo completo do produto, e sim das ideias decididas na etapa anterior.
-* Dia 5 - Test: nesta etapa, são selecionados alguns clientes do prduto para realizar a validação do protótipo utilizando a técnica que melhor se adequa com o projeto.
+* Dia 5 - Test: nesta etapa, são selecionados alguns clientes do produto para realizar a validação do protótipo utilizando a técnica que melhor se adequa com o projeto.
 
 
 ## Aplicação no projeto
@@ -35,15 +35,15 @@ As discussões realizadas no primeiro dia deram caminho para a elaboração da d
 ### Unpack ou Definição
 Foi realizado um brainstormig, na qual os membros da equipe compartilharam suas ideias, visando explorar as possibilidades de projeto, para então discutir qual seria o mais adequado para a equipe.
 
-Após isso, dividiu-se a equipa para a realização das diversas tarefas que acompanham a design sprint, como [Rich Picture](docs/Base/rich-picture.md), Mapa mental, 5W2H e outros.
+Após isso, dividiu-se a equipa para a realização das diversas tarefas que acompanham a design sprint, como [Rich Picture](/Base/rich-picture.md), Mapa mental, 5W2H e outros.
 
-#### Mapa Mental
+#### [Mapa Mental](/Base/mapaMental.md)
 Técnica que auxilia na organização de ideias, consiste em expandir o tema central do trabalho em palavras-chave que estejam ligadas ao mesmo.
 
-#### 5W2H
+#### [5W2H](/Base/5w2h.md)
 O método é uma ferramenta que parte de sete questões para elaborar um plano de ação alinhados ao projeto, de maneira rápida e eficiente [5W2H, 2020]. 
 
-#### [Diagrama Causa-Efeito](docs/Base/diagramaCausaEfeito.md)
+#### [Diagrama Causa-Efeito](/Base/diagramaCausaEfeito.md)
 De acordo com Robson Camargo, o diagrama Causa e Efeito é um gráfico, onde o objetivo é organizar o raciocício de um problema central e tem como propósito encontrar fatores que possam gerar uma situação indesejada em determinado escopo, seja trabalho, projeto ou organização.
 
 ### Sketch
