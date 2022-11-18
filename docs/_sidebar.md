@@ -14,6 +14,7 @@
     - [Rich Picture](/Base/rich-picture.md)
     - [Mapa Mental](/Base/mapaMental.md)
     - [Diagrama Causa-Efeito](/Base/diagramaCausaEfeito.md)
+    - [Plano De Riscos](/Base/PlanoDeRiscos.md)
     - [1.2. Módulo Processos/Metodologias/Abordagens](/Base/1.2.ProcessosMetodologiasAbordagens.md)
       - [Metodologias Adotadas](/Base/metodologiasAdotadas.md)
       - [Processos Envolvidos](/Base/processos.md)
