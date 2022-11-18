@@ -6,8 +6,6 @@
 - **Base**
   - [1. Desenho de Software (Base)](/Base/1.Base.md)
     - [1.1. Baseline de Requisitos](/Base/1.1.AbordagemNaoEspecifica.md)
-      - Pré-Rastreabilidade
-        - [Estimativa de Custo e Esforços](/Base/pre-rastreabilidade/estimativaCustoTempo.md)
       - Artefatos Construídos no [Design Sprint](/Base/designSprint.md)
         - [Rich Picture](/Base/artefatos-design-sprint/rich-picture.md)
         - [Mapa Mental](/Base/artefatos-design-sprint/mapaMental.md)
@@ -15,6 +13,7 @@
         - [Léxicos](/Base/artefatos-design-sprint/lexicos.md)
         - [Plano De Riscos](/Base/artefatos-design-sprint/PlanoDeRiscos.md)
         - [5W2H](/Base/5w2h.md)
+        - [Estimativa de Custo e Esforços](/Base/pre-rastreabilidade/estimativaCustoTempo.md)
     - [1.2. Metodologia](/Base/1.2.ProcessosMetodologiasAbordagens.md)
       - [Metodologias Adotadas](/Base/metodologiasAdotadas.md)
       - [Processos Envolvidos](/Base/processos.md)
