@@ -7,6 +7,7 @@
   - [1. Desenho de Software (Base)](/Base/1.Base.md)
     - [Rich Picture](/Base/rich-picture.md)
     - [Mapa Mental](/Base/mapaMental.md)
+    - [Diagrama Causa-Efeito](/Base/diagramaCausaEfeito.md)
 
 - **Modelagem**
   - [2. Desenho de Software (Modelagem)](/docs/Modelagem/2.Modelagem.md)
