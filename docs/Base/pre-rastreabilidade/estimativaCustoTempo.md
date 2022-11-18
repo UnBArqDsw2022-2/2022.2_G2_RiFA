@@ -14,11 +14,11 @@ O prazo é um dos fatores mais relevantes na confecção e na estimativa de esfo
 
 Além disso, por estarmos trabalhando dentro do contexto acadêmico, com uma equipe com pouca experiência e sem uma base histórica para nos guiar, com o objetivo de trazer uma estimativa de produtividade mais próxima do real, utilizaremos como base o Plano de Ensino da disciplina que, seguindo as diretrizes da UnB, determina um esforço mínimo de 60 horas por aluno para a disciplina.
 
-Com isso, levando em consideração uma equipe de 11 membros, podemos conlcuir que teremos um esforço mínimo de 660 horas para a elaboração do projeto.
+Com isso, levando em consideração uma equipe de 11 membros, podemos concluir que teremos um esforço mínimo de 660 horas para a elaboração do projeto.
 
 ## Custos
 
-Conforme apontado pelo professor José Murari Bovo, no artigo "A cobrança de mensalidades nas universidades públicas", de acordo com pesquisas feitas entre 2014 e 2015, um estudante de uma universidade federal custa em média R$40.900,00 por ano para esta universidade. Dessa forma, conclui-se que cada estudante custa em média cerca de R$3.400,00 por mês. Sendo assim,  também com o objetivo de manter nossas estimativas as mais fieís possíveis, iremos utilizar esta base como o custo por membro da equipe.
+Conforme apontado pelo professor José Murari Bovo, no artigo "A cobrança de mensalidades nas universidades públicas", de acordo com pesquisas feitas entre 2014 e 2015, um estudante de uma universidade federal custa em média R$40.900,00 por ano para esta universidade. Dessa forma, conclui-se que cada estudante custa em média cerca de R$3.400,00 por mês. Sendo assim,  também com o objetivo de manter nossas estimativas as mais fiéis possíveis, iremos utilizar esta base como o custo por membro da equipe.
 
 Assim, o custo do projeto, considerando 660 horas trabalhadas seria cerca de RS33.700,00
 
