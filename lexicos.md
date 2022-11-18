@@ -28,17 +28,17 @@
 | ----------------- | ---------------------------------------------------------------------------------------------------------------- |
 | **Classificação** | Objeto.                                                                                                          |
 | **Sinônimos**     | Sorteio, concurso de sorte.                                                                                                       |
-| **Noção**         | Concurso em que uma pessoa e beneficiada apos um sorteio.                                                                    |
-| **Impacto**       | O usuario escolhe uma rifa. <br> O usuario compra uma rifa. <br> O usuario pode visualizar suas rifas |
+| **Noção**         | Concurso em que uma pessoa é beneficiada apos um sorteio.                                                                    |
+| **Impacto**       | O usuário escolhe uma rifa. <br> O usuário compra uma rifa. <br> O usuário pode visualizar suas rifas |
 
-### Léxico 02: Numero da sorte
+### Léxico 02: Número da sorte
 
-| **L02**           | Numero da sorte|
+| **L02**           | Número da sorte|
 | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Classificação** | Objeto                                                                   |
-| **Sinônimos**     | Numero selecionado|
-| **Noção**         | Numero escolhido entre um conjunto para concorrer ao concurso|
-| **Impacto**       | O usuario escolhe um numero da sorte para participar da rifa <br> O usuario pode ver os numeros da sorte comprados em cada rifa <br> O usuario pode ver os numeros da sorte sorteados em concursos passados |
+| **Sinônimos**     | Número selecionado|
+| **Noção**         | Número escolhido entre um conjunto para concorrer ao concurso|
+| **Impacto**       | O usuário escolhe um numero da sorte para participar da rifa <br> O usuário pode ver os numeros da sorte comprados em cada rifa <br> O usuário pode ver os numeros da sorte sorteados em concursos passados |
 
 ### Léxico 03: Data do sorteio
 
@@ -46,8 +46,8 @@
 | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Classificação** | Objeto|
 | **Sinônimos**     | Data do resultado|
-| **Noção**         | A data do sorteio indica o dia de finalizacao da rifa|
-| **Impacto**       | A data de sorteio limita ate quando sera possivel comprar numeros <br> Na data de sorteio, sera escolhido um ganhador.|
+| **Noção**         | A data do sorteio indica o dia de finalização da rifa|
+| **Impacto**       | A data de sorteio limita ate quando sera possível comprar números <br> Na data de sorteio, será escolhido um ganhador.|
 
 ### Léxico 04: Ganhador
 
@@ -55,17 +55,17 @@
 | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Classificação** | Objeto|
 | **Sinônimos**     | Vencedor, pessoa sorteada|
-| **Noção**         | O ganhador e a pessoa que comprou o numero que foi sorteado|
+| **Noção**         | O ganhador é a pessoa que comprou o numero que foi sorteado|
 | **Impacto**       | O ganhador leva o premio.|
 
 ### Léxico 05: Premiacao
 
-| **L05**           | Premiacao|
+| **L05**           | Premiação|
 | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Classificação** | Objeto|
-| **Sinônimos**     | Premio|
-| **Noção**         | O premio e o item que o ganhador vai receber|
-| **Impacto**       | O premio sera entregue ao ganhador|
+| **Sinônimos**     | Prêmio|
+| **Noção**         | O prêmio é o item que o ganhador irá receber|
+| **Impacto**       | O prêmio será entregue ao ganhador|
 
 ### Léxico 6: Usuário
 
@@ -74,7 +74,7 @@
 | **Classificação** | Objeto.                                                                               |
 | **Sinônimos**     | Usuário, consumidor, comprador.                                                       |
 | **Noção**         | Pessoa que utiliza a aplicação.                                                       |
-| **Impacto**       | Escolhe rifas. <br> Escolhe numeros da sorte. <br> Realiza pagamentos. <br> Ve resultado das rifas. |
+| **Impacto**       | Escolhe rifas. <br> Escolhe números da sorte. <br> Realiza pagamentos. <br> Ve resultado das rifas. |
 
 ### Léxico 7: Pesquisar
 
