@@ -5,10 +5,29 @@
 
 ## Alunos
 
-| Matrícula  | Aluno                                                                                                                                                                                                       |
-|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 19/0108011 | <img height="250px" src="assets/guilhermeFoto.jpg" width="250px"/><br/> <div style="text-align: center"><a href="https://github.com/dev-brito" style="text-decoration: none">Guilherme Brito</a></div> |
-| 19/0016663  | <img height="250px" src="assets/LucasFoto.jpeg" width="250px"/><br/> <div style="text-align: center"><a href="https://github.com/Lucaspimentel123" style="text-decoration: none">Lucas Pimentel</a></div> |
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/dev-brito"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/98705337?v=4" width="100px;" alt=""/><br /><sub><b>Guilherme Brito - 19/0108011 </b></sub></a><br />
+    <td align="center"><a href="https://github.com/Lucaspimentel123"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/55210074?v=4" width="100px;" alt=""/><br /><sub><b>Lucas Pimentel - 19/0016663 </b></sub></a><br />
+    <td align="center"><a href="https://github.com/jpaulohe4rt"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/50640221?s=400&u=1bca3d83b79b281018087c740d44d428b89c68c7&v=4" width="100px;" alt=""/><br /><sub><b>João Paulo Lima - 19/0030755</b></sub></a><br />
+    <td align="center"><a href="https://github.com/KarlaCSF"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/78981063?v=4" width="100px;" alt=""/><br /><sub><b>
+Karla Feliciano</b></sub></a><br />
+  </tr>
+    <tr>
+    <td align="center"><a href="https://github.com/EuricoAbreu"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/64049043?v=4" width="100px;" alt=""/><br /><sub><b> 
+Eurico Abreu</b></sub></a><br />
+    <td align="center"><a href="https://github.com/jackesfonseca"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/53023400?v=4" width="100px;" alt=""/><br /><sub><b>Jackes da Fonseca</b></sub></a><br />
+    <td align="center"><a href="https://github.com/andremralves"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/71379045?v=4" width="100px;" alt=""/><br /><sub><b>André Alves</b></sub></a><br />
+    <td align="center"><a href="https://github.com/ArthurMeloG"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/66687841?v=4" width="100px;" alt=""/><br /><sub><b>
+Arthur Melo</b></sub></a><br />
+  </tr>
+      <tr>
+    <td align="center"><a href="https://github.com/Foxtrot40"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/24324267?v=4" width="100px;" alt=""/><br /><sub><b>Marcos Cabeceira</b></sub></a><br />
+    <td align="center"><a href="https://github.com/ErickMVdO"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/48844857?v=4" width="100px;" alt=""/><br /><sub><b>Erick Melo</b></sub></a><br />
+    <td align="center"><a href="https://github.com/ArthurMeloG"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/66687841?v=4" width="100px;" alt=""/><br /><sub><b>
+Arthur Melo</b></sub></a><br />
+  </tr>
+</table>
 
 ## Sobre
 
