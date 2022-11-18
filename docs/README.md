@@ -5,10 +5,10 @@
 
 ## Alunos
 
-| Matrícula  | Aluno                                                                                                                                                                                                        |
-|------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Matrícula  | Aluno                                                                                                                                                                                                       |
+|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 19/0108011 | <img height="250px" src="assets/guilhermeFoto.jpg" width="250px"/><br/> <div style="text-align: center"><a href="https://github.com/dev-brito" style="text-decoration: none">Guilherme Brito</a></div> |
-| 19/0016663  | <img height="250px" src="../../assets/LucasFoto.jpeg" width="250px"/><br/> <div style="text-align: center"><a href="https://github.com/Lucaspimentel123" style="text-decoration: none">Lucas Pimentel</a></div> |
+| 19/0016663  | <img height="250px" src="assets/LucasFoto.jpeg" width="250px"/><br/> <div style="text-align: center"><a href="https://github.com/Lucaspimentel123" style="text-decoration: none">Lucas Pimentel</a></div> |
 
 ## Sobre
 
