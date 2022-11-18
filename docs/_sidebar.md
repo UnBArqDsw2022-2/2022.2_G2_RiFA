@@ -19,6 +19,7 @@
       - [Metodologias Adotadas](/Base/metodologiasAdotadas.md)
       - [Processos Envolvidos](/Base/processos.md)
     - [1.3. Iniciativas Extras - Base](/Base/1.3.IniciativasExtras.md)
+      - [Brainstorming](/Base/extra/brainstorming.md)
     - [1.4. Participações - Base](/Base/1.4.ParticipacoesBase.md)
 
 - **Modelagem**
