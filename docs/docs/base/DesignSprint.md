@@ -27,8 +27,8 @@ Design sprint é um artefato elaborado durante a Google Ventures que consiste em
 * Dia 1 - Unpack: é a fase de discução do projeto em que são apresentadas as indeias e soluções desejadas para a problemática, com o intuito de certificar que todos os integrantes estão cientes do que se trata o projeto. Normalmente nesta etapa são produzidos artefatos como Brainstorm e mapa mental.
 * Dia 2 - Sketch: nesta fase, os integrantes do grupo devem se dividir e produzir um esboço do que entendeu do projeto, o que permite coletar diferentes pontos de vista do que foi debatido na etapa anterior.
 * Dia 3 - Decision: nesse momento, todos os esboços realizados na etapa anterior são unidos para a equipe eleger aquele que melhor se adequa à ideia inicial do projeto e essa escolha irá guiar todo o resto do processo de desenvolvimento da aplicação.
-* Dia 4 - Prototype: com a decisão de ideia já tomada, deve-se então prototipá-la, com o intuito de guiar a equipe de desenvolvimeto e realizar possíveis validações com os clientes, caso já existam. Vale ressaltar que nesta etapa não é necessário produzir o protótipo completo do produto, e sim das ideias decididas na etapa anterior.
-* Dia 5 - Test: nesta etapa, são selecionados alguns clientes do prduto para realizar a validação do protótipo utilizando a técnica que melhor se adequa co projeto.
+* Dia 4 - Prototype: com a decisão da ideia já tomada, deve-se então prototipá-la, com o intuito de guiar a equipe de desenvolvimeto e realizar possíveis validações com os clientes, caso já existam. Vale ressaltar que nesta etapa não é necessário produzir o protótipo completo do produto, e sim das ideias decididas na etapa anterior.
+* Dia 5 - Test: nesta etapa, são selecionados alguns clientes do prduto para realizar a validação do protótipo utilizando a técnica que melhor se adequa com o projeto.
 
 
 ## Aplicação no projeto
