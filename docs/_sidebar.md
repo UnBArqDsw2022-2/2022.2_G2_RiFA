@@ -6,6 +6,7 @@
 - **Base**
   - [1. Desenho de Software (Base)](/Base/1.Base.md)
     - [Rich Picture](/Base/rich-picture.md)
+    - [Mapa Mental](/Base/mapaMental.md)
     - [Diagrama Causa-Efeito](/Base/diagramaCausaEfeito.md)
     - [1.2. Módulo Processos/Metodologias/Abordagens](/Base/1.2.ProcessosMetodologiasAbordagens.md)
       - [Metodologias Adotadas](/Base/metodologiasAdotadas.md)
