@@ -8,13 +8,13 @@
     - [1.1. Baseline de Requisitos](/Base/1.1.AbordagemNaoEspecifica.md)
       - Pré-Rastreabilidade
         - [Estimativa de Custo e Esforços](/Base/pre-rastreabilidade/estimativaCustoTempo.md)
-      - Artefatos Construídos na Design Sprint
+      - Artefatos Construídos no [Design Sprint](/Base/artefatos-design-sprint/designSprint.md)
         - [Rich Picture](/Base/artefatos-design-sprint/rich-picture.md)
-        - [Mapa Mental](/Base/mapaMental.md)
-        - [Rich Picture](/Base/rich-picture.md)
-        - [Diagrama Causa-Efeito](/Base/diagramaCausaEfeito.md)[
-        - [Léxicos](/Base/lexicos.md)
-    - [1.2. Módulo Processos/Metodologias/Abordagens](/Base/1.2.ProcessosMetodologiasAbordagens.md)
+        - [Mapa Mental](/Base/artefatos-design-sprint/mapaMental.md)
+        - [Rich Picture](/Base/artefatos-design-sprint/rich-picture.md)
+        - [Diagrama Causa-Efeito](/Base/artefatos-design-sprint/diagramaCausaEfeito.md)
+        - [Léxicos](/Base/artefatos-design-sprint/lexicos.md)
+    - [1.2. Metodologia](/Base/1.2.ProcessosMetodologiasAbordagens.md)
       - [Metodologias Adotadas](/Base/metodologiasAdotadas.md)
       - [Processos Envolvidos](/Base/processos.md)
     - [1.3. Iniciativas Extras - Base](/Base/1.3.IniciativasExtras.md)
