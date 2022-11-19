@@ -1,6 +1,6 @@
 # Rich Picture
 
-## Historico de versão
+## Histórico de versão
 
 |Data|Versão|Descrição|Autor(es)|
 |----|------|---------|---------|
@@ -19,7 +19,7 @@ Desenvolver um Rich Picture é um bom exercício de grupo, pois todos podem acre
 
 ## Resultado
 
-Após uma reunião realizada no dia 12 de novembro de 2022 no discord por todos os integrantes do grupo, foi realizado um brainstorming para que pudessemos definir o tema e sua empregabilidade. Após 1h de reunião, decidimos que seria um sistema eletrônico de rifas já discutindo seus stakeholders, funcionalidade, dentre outros.
+Após uma reunião realizada no dia 12 de novembro de 2022 no discord por todos os integrantes do grupo, foi realizado um brainstorming para que pudéssemos definir o tema e sua empregabilidade. Após 1h de reunião, decidimos que seria um sistema eletrônico de rifas já discutindo seus stakeholders, funcionalidade, dentre outros.
 
 Após a reunião, o integrante Jackes Fonseca durante um momento de insight, decidiu realizar a primeira versão do Rich Picture levando em consideração tudo o que foi abordado por ele e demais integrantes. Assim, foi criado a primeira versão do Rich Picture do sistema eletrônico de rifas.
 

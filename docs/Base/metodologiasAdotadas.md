@@ -1,4 +1,4 @@
-# Metodolia Adotada
+# Metodologia Adotada
 
 ### Participantes do Artefato
 

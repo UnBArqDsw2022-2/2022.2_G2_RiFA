@@ -58,7 +58,7 @@
 | **Noção**         | O ganhador é a pessoa que comprou o numero que foi sorteado|
 | **Impacto**       | O ganhador leva o premio.|
 
-### Léxico 05: Premiacao
+### Léxico 05: Premiação
 
 | **L05**           | Premiação|
 | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -74,7 +74,7 @@
 | **Classificação** | Objeto.                                                                               |
 | **Sinônimos**     | Usuário, consumidor, comprador.                                                       |
 | **Noção**         | Pessoa que utiliza a aplicação.                                                       |
-| **Impacto**       | Escolhe rifas. <br> Escolhe números da sorte. <br> Realiza pagamentos. <br> Ve resultado das rifas. |
+| **Impacto**       | Escolhe rifas. <br> Escolhe números da sorte. <br> Realiza pagamentos. <br> Vê resultado das rifas. |
 
 ### Léxico 7: Pesquisar
 
@@ -91,7 +91,7 @@
 | ----------------- | --------------------------------------------------------------------------------------------- |
 | **Classificação** | Verbo.                                                                                        |
 | **Sinônimos**     | Avisar, informar.                                                                             |
-| **Noção**         | Informa o usuário sobre a situacao de uma rifa.|
+| **Noção**         | Informa o usuário sobre a situação de uma rifa.|
 | **Impacto**       | O usuário fica sabendo de novas rifas. <br> O usuário é notificado do resultado de uma rifa.|
 
 ### Léxico 9: Formas de pagamento
@@ -100,8 +100,8 @@
 | ----------------- | ----------------------------------------------------------------------------------------------- |
 | **Classificação** | Objeto.                                                                                         |
 | **Sinônimos**     | Lista de cartões, cartões salvos.                                                                               |
-| **Noção**         | Cartões ficam salvos no dispositivo do usuario.                                                                  |
-| **Impacto**       | Possibilita pagar selecionando um cartão já cadastrado. <br> O usuário cadastra varios cartões. |
+| **Noção**         | Cartões ficam salvos no dispositivo do usuário.                                                                  |
+| **Impacto**       | Possibilita pagar selecionando um cartão já cadastrado. <br> O usuário cadastra vários cartões. |
 
 ### Léxico 10: Anunciante
 

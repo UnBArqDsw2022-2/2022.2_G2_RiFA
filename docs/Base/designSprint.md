@@ -22,11 +22,11 @@
 Design sprint é um artefato elaborado durante a Google Ventures que consiste em um processo de 5 dias de duração para solucionar problemas relevantes quanto a elicitação, design e prototipação e testes de ideias. É uma excelente abordagem para acelerar uma fase que poderia demorar meses.
 
 
-* Dia 1 - Unpack: é a fase de discução do projeto em que são apresentadas as indeias e soluções desejadas para a problemática, com o intuito de certificar que todos os integrantes estão cientes do que se trata o projeto. Normalmente nesta etapa são produzidos artefatos como Brainstorm e mapa mental.
+* Dia 1 - Unpack: é a fase de discussão  do projeto em que são apresentadas as ideias e soluções desejadas para a problemática, com o intuito de certificar que todos os integrantes estão cientes do que se trata o projeto. Normalmente nesta etapa são produzidos artefatos como Brainstorm e mapa mental.
 * Dia 2 - Sketch: nesta fase, os integrantes do grupo devem se dividir e produzir um esboço do que entendeu do projeto, o que permite coletar diferentes pontos de vista do que foi debatido na etapa anterior.
-* Dia 3 - Decision: nesse momento, todos os esboços realizados na etapa anterior são unidos para a equipe eleger aquele que melhor se adequa à ideia inicial do projeto e essa escolha irá guiar todo o resto do processo de desenvolvimento da aplicação.
-* Dia 4 - Prototype: com a decisão da ideia já tomada, deve-se então prototipá-la, com o intuito de guiar a equipe de desenvolvimeto e realizar possíveis validações com os clientes, caso já existam. Vale ressaltar que nesta etapa não é necessário produzir o protótipo completo do produto, e sim das ideias decididas na etapa anterior.
-* Dia 5 - Test: nesta etapa, são selecionados alguns clientes do produto para realizar a validação do protótipo utilizando a técnica que melhor se adequa com o projeto.
+* Dia 3 - Decision: nesse momento, todos os esboços realizados na etapa anterior são unidos para a equipe eleger aquele que melhor se adéqua à ideia inicial do projeto e essa escolha irá guiar todo o resto do processo de desenvolvimento da aplicação.
+* Dia 4 - Prototype: com a decisão da ideia já tomada, deve-se então prototipá-la, com o intuito de guiar a equipe de desenvolvimento e realizar possíveis validações com os clientes, caso já existam. Vale ressaltar que nesta etapa não é necessário produzir o protótipo completo do produto, e sim das ideias decididas na etapa anterior.
+* Dia 5 - Test: nesta etapa, são selecionados alguns clientes do produto para realizar a validação do protótipo utilizando a técnica que melhor se adéqua com o projeto.
 
 
 ## Aplicação no projeto
@@ -44,7 +44,7 @@ Técnica que auxilia na organização de ideias, consiste em expandir o tema cen
 O método é uma ferramenta que parte de sete questões para elaborar um plano de ação alinhados ao projeto, de maneira rápida e eficiente [5W2H, 2020]. 
 
 #### [Diagrama Causa-Efeito](/Base/diagramaCausaEfeito.md)
-De acordo com Robson Camargo, o diagrama Causa e Efeito é um gráfico, onde o objetivo é organizar o raciocício de um problema central e tem como propósito encontrar fatores que possam gerar uma situação indesejada em determinado escopo, seja trabalho, projeto ou organização.
+De acordo com Robson Camargo, o diagrama Causa e Efeito é um gráfico, onde o objetivo é organizar o raciocínio de um problema central e tem como propósito encontrar fatores que possam gerar uma situação indesejada em determinado escopo, seja trabalho, projeto ou organização.
 
 ### Sketch
 Tendo como base a etapa anterior, a equipe rascunhou uma possível solução para resolver o problema então escolhido, e então foi produzido o artefato Rich Picture.x
