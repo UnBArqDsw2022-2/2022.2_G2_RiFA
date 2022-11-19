@@ -35,15 +35,15 @@ As discussões realizadas no primeiro dia deram caminho para a elaboração da d
 ### Unpack ou Definição
 Foi realizado um brainstormig, na qual os membros da equipe compartilharam suas ideias, visando explorar as possibilidades de projeto, para então discutir qual seria o mais adequado para a equipe.
 
-Após isso, dividiu-se a equipa para a realização das diversas tarefas que acompanham a design sprint, como [Rich Picture](/Base/rich-picture.md), Mapa mental, 5W2H e outros.
+Após isso, dividiu-se a equipa para a realização das diversas tarefas que acompanham a design sprint, como [Rich Picture](/Base/artefatos-design-sprint/rich-picture.md), Mapa mental, 5W2H e outros.
 
-#### [Mapa Mental](/Base/mapaMental.md)
+#### [Mapa Mental](/Base/artefatos-design-sprint/mapaMental.md)
 Técnica que auxilia na organização de ideias, consiste em expandir o tema central do trabalho em palavras-chave que estejam ligadas ao mesmo.
 
-#### [5W2H](/Base/5w2h.md)
+#### [5W2H](/Base/artefatos-design-sprint/5w2h.md)
 O método é uma ferramenta que parte de sete questões para elaborar um plano de ação alinhados ao projeto, de maneira rápida e eficiente [5W2H, 2020]. 
 
-#### [Diagrama Causa-Efeito](/Base/diagramaCausaEfeito.md)
+#### [Diagrama Causa-Efeito](/Base/artefatos-design-sprint/diagramaCausaEfeito.md)
 De acordo com Robson Camargo, o diagrama Causa e Efeito é um gráfico, onde o objetivo é organizar o raciocínio de um problema central e tem como propósito encontrar fatores que possam gerar uma situação indesejada em determinado escopo, seja trabalho, projeto ou organização.
 
 ### Sketch
