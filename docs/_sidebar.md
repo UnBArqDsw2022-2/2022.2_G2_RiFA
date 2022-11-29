@@ -11,7 +11,7 @@
         - Pré-Rastreabilidade
           - [Rich Picture](/Base/artefatos-design-sprint/rich-picture.md)
           - [Mapa Mental](/Base/artefatos-design-sprint/mapaMental.md)
-          - [5W2H](/Base/5w2h.md)
+          - [5W2H](/Base/artefatos-design-sprint/5w2h.md)
         - Elicitação
         - Priorização
         - Modelagem
