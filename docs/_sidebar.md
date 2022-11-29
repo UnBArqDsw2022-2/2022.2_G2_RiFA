@@ -4,17 +4,24 @@
 - [Diretrizes](/Diretrizes/Diretrizes.md)
 
 - **Base**
-  - [1. Desenho de Software (Base)](/Base/1.Base.md)
-    - [1.1. Baseline de Requisitos](/Base/1.1.AbordagemNaoEspecifica.md)
-      - Artefatos Construídos no [Design Sprint](/Base/designSprint.md)
-        - [Rich Picture](/Base/artefatos-design-sprint/rich-picture.md)
-        - [Mapa Mental](/Base/artefatos-design-sprint/mapaMental.md)
-        - [Diagrama Causa-Efeito](/Base/artefatos-design-sprint/diagramaCausaEfeito.md)
-        - [Léxicos](/Base/artefatos-design-sprint/lexicos.md)
-        - [Plano De Riscos](/Base/artefatos-design-sprint/PlanoDeRiscos.md)
+  - 1.Desenho de Software(Base)
+    - 1.1. Baseline de Requisitos
+      - [1.1.1  Design Sprint](/Base/designSprint.md)
+      - 1.1.2 Requisitos
+        - Pré-Rastreabilidade
+          - [Rich Picture](/Base/artefatos-design-sprint/rich-picture.md)
+          - [Mapa Mental](/Base/artefatos-design-sprint/mapaMental.md)
+          - [5W2H](/Base/artefatos-design-sprint/5w2h.md)
+        - Elicitação
+        - Priorização
+        - Modelagem
+          - [Léxicos](/Base/artefatos-design-sprint/lexicos.md)
+          - [Diagrama Causa-Efeito](/Base/artefatos-design-sprint/diagramaCausaEfeito.md)
+          - [Plano De Riscos](/Base/artefatos-design-sprint/PlanoDeRiscos.md)
+          - [Estimativa de Custo e Esforços](/Base/pre-rastreabilidade/estimativaCustoTempo.md)
+      - 1.1.3 Prototipação
         - [Protótipo de Média Fidelidade](/Base/artefatos-design-sprint/prototipo.md)
-        - [5W2H](/Base/artefatos-design-sprint/5w2h.md)
-        - [Estimativa de Custo e Esforços](/Base/pre-rastreabilidade/estimativaCustoTempo.md)
+        
     - [1.2. Metodologia](/Base/1.2.ProcessosMetodologiasAbordagens.md)
       - [Metodologias Adotadas](/Base/metodologiasAdotadas.md)
       - [Processos Envolvidos](/Base/processos.md)
