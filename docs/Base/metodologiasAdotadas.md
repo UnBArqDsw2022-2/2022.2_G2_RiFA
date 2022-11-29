@@ -1,4 +1,4 @@
-# Metodolia Adotada
+# Metodologia Adotada
 
 ### Participantes do Artefato
 
@@ -30,7 +30,7 @@ visualizações tomando Issues como Base.
 
 O quadro foi construído tomando as colunas mais comuns utilizadas como base e pode ser visualizado na figura abaixo.
 
-|   ![Imagem](../../assets/kanban-board.png)   |
+|    ![Imagem](../assets/kanban-board.png)     |
 |:--------------------------------------------:|
 | Figura 1 : Kanban Board Utilizado no Projeto |
 

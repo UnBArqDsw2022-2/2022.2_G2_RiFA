@@ -8,13 +8,13 @@
 
 ## Introdução
 
-O Plano de Gerenciamento de Riscos tem como principal intuito administrar os riscos do projeto em questão com a finalidade de aumentar a probalidade dos eventos positivos, reduzir a probabilidade e o impacto dos eventos negativos do projeto.
+O Plano de Gerenciamento de Riscos tem como principal intuito administrar os riscos do projeto em questão com a finalidade de aumentar a probabilidade dos eventos positivos, reduzir a probabilidade e o impacto dos eventos negativos do projeto.
 
 ## Planejar o gerenciamento dos riscos
 
 Planejar o gerenciamento dos riscos é o processo de definição de como conduzir as atividades de gerenciamento dos riscos de um projeto. O principal benefício deste processo é que ele garante que o grau, tipo, e visibilidade do gerenciamento dos riscos sejam proporcionais tanto aos riscos quanto à importância do projeto para a organização.
 
-Para a definição de como irá sera administrado as atividades de gerenciamento de riscos. O principio essencial do processo é que ele garante que o grau, tipo, e visibilidade do gerenciamento dos riscos sejam proporcionais tanto aos riscos quanto à importância do projeto para a organização.
+Para a definição de como irá sera administrado as atividades de gerenciamento de riscos. O princípio essencial do processo é que ele garante que o grau, tipo, e visibilidade do gerenciamento dos riscos sejam proporcionais tanto aos riscos quanto à importância do projeto para a organização.
 
 ## Realizar a análise dos riscos
 
@@ -74,9 +74,9 @@ Verificação de possíveis acontecimentos que possam alterar os prazos ou taref
 
 É uma estrutura de gerência de riscos usado para avaliação competitiva planejamento estratégico. Essa análise, busca projetar uma visão realista baseada em fatos e orientada por dados dos pontos fortes e fracos de uma organização.
 
-| Força         | Comprometimento da equipe, experiências prévias dentros dos frameworks escolhidos, comunicação eficaz entre membros, gestão de tempo. |
+| Força         | Comprometimento da equipe, experiências prévias dentro dos frameworks escolhidos, comunicação eficaz entre membros, gestão de tempo. |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| Fraquezas     | Falta de conhecimento, atraso de entregas individais.                                                                                 |
+| Fraquezas     | Falta de conhecimento, atraso de entregas individuais.                                                                                 |
 | Oportunidades | Capacitação em novas frameworks/linguagens, aquisição de conhecimentos no desenvolvimento do escopo do projeto, gestão de equipes.    |
 | Ameaças       | Afastamento médico e Greves da faculdade.                                                                                             |
 

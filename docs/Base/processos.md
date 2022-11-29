@@ -33,7 +33,7 @@ presentes na tabela a seguir.
 |                              Elemento                               |                                                 Indicação                                                  |
 |:-------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------:|
 | ![Elemento de Início de Processo](../assets/bolaInicioProcesso.png) |                                       Indica o início de um processo                                       |
-|             ![Retãngulo de Tarefas](../assets/task.png)             |                              Indica uma tarefa a ser executada por algum ator                              |
+|             ![Retângulo de Tarefas](../assets/task.png)             |                              Indica uma tarefa a ser executada por algum ator                              |
 |         ![Provedor de Dados](../assets/provedorDeDados.png)         |                                 Indica um Provedor de Dados (Educacional)                                  |
 |      ![Arquivo Educacional](../assets/arquivoEducacional.png)       |                       Indica um arquivo consultável presente em ambiente educacional                       |
 |                ![Gateway](../assets/gatewayAsk.png)                 |     Indica que alguma pergunta será feita, e dependendo da resposta, um caminho diferente será seguido     |

@@ -22,13 +22,13 @@ Logo, por este se tratar de um projeto acadêmico optamos por realizar nossas es
 
 Com o objetivo de trazer uma estimativa de produtividade mais próxima do real, utilizaremos como base o Plano de Ensino da disciplina que, seguindo as diretrizes da UnB, determina um esforço mínimo de 60 horas por aluno para a disciplina.
 
-Com isso, levando em consideração uma equipe de 11 membros, podemos conlcuir que teremos um esforço mínimo de 660 horas para a elaboração do projeto.
+Com isso, levando em consideração uma equipe de 11 membros, podemos concluir que teremos um esforço mínimo de 660 horas para a elaboração do projeto.
 
 ### Custos
 
 #### Mão de Obra
 
-Conforme apontado pelo professor José Murari Bovo, no artigo "A cobrança de mensalidades nas universidades públicas", de acordo com pesquisas feitas entre 2014 e 2015, um estudante de uma universidade federal custa em média R$40.900,00 por ano para esta universidade. Dessa forma, conclui-se que cada estudante custa em média cerca de R$3.400,00 por mês. Sendo assim,  também com o objetivo de manter nossas estimativas as mais fieís possíveis, iremos utilizar esta base como o custo por membro da equipe.
+Conforme apontado pelo professor José Murari Bovo, no artigo "A cobrança de mensalidades nas universidades públicas", de acordo com pesquisas feitas entre 2014 e 2015, um estudante de uma universidade federal custa em média R$40.900,00 por ano para esta universidade. Dessa forma, conclui-se que cada estudante custa em média cerca de R$3.400,00 por mês. Sendo assim,  também com o objetivo de manter nossas estimativas as mais fiéis possíveis, iremos utilizar esta base como o custo por membro da equipe.
 
 Assim, o custo de mão de obra do projeto, considerando 660 horas trabalhadas seria cerca de R$33.700,00
 

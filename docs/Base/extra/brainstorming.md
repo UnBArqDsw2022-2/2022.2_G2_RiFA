@@ -22,7 +22,7 @@ sobre o software para a confecção de outros artefatos, como o Mapa Mental, o R
 ## 2. Metodologia
 
 Nós utilizamos o Teams para a gravação da reunião de aproximadamente 25 minutos. Durante esse tempo, cada participante levantou ideias para 
-serem debatidas, questionadas e entendidas, enquanto o aluno André Alves às anotava em uma estrutura semelhante à um mapa mental. 
+serem debatidas, questionadas e entendidas, enquanto o aluno André Alves as anotava em uma estrutura semelhante a um mapa mental. 
 Ao final, os objetivos do projeto ficaram bem mais claros para a equipe e o entendimento melhorou bastante.
 
 ## 3. Gravação

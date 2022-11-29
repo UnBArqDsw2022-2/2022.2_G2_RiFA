@@ -1,6 +1,6 @@
 # Mapa Mental
 
-## Historico de versão
+## Histórico de versão
 
 |Data|Versão|Descrição|Autor(es)|
 |----|------|---------|---------|
