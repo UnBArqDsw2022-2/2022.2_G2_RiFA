@@ -33,9 +33,71 @@ Para a elaboração do Perfil de Usuário optamos pelo uso de questionários onl
 - A grande maioria de nossos usuários estão na faixa etária entre 18 e 28 anos.
 - Cerca de 32% dos usuários que responderam possuem renda mensal familiar entre 10 e 20 salários mínimos.
 - 72% do grupo de resposta já adquiriu uma rifa.
-- Mais de 50% dos usuários utiliza o instagram para comprar ou vender rifas, ou seja, possuem experiência com tecnoçogias e redes sociais.
+- Mais de 75% dos usuários utiliza o instagram e whatsapp para comprar ou vender rifas, ou seja, possuem experiência com tecnoçogias e redes sociais.
 
+## 4. Personas
 
+Partindo das características coletadas pelo Perfil de Usuário, as personas criadas pela equipe foram: 
+
+### 4.1 Persona 1
+
+<center>
+
+![Imagem](../assets/personas/persona1_e-rifas.jpg)
+
+Persona 1: Manuela Campos  -> Fonte: [thispersondoesnotexist.com](https://thispersondoesnotexist.com/)
+
+</center>
+
+- Idade: 20 anos.
+- Escolaridade: Ensino médio completo.
+- Profissão: Influenciadora digital.
+- Status: Primária.
+- Habilidade: Se sente muito confortável utilizando novas tecnologias. 
+- Objetivo: Deseja acessar uma plataforma simplificada para fazer rifas para seus seguidores e aumentar o engajamento em suas redes sociais.
+- Tarefas: Abrir e fechar rifas
+
+Manuela é uma jovem de 20 anos que, ainda no ensimo médio, decidiu seguir seu sonho e se tornou uma influenciadora digital. Para isso, optou por não entrar na faculdade e se concentrar em aumentar seus seguidores nas redes sociais. Dessa forma, uma das meneiras que ela encontrou para chamar a atenção das pessoas é fazendo rifas online. Porém, Manuela acha muito complicado realizar essas rifas pelo instagram ou outras redes sociais e gostaria de acessar uma plataforma especializada para fazer seus sorteios.
+
+## 4.2 Persona 2
+
+<center>
+
+![Imagem](../assets/personas/persona2_e-rifas.jpg)
+
+Persona 2: Daniel Ribeiro   -> Fonte: [thispersondoesnotexist.com](https://thispersondoesnotexist.com/)
+
+</center>
+
+- Idade: 25 anos.
+- Escolaridade: Ensino superior completo.
+- Profissão: Designer.
+- Status: Primária.
+- Habilidade: Se sente muito confortável utilizando novas tecnologias. 
+- Objetivo: Deseja acessar uma plataforma em que possa buscar rifas para participar.
+- Tarefas: Buscar, filtrar e comprar rifas.
+
+Daniel tem 25 anos, se formou em comunicação social e atualmente trabalha como designer de uma empresa. Recentemente Daniel se mudou da casa dos seus pais e está precisando economizar com as compras para manter sua nova vida morando sozinho. Sendo assim, uma das alternativas que Daniel encontrou foi participar de rifas para tentar obter produtos por valores mais em conta e já teve sorte algumas vezes.
+
+## 4.2 Persona 2
+
+<center>
+
+![Imagem](../assets/personas/persona3_e-rifas.jpg)
+
+Persona 3: Kleber Moraes   -> Fonte: [thispersondoesnotexist.com](https://thispersondoesnotexist.com/)
+
+</center>
+
+- Idade: 28 anos.
+- Escolaridade: Ensino superior completo.
+- Profissão: Empresário.
+- Status: Primária.
+- Habilidade: Utiliza o computador para trabalho todos os dias. 
+- Objetivo: Deseja acessar uma plataforma para divulgar e vender rifas.
+- Tarefas: Abrir e fechar rifas.
+
+Kleber é um empresário de 28 anos, e recentemente se casou. Com o objetivo juntar dinheiro para sua viagem de lua de mel, Kleber decidiu abrir rifas para vender alguns equipamentos eletrônicos que possuia e não utilizava mais. Porém, por ter um baixo número de seguidores nas redes sociais, não conseguiu que muitas pessoas comprassem suas rifas ao anunciar em seu instagram e whatsapp, então decidiu ir atrás de uma plataforma especializada para divulgar estas rifas.
 
 ## Referências
 - BARBOSA, Simone; SILVA, Bruno. Interação Humano Computador. Rio de Janeiro. Elsevier Editora Ltda. 2010
@@ -43,7 +105,8 @@ Para a elaboração do Perfil de Usuário optamos pelo uso de questionários onl
 
 ## Histórico de Versões
 
-| Data   | Versão | Descrição            | Autor(es)       |
-|--------|--------|----------------------|-----------------|
-| 29-Nov | 0.1    | Construção da Página | Lucas Pimentel |
-| 01-Dec | 0.2    | Adiciona perfil de usuário | Lucas Pimentel |
+| Data   | Versão | Descrição            | Autor(es)       | Revisor(es)|
+|--------|--------|----------------------|-----------------|-------------|
+| 29-Nov | 0.1    | Construção da Página | Lucas Pimentel | - |
+| 01-Dec | 0.2    | Adiciona perfil de usuário | Lucas Pimentel |- |
+| 01-Dec | 0.3    | Adiciona personas | Lucas Pimentel |- |
