@@ -1,0 +1,17 @@
+# Diagrama de Comunicação
+
+## 1. Introdução
+
+## 2. Metodologia
+
+## 3. Diagramas de Comunicação
+
+### 3.1 Interação do Comprador
+
+![comunicaçãoCliente](/../../assets/modelagem/diagComunicacaoCliente.jpeg)
+
+## 5. Histórico de Versões
+
+| Data       | Versão | Descrição                               | Autor(es)       |
+| ---------- | ------ | --------------------------------------- | --------------- |
+| 01/12/2022 | 1.0    | Diagrama de comunicação do cliente - v1 | Karla Feliciano |
