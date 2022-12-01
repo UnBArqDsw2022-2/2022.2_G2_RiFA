@@ -46,3 +46,4 @@ Para a elaboração do Perfil de Usuário optamos pelo uso de questionários onl
 | Data   | Versão | Descrição            | Autor(es)       |
 |--------|--------|----------------------|-----------------|
 | 29-Nov | 0.1    | Construção da Página | Lucas Pimentel |
+| 01-Dec | 0.2    | Adiciona perfil de usuário | Lucas Pimentel |
