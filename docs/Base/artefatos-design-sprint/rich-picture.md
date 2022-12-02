@@ -2,10 +2,10 @@
 
 ## Histórico de versão
 
-|Data|Versão|Descrição|Autor(es)|
-|----|------|---------|---------|
-|16/11/2022| 1.0 |Criação do documento| Jackes Fonseca|
-|16/11/2022| 2.0 |Adição dos resultados do rich picture| Jackes Fonseca|
+| Data       | Versão | Descrição                             | Autor(es)      |
+| ---------- | ------ | ------------------------------------- | -------------- |
+| 16/11/2022 | 1.0    | Criação do documento                  | Jackes Fonseca |
+| 16/11/2022 | 2.0    | Adição dos resultados do rich picture | Jackes Fonseca |
 
 ## Metodologia
 
@@ -28,7 +28,6 @@ Após a reunião, o integrante Jackes Fonseca durante um momento de insight, dec
 ![Scanner_20221117 (2)](https://user-images.githubusercontent.com/53023400/202565777-f483b5f7-3e88-4730-a158-6e8d93b31bf5.jpg)
 
 <figcaption>Autor: Jackes Fonseca</figcaption>
-
 
 ## Referências
 
