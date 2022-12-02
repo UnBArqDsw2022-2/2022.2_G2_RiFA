@@ -109,7 +109,7 @@ Kleber é um empresário de 28 anos, e recentemente se casou. Com o objetivo jun
 
 | Data   | Versão | Descrição            | Autor(es)       | Revisor(es)|
 |--------|--------|----------------------|-----------------|-------------|
-| 29-Nov | 0.1    | Construção da Página | Lucas Pimentel | - |
-| 01-Dec | 0.2    | Adiciona perfil de usuário | Lucas Pimentel |- |
-| 01-Dec | 0.3    | Adiciona personas | Lucas Pimentel | - |
+| 29-Nov | 0.1    | Construção da Página | Lucas Pimentel | Eurico Abreu |
+| 01-Dec | 0.2    | Adiciona perfil de usuário | Lucas Pimentel | Eurico Abreu |
+| 01-Dec | 0.3    | Adiciona personas | Lucas Pimentel | Eurico Abreu |
 | 01-Dec | 0.4    | Correções ortográficas e boas práticas em markdown | Eurico Abreu | - |
