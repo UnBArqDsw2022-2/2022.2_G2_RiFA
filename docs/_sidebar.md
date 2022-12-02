@@ -13,6 +13,7 @@
           - [Mapa Mental](/Base/artefatos-design-sprint/mapaMental.md)
           - [5W2H](/Base/artefatos-design-sprint/5w2h.md)
         - Elicitação
+          - [Personas](/Base/personas-perfilUsuario.md)
           - [Brainstorm](/Base/tecnicasElicitacao/brainstorm.md)
         - Priorização
         - Modelagem
