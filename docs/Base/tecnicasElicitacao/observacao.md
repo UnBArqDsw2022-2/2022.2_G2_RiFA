@@ -14,7 +14,7 @@
 
 <center>
 
-![Imagem](../assets/observacao1.png)
+![Imagem](/docs/assets/observacao1.png)
 
 Exemplo 1 retirado do Discord
 
@@ -22,7 +22,7 @@ Exemplo 1 retirado do Discord
 
 <center>
 
-![Imagem](../assets/observacao2.png)
+![Imagem](/docs/assets/observacao2.png)
 
 Exemplo 2 retirado do Discord
 
@@ -30,7 +30,7 @@ Exemplo 2 retirado do Discord
 
 <center>
 
-![Imagem](../assets/observacao3.png)
+![Imagem](/docs/assets/observacao3.png)
 
 Exemplo 3 retirado do Discord
 
