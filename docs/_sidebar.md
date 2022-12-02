@@ -14,6 +14,7 @@
           - [5W2H](/Base/artefatos-design-sprint/5w2h.md)
         - Elicitação
           - [Personas](/Base/personas-perfilUsuario.md)
+          - [Brainstorming](/Base/tecnicasElicitacao/brainstorm.md)
         - Priorização
         - Modelagem
           - [Léxicos](/Base/artefatos-design-sprint/lexicos.md)
