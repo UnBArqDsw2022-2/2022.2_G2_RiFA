@@ -2,9 +2,10 @@
 
 ## Histórico de Versão
 
-| Data       | Versão | Descrição             | Autor(es)                |
-| ---------- | ------ | --------------------- | ------------------------ |
-| 18/11/2022 | 1.0    | Criação do documento. | Erick Melo               |
+| Data       | Versão | Descrição                | Autor(es)       |
+| ---------- | ------ | ------------------------ | --------------- |
+| 18/11/2022 | 1.0    | Criação do documento.    | Erick Melo      |
+| 02/12/2022 | 1.1    | Formatação do documento. | João Paulo Lima |
 
 ## 1. Introdução
 
@@ -72,7 +73,6 @@ A metodologia utilizada para a produção deste artefato foi durante um dos dias
     <small>Fonte: Autor</small>
   </figcaption>
 </p></center></br>
-
 
 ## 5. Conclusão
 

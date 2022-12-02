@@ -10,13 +10,11 @@ A partir deste documento faremos as análises das estimativas de esforço e cust
 
 ## Metodologia
 
-Para este artefato existem diversas metodologias que podem ser aplicadas, como por exemplo: Estimativa por pontos de função, Estimativa Price for the Win, o método COMOCO e outras. Porém, por este se tratar de um projeto em que os desenvolvedores possuem um baixo nível de experiência, decidimos fazer esta estimativa de outra maneira. Tendo como base que **Esforço** é uma das métricas fundamentais para as estimativas e que é diretamente relacionado com a **Produtividade** e o **Tamanho do projeto**, para realizar esta estimativa do esforço antes teriamos que medir a produtividade da equipe e o tamanho do projeto.
+Para este artefato existem diversas metodologias que podem ser aplicadas, como por exemplo: Estimativa por pontos de função, Estimativa Price for the Win, o método COMOCO e outras. Porém, por este se tratar de um projeto em que os desenvolvedores possuem um baixo nível de experiência, decidimos fazer esta estimativa de outra maneira. Tendo como base que **Esforço** é uma das métricas fundamentais para as estimativas e que é diretamente relacionado com a **Produtividade** e o **Tamanho do projeto**, para realizar esta estimativa do esforço antes teríamos que medir a produtividade da equipe e o tamanho do projeto.
 
-Dessa forma, a produtividade de um time normalmente é medida tendo como base dados históricos daquela equipe, o que depende diretamente da experiência prévia dos membros dessa equipe. Aliado a isso, a opinião dos desenvolvedores também possui um grande peso  para a medida do tamanho do projeto.
+Dessa forma, a produtividade de um time normalmente é medida tendo como base dados históricos daquela equipe, o que depende diretamente da experiência prévia dos membros dessa equipe. Aliado a isso, a opinião dos desenvolvedores também possui um grande peso para a medida do tamanho do projeto.
 
 Logo, por este se tratar de um projeto acadêmico optamos por realizar nossas estimativas da seguinte forma:
-
-
 
 ### Esforço
 
@@ -28,13 +26,13 @@ Com isso, levando em consideração uma equipe de 11 membros, podemos concluir q
 
 #### Mão de Obra
 
-Conforme apontado pelo professor José Murari Bovo, no artigo "A cobrança de mensalidades nas universidades públicas", de acordo com pesquisas feitas entre 2014 e 2015, um estudante de uma universidade federal custa em média R$40.900,00 por ano para esta universidade. Dessa forma, conclui-se que cada estudante custa em média cerca de R$3.400,00 por mês. Sendo assim,  também com o objetivo de manter nossas estimativas as mais fiéis possíveis, iremos utilizar esta base como o custo por membro da equipe.
+Conforme apontado pelo professor José Murari Bovo, no artigo "A cobrança de mensalidades nas universidades públicas", de acordo com pesquisas feitas entre 2014 e 2015, um estudante de uma universidade federal custa em média R$40.900,00 por ano para esta universidade. Dessa forma, conclui-se que cada estudante custa em média cerca de R$3.400,00 por mês. Sendo assim, também com o objetivo de manter nossas estimativas as mais fiéis possíveis, iremos utilizar esta base como o custo por membro da equipe.
 
 Assim, o custo de mão de obra do projeto, considerando 660 horas trabalhadas seria cerca de R$33.700,00
 
 ### Armazenamento na Nuvem
 
-Pensando na possibilidade de um banco de dados ativo e crescente para o projeto, seria de grande interesse hospedar este banco em algum servidor da nuvem. Sendo assim, considerando o serviço de hospedagem da amazon teriamos um custo adicional de cerca de R$6.500,00 para armazenar até 50TB por mês.
+Pensando na possibilidade de um banco de dados ativo e crescente para o projeto, seria de grande interesse hospedar este banco em algum servidor da nuvem. Sendo assim, considerando o serviço de hospedagem da amazon teríamos um custo adicional de cerca de R$6.500,00 para armazenar até 50TB por mês.
 
 ### Custo total
 
@@ -49,7 +47,8 @@ Somando os custos, teriamos um total de R$40.200
 
 ## Histórico de Versões
 
-| Data | Versão | Descrição | Autor(es) |
-|------|--------|-----------|-----------|
-|   16/11   |   1.0     |      Criação do documento     |     Lucas Pimentel      |
-|   16/11   |   2.0     |    Maior detalhamento da metodologia e custos  |     Lucas Pimentel      |
+| Data  | Versão | Descrição                                    | Autor(es)      |
+| ----- | ------ | -------------------------------------------- | -------------- |
+| 16/11 | 1.0    | Criação do documento                         | Lucas Pimentel |
+| 16/11 | 2.0    | Maior detalhamento da metodologia e custos   | Lucas Pimentel |
+| 17/12 | 2.1    | Correção ortográfica e formatação do arquivo | João Paulo     |
