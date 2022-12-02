@@ -16,6 +16,7 @@
           - [Personas](/Base/personas-perfilUsuario.md)
           - [Brainstorming](/Base/tecnicasElicitacao/brainstorm.md)
         - Priorização
+          - [MoSCoW](Base/tenicasPriorizacao/moscow.md)
         - Modelagem
           - [Léxicos](/Base/artefatos-design-sprint/lexicos.md)
           - [Diagrama Causa-Efeito](/Base/artefatos-design-sprint/diagramaCausaEfeito.md)
