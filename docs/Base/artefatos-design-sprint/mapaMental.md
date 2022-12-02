@@ -2,10 +2,11 @@
 
 ## Histórico de versão
 
-|Data|Versão|Descrição|Autor(es)|
-|----|------|---------|---------|
-|16/11/2022| 1.0 |Criação da versão 1 do mapa mental | André Alves |
-|17/11/2022| 1.1 | Criação do documento e adição do mapa mental | André Alves |
+| Data       | Versão | Descrição                                      | Autor(es)       |
+| ---------- | ------ | ---------------------------------------------- | --------------- |
+| 16/11/2022 | 1.0    | Criação da versão 1 do mapa mental             | André Alves     |
+| 17/11/2022 | 1.1    | Criação do documento e adição do mapa mental   | André Alves     |
+| 02/12/2022 | 1.2    | Formatação do documento e correção ortográfica | João Paulo Lima |
 
 ## Metodologia
 
@@ -27,7 +28,6 @@ A versão inicial do mapa mental foi realizada durante uma reunião no dia 16 de
 ![Mapa Mental](../../assets/Base/mapa-mental-v1.png)
 
 <figcaption>Autor: André Alves</figcaption>
-
 
 ## Referências
 
