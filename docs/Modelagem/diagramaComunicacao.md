@@ -10,7 +10,7 @@ Os objetos são representados por retângulo com conectores entre eles que corre
 
 ## 2. Metodologia
 
-Os diagramas foram elaborados com base em duas visões, do comprador e do gestor de rifas, enfatizando suas principais interações com sistema e a sequencia que são realizadas. As informações foram abstraidas dos requisitos elicitados em conjunto pela equipe no processo de brainstorm.
+Os diagramas foram elaborados com base em duas visões, do comprador e do vendedor, enfatizando suas principais interações com sistema e a sequencia que são realizadas. As informações foram abstraídas dos requisitos elicitados em conjunto pela equipe no processo de brainstorm.
 
 A ferramenta utilizada foi o [Lucidchart](https://www.lucidchart.com), que oferece suporte à modelagem de diagramas UML.
 
@@ -20,9 +20,9 @@ A ferramenta utilizada foi o [Lucidchart](https://www.lucidchart.com), que ofere
 
 ![comunicaçãoCliente](/../../assets/diagComunicacaoCliente.jpeg)
 
-### 3.2 Interação do Gestor de Rifas
+### 3.2 Interação do Vendedor
 
-![comunicaçãoGestor](/../../assets/diagComunicacaoGestor.jpeg)
+![comunicaçãoVendedor](/../../assets/diagComunicacaoVendedor.jpeg)
 
 ## 4. Referências
 
@@ -32,8 +32,9 @@ A ferramenta utilizada foi o [Lucidchart](https://www.lucidchart.com), que ofere
 
 ## 5. Histórico de Versões
 
-| Data       | Versão | Descrição                               | Autor(es)       |
-| ---------- | ------ | --------------------------------------- | --------------- |
-| 30/11/2022 | 1.0    | Diagrama de comunicação do cliente - v1 | Karla Feliciano |
-| 01/12/2022 | 1.1    | Diagrama de comunicação do gestor - v1  | Karla Feliciano |
-| 03/12/2022 | 2.0    | Adição da documentação                  | Karla Feliciano |
+| Data       | Versão | Descrição                                       | Autor(es)       |
+| ---------- | ------ | ----------------------------------------------- | --------------- |
+| 30/11/2022 | 1.0    | Diagrama de comunicação do cliente              | Karla Feliciano |
+| 01/12/2022 | 1.1    | Diagrama de comunicação do gestor               | Karla Feliciano |
+| 03/12/2022 | 2.0    | Adição da documentação                          | Karla Feliciano |
+| 03/12/2022 | 2.1    | Correção do nome do perfil gestor para vendedor | Karla Feliciano |
