@@ -72,6 +72,9 @@ Figura 3 -> Fonte: https://rifatech.com/
 
 ## Referências
 
+- AURUM, Aybuke; WOHLIN, Claes. Engineering and Managing Software Requirements. Springer, 2005
+
+
 ## Histórico de Versão
 
 | Data   | Versão | Descrição                 | Autor(es)    | Revisor(es) |
