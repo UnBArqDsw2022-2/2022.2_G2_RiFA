@@ -31,7 +31,7 @@ visualizações tomando Issues como Base.
 O quadro foi construído tomando as colunas mais comuns utilizadas como base e pode ser visualizado na figura abaixo.
 
 |    ![Imagem](../assets/kanban-board.png)     |
-|:--------------------------------------------:|
+| :------------------------------------------: |
 | Figura 1 : Kanban Board Utilizado no Projeto |
 
 As colunas se caracterizam em:
@@ -54,25 +54,25 @@ Foram utilizados as seguintes técnicas advindas dessa metodologia:
 - **Product Backlog**: Desmembramento da Visão do Produto em funcionalidades (que em união à utilização do Kanban
   Boards,
   essas funcionalidades se tornam Cartões). No contexto do projeto, o Kanban Board servirá de apoio para esse backlog.
-    - Importante salientar que o Backlog será restrito a milestone atual (prazos definidos no plano de ensino da
-      disciplina).
+  - Importante salientar que o Backlog será restrito a milestone atual (prazos definidos no plano de ensino da
+    disciplina).
 - **Spring Planning**: Evento de planejamento onde serão definidas as tarefas que serão implementadas na Sprint atual.
-    - Como todo o planejamento das entregas (definido no plano de ensino disponível no Aprender3) já é de conhecimento
-      de toda a equipe, no contexto do projeto esse conceito será utilizado na organização de reuniões para que as
-      tarefas possam ser atribuídas.
+  - Como todo o planejamento das entregas (definido no plano de ensino disponível no Aprender3) já é de conhecimento
+    de toda a equipe, no contexto do projeto esse conceito será utilizado na organização de reuniões para que as
+    tarefas possam ser atribuídas.
 - **Sprint Reviews**: Evento de revisões de Sprints onde os participantes apresentam o trabalho realizado durante a
   Sprint.
   No Contexto do Projeto, também foi utilizado do conceito de Pull Requests, onde a cada funcionalidade criada ou
   melhoria realizada, o autor "abre" um Pull Request solicitando o "merge" de sua funcionalidade (produzida em uma
   Branch separada) ao ambiente de produção (possuindo uma Branch dedicada a isso). Um outro participante do grupo irá
-  ser responsável pela Validação e Verificação dessa *nova feature*.
+  ser responsável pela Validação e Verificação dessa _nova feature_.
 
 ### Ferramentas Utilizadas
 
 Para a facilitação da execução do processo, foram utilizadas as ferramentas descritas na tabela abaixo.
 
 | Nome da Ferramenta |                                                 Objetivo do Uso da Ferramenta                                                  |
-|:------------------:|:------------------------------------------------------------------------------------------------------------------------------:|
+| :----------------: | :----------------------------------------------------------------------------------------------------------------------------: |
 |       Github       |                                   Fins de versionamento, planejamento e gerência de Tarefas.                                   |
 |      Whatsapp      |                                      Comunicação da equipe com uso de mensagens diárias.                                       |
 |       Teams        |                            Gravação de Reuniões e Sessões de Brainstorming realizadas pela equipe.                             |
@@ -88,6 +88,5 @@ Para a facilitação da execução do processo, foram utilizadas as ferramentas 
 ## Histórico de Versões
 
 | Data   | Versão | Descrição            | Autor(es)       |
-|--------|--------|----------------------|-----------------|
+| ------ | ------ | -------------------- | --------------- |
 | 16-Nov | 0.1    | Construção da Página | Guilherme Brito |
-

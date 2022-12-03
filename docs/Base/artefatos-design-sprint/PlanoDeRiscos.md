@@ -75,10 +75,10 @@ Verificação de possíveis acontecimentos que possam alterar os prazos ou taref
 É uma estrutura de gerência de riscos usado para avaliação competitiva planejamento estratégico. Essa análise, busca projetar uma visão realista baseada em fatos e orientada por dados dos pontos fortes e fracos de uma organização.
 
 | Força         | Comprometimento da equipe, experiências prévias dentro dos frameworks escolhidos, comunicação eficaz entre membros, gestão de tempo. |
-| ------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| Fraquezas     | Falta de conhecimento, atraso de entregas individuais.                                                                                 |
-| Oportunidades | Capacitação em novas frameworks/linguagens, aquisição de conhecimentos no desenvolvimento do escopo do projeto, gestão de equipes.    |
-| Ameaças       | Afastamento médico e Greves da faculdade.                                                                                             |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| Fraquezas     | Falta de conhecimento, atraso de entregas individuais.                                                                               |
+| Oportunidades | Capacitação em novas frameworks/linguagens, aquisição de conhecimentos no desenvolvimento do escopo do projeto, gestão de equipes.   |
+| Ameaças       | Afastamento médico e Greves da faculdade.                                                                                            |
 
 ---
 
