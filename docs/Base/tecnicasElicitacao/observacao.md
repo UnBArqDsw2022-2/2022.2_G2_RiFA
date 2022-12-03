@@ -14,25 +14,25 @@
 
 <center>
 
-![Imagem](/docs/assets/observacao1.png)
+![Imagem](../../assets/observacao1.png)
 
-Exemplo 1 retirado do Discord
-
-</center>
-
-<center>
-
-![Imagem](/docs/assets/observacao2.png)
-
-Exemplo 2 retirado do Discord
+Figura 1 -> Fonte: https://mk7projects.com/
 
 </center>
 
 <center>
 
-![Imagem](/docs/assets/observacao3.png)
+![Imagem](../../assets/observacao2.png)
 
-Exemplo 3 retirado do Discord
+Figura 2 -> Fonte: https://mk7projects.com/
+
+</center>
+
+<center>
+
+![Imagem](../../assets/observacao3.png)
+
+Figura 3 -> Fonte: https://rifatech.com/
 
 </center>
 
