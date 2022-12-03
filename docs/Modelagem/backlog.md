@@ -206,6 +206,10 @@ Para levantar os recursos que seriam listados neste documento, foi utilizada a t
     </tbody>
 </table>
 
+| Lista de Abreviaturas e Siglas |                     |
+| :----------------------------: | ------------------- |
+|             **RF**             | Requisito funcional |
+
 ## 4. Conclusão
 
 <p align = "justify">
