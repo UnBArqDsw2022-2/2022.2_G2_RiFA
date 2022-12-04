@@ -8,7 +8,7 @@
 
 Este documento tem por finalidade apresentar um dos diagramas estáticos referentes ao escopo do projeto, sendo ele: o
 Diagrama de Classes. Diagramas de classes estão entre os tipos mais úteis de diagramas UML pois mapeiam de forma clara a
-estrutura de um determinado sistema ao modelar suas classes, seus atributos, operações e relações entre objetos.
+estrutura de um determinado sistema ao modelar suas classes, seus atributos, operações e relações entre objetos. [1]
 
 ## 2. Metodologia
 
@@ -66,12 +66,13 @@ Esquemas desse serviço pode ser visto abaixo ou neste [link](encurtador.com.br/
 
 ## Referências
 
-- [1] - **Modelagem de Processos para os Negócios** Disponível
-  em: https://www.lecom.com.br/blog/modelagem-de-processo-para-os-negocios
+- [1] - **O que é um diagrama de classes?** Disponível
+  em: https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-classe-uml
+- Video Aula apresentado pela Professora Milene Serrano disponível no Aprender3
+- **O que é UML?** Disponível em: https://blog.betrybe.com/tecnologia/uml/
 
 ## Histórico de Versões
 
-| Data   | Versão | Descrição                         | Autor(es)       |
-|--------|--------|-----------------------------------|-----------------|
-| 16-Nov | 0.1    | Construção da Página              | Guilherme Brito |
-| 22-Dec | 0.2    | Formatação e correção ortográfica | João Paulo Lima |
+| Data   | Versão | Descrição            | Autor(es)       |
+|--------|--------|----------------------|-----------------|
+| 03-Dez | 0.1    | Construção da Página | Guilherme Brito |
