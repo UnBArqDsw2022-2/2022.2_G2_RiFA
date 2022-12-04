@@ -16,6 +16,8 @@
         - Elicitação
           - [Personas](/Base/personas-perfilUsuario.md)
           - [Brainstorming](/Base/tecnicasElicitacao/brainstorm.md)
+          - [Questionário](/Base/tecnicasElicitacao/questionario.md)
+          - [Obervação](/Base/tecnicasElicitacao/observacao.md)
         - Priorização
           - [MoSCoW](Base/tecnicasPriorizacao/moscow.md)
         - Modelagem
