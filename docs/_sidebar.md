@@ -13,6 +13,11 @@
           - [Rich Picture](/Base/artefatos-design-sprint/rich-picture.md)
           - [Mapa Mental](/Base/artefatos-design-sprint/mapaMental.md)
           - [5W2H](/Base/artefatos-design-sprint/5w2h.md)
+        - Elicitação
+          - [Personas](/Base/personas-perfilUsuario.md)
+          - [Brainstorming](/Base/tecnicasElicitacao/brainstorm.md)
+          - [Questionário](/Base/tecnicasElicitacao/questionario.md)
+          - [Obervação](/Base/tecnicasElicitacao/observacao.md)
         - Modelagem
           - [Léxicos](/Base/artefatos-design-sprint/lexicos.md)
           - [Diagrama Causa-Efeito](/Base/artefatos-design-sprint/diagramaCausaEfeito.md)
@@ -34,11 +39,6 @@
       - [2.1.1. Notação UML – Diagramas Estáticos](/docs/Modelagem/2.1.1.UMLEstaticos.md)
       - [2.1.2. Notação UML – Diagramas Dinâmicos](/docs/Modelagem/2.1.2.UMLDinamicos.md)
       - 2.1.3. Modelagem Ágil
-        - Elicitação
-          - [Personas](/Modelagem/2.Modelagem.md)
-          - [Brainstorm](/Modelagem/tecnicasElicitacao/brainstorm.md)
-          - [Observação](/Modelagem/tecnicasElicitacao/observacao.md)
-          - [Questionário](/Modelagem/tecnicasElicitacao/questionario.md)
         - Priorização
           - [MoSCoW](/Modelagem/tecnicasPriorizacao/moscow.md)
     - [2.2. Iniciativas Extras - Modelagem](/docs/Modelagem/2.2.IniciativasExtras.md)
