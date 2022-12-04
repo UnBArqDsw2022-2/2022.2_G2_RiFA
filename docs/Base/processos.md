@@ -31,7 +31,7 @@ No Diagrama, foram utilizados elementos específicos dependendo do seu fim. Os e
 presentes na tabela a seguir.
 
 |                              Elemento                               |                                                 Indicação                                                  |
-|:-------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------:|
+| :-----------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: |
 | ![Elemento de Início de Processo](../assets/bolaInicioProcesso.png) |                                       Indica o início de um processo                                       |
 |             ![Retângulo de Tarefas](../assets/task.png)             |                              Indica uma tarefa a ser executada por algum ator                              |
 |         ![Provedor de Dados](../assets/provedorDeDados.png)         |                                 Indica um Provedor de Dados (Educacional)                                  |
@@ -41,13 +41,13 @@ presentes na tabela a seguir.
 |                   ![Github](../assets/github.png)                   |                         Indica que o Github será utilizado como Provedor de Dados                          |
 |                    ![Email](../assets/email.png)                    | Indica o envio de mensagem para algum destinatário (Pode ser utilizado qualquer ferramenta de comunicação) |
 |              ![Gateway Paralelismo](../assets/ask.png)              | Indica que ao passar por esse elemento, o processo será paralelizado. (Uma seta apontando para o elemento) |
-|                     ![JoinGateway.png](../assets/parallel.png)                     |      Indica que o processo, antes paralelizado, será mergeado (Duas setas apontando para o elemento)       |
-|                   ![ArquivoEquipe.png](../assets/fileTeam.png)                   |                        Indica um arquivo consultável elaborado pela própria equipe                         |
-|                 ![RelacaoProcessos.png](../assets/interacao.png)                  |                       Indica uma relação de sequência entre dois processos distintos                       |
-|                ![ArquivoFontesnline.png](../assets/fileOnline.png)                 |                     Indica um arquivo consultável disponível em outras fontes onlines                      |
-|                 ![AgrupamentoFluxo.png](../assets/group.png)                  |                         Indica um agrupamento de fluxo com propósitos semelhantes                          |
-|               ![DominioParticipantes.png](../assets/process.png)                |               Elemento que engloba um processo para indicar seu domínio e seus participantes               |
-|                    ![Finalizacao.png](../assets/endProcess.png)                     |                                      Indica a finalização do processo                                      |
+|             ![JoinGateway.png](../assets/parallel.png)              |      Indica que o processo, antes paralelizado, será mergeado (Duas setas apontando para o elemento)       |
+|            ![ArquivoEquipe.png](../assets/fileTeam.png)             |                        Indica um arquivo consultável elaborado pela própria equipe                         |
+|          ![RelacaoProcessos.png](../assets/interacao.png)           |                       Indica uma relação de sequência entre dois processos distintos                       |
+|         ![ArquivoFontesnline.png](../assets/fileOnline.png)         |                     Indica um arquivo consultável disponível em outras fontes onlines                      |
+|            ![AgrupamentoFluxo.png](../assets/group.png)             |                         Indica um agrupamento de fluxo com propósitos semelhantes                          |
+|         ![DominioParticipantes.png](../assets/process.png)          |               Elemento que engloba um processo para indicar seu domínio e seus participantes               |
+|            ![Finalizacao.png](../assets/endProcess.png)             |                                      Indica a finalização do processo                                      |
 
 > Tabela 1: Elementos do BPMN e seus Significados -> Autor: Guilherme Brito Vilas - Bôas
 
@@ -92,6 +92,7 @@ O Processo de Sprint Review modelado pode ser visualizado no diagrama abaixo.
 
 ## Histórico de Versões
 
-| Data   | Versão | Descrição            | Autor(es)       |
-|--------|--------|----------------------|-----------------|
-| 16-Nov | 0.1    | Construção da Página | Guilherme Brito |
+| Data   | Versão | Descrição                         | Autor(es)       |
+| ------ | ------ | --------------------------------- | --------------- |
+| 16-Nov | 0.1    | Construção da Página              | Guilherme Brito |
+| 22-Dec | 0.2    | Formatação e correção ortográfica | João Paulo Lima |
