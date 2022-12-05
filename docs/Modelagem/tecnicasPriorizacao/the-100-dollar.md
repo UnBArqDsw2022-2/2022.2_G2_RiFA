@@ -24,7 +24,7 @@ Devido ao cronograma do projeto, não seria possível realizar esse método com 
 
 ## 5. Resultados
 
-A partir da aplicação do método, foram atribuídos os valores para cada reuquisito e o resultado dos requisitos funcionais podem ser observados no documento do [Backlog](). Já os requisitos não funcionais receberam os seguintes valores.
+A partir da aplicação do método, foram atribuídos os valores para cada reuquisito e o resultado dos requisitos funcionais podem ser observados no documento do [Backlog](../backlog.md). Já os requisitos não funcionais receberam os seguintes valores.
 
 |  ID   |                                                             Requisitos                                                             | Preço atribuído (U$) |
 | :---: | :--------------------------------------------------------------------------------------------------------------------------------: | :---: |
