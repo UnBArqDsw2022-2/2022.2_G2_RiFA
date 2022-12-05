@@ -6,6 +6,7 @@
 | ---------- | ------ | ------------------------------------- | -------------- |
 | 16/11/2022 | 1.0    | Criação do documento                  | Jackes Fonseca |
 | 16/11/2022 | 2.0    | Adição dos resultados do rich picture | Jackes Fonseca |
+| 04/12/2022 | 3.0    | Adição do rich picture versão 2       | Jackes Fonseca |
 
 ## Metodologia
 
@@ -26,6 +27,11 @@ Após a reunião, o integrante Jackes Fonseca durante um momento de insight, dec
 <figcaption>Rich Picture v.1</figcaption>
 
 ![Scanner_20221117 (2)](https://user-images.githubusercontent.com/53023400/202565777-f483b5f7-3e88-4730-a158-6e8d93b31bf5.jpg)
+
+<figcaption>Autor: Jackes Fonseca</figcaption>
+
+<figcaption>Rich Picture v.2</figcaption>
+<iframe src="https://miro.com/app/live-embed/uXjVP8j89_E=/?moveToViewport=-11882,-3179,11839,8926&embedId=612993637800" scrolling="no" allowfullscreen width="768" height="432" frameborder="0"></iframe>
 
 <figcaption>Autor: Jackes Fonseca</figcaption>
 
