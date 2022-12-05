@@ -1,5 +1,11 @@
 # Questionário
 
+### Participantes do Artefato
+
+- Lucas Pimentel
+- Guilherme Brito
+- Eurico Abreu
+
 ## 1. Introdução
 
 A utilização de questionários como forma de técnica de elicitação de requisitos é interessante pois permite com que a equipe colete dados de um grande número de pessoas com um esforço reduzido.
