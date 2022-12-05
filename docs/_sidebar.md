@@ -44,6 +44,7 @@
       - 2.1.3. Modelagem Ágil
         - Priorização
           - [MoSCoW](/Modelagem/tecnicasPriorizacao/moscow.md)
+          - [The 100 Dollar](/Modelagem/tecnicasPriorizacao/the-100-dollar.md)
         - [Backlog](/Modelagem/backlog.md)
     - [2.2. Iniciativas Extras - Modelagem](/docs/Modelagem/2.2.IniciativasExtras.md)
     - [2.3. Participações - Modelagem](/docs/Modelagem/2.3.ParticipacoesModelagem.md)
