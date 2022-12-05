@@ -39,8 +39,10 @@
       - 2.1.1. Notação UML – Diagramas Estáticos
         - [Diagrama de Classes](/Modelagem/diagrama_classes.md)
         - [Diagrama de Pacotes](/Modelagem/diagramaPacotes.md)
+        - [Diagrama de Componentes](/Modelagem/diagrama-componentes.md)
       - 2.1.2. Notação UML – Diagramas Dinâmicos
         - [Diagrama de Atividades](./Modelagem/diagrama_de_atividades.md)
+        - [Diagrama de Estados](/Modelagem/diagrama-estados.md)
       - 2.1.3. Modelagem Ágil
         - Priorização
           - [MoSCoW](/Modelagem/tecnicasPriorizacao/moscow.md)
