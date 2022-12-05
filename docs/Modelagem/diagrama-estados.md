@@ -5,6 +5,7 @@
 | 04-Dez | 0.1    | Criação do documento                       | Eurico Abreu | -           |
 | 04-Dez | 0.2    | Construção da Página                       | Eurico Abreu | -           |
 | 05-Dez | 0.3    | Mudança da posição do histórico de versões | Eurico Abreu | -           |
+| 05-Dez | 0.4    | Adição do diagrama                         | Eurico Abreu | -           |
 
 ## 1. Introdução
 
