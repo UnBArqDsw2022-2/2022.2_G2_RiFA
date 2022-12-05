@@ -30,8 +30,13 @@ Após a reunião, o integrante Jackes Fonseca durante um momento de insight, dec
 
 <figcaption>Autor: Jackes Fonseca</figcaption>
 
+<br><p>
+Segue abaixo a versão 2 do rich picure realizado na ferramenta Miro.
+</p>
+  
 <figcaption>Rich Picture v.2</figcaption>
-<iframe src="https://miro.com/app/live-embed/uXjVP8j89_E=/?moveToViewport=-11882,-3179,11839,8926&embedId=612993637800" scrolling="no" allowfullscreen width="768" height="432" frameborder="0"></iframe>
+
+<iframe src="https://miro.com/app/live-embed/uXjVP8j89_E=/?moveToViewport=-14329,-4170,16010,8129&embedId=654861902175" scrolling="no" allowfullscreen width="768" height="432" frameborder="0"></iframe>
 
 <figcaption>Autor: Jackes Fonseca</figcaption>
 
