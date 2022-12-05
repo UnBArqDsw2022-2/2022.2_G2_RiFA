@@ -8,6 +8,7 @@
 | 02-Dez | 0.1 (Diagrama)  | Construção do Diagrama de Entidades                                 | Guilherme Brito |
 | 03-Dez | 0.1 (Documento) | Construção da Página                                                | Guilherme Brito |
 | 05-Dez | 0.2 (Documento) | Ajuste de Página para Formatação descrita na página de CONTRIBUTING | Guilherme Brito |
+| 05-Dez | 0.2 (Documento) | Revisão e correção de link                                          | Andr |
 
 ### Participantes do Artefato
 
@@ -67,7 +68,7 @@ relacionamentos. O diagrama abaixo mostra como o sistema é visualizado no conte
 <span style="color: blue">As classes referentes a Autorização e Autenticação são abstraídas
 no [Keycloak](https://www.keycloak.org/) (Por exemplo, a tabela user_entity no diagrama abaixo descreve a classe
 Usuário). O Diagrama de
-Esquemas desse serviço pode ser visto abaixo ou neste [link](encurtador.com.br/bgmR3).</span>
+Esquemas desse serviço pode ser visto abaixo ou neste [link](http://encurtador.com.br/gpsJK).</span>
 
 | ![](https://gist.githubusercontent.com/thomasdarimont/b1c19da5e8df747b8596e6ddcda7e36f/raw/29309467f4ea07519cf614fd74943272e7d939f4/keycloak_db_overview_4.0.0.CR1-SNAPSHOT.svg) |
 |:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
