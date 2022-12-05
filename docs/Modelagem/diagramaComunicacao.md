@@ -10,7 +10,7 @@ Os objetos são representados por retângulo com conectores entre eles que corre
 
 ## 2. Metodologia
 
-Os diagramas foram elaborados com base em duas visões, do comprador e do vendedor, enfatizando suas principais interações com sistema e a sequencia que são realizadas. As informações foram abstraídas dos requisitos elicitados em conjunto pela equipe no processo de brainstorm.
+De acordo com os requisitos elicitados pela equipe, os diagramas foram elaborados com base nos casos de uso relacionados aos perfis de comprador e vendedor, enfatizando suas principais interações com sistema e a sequencia que são realizadas. O perfil de administrador do sistema não foi abordado pois as atividades realizadas por ele são, em maioria, de controle e manutenção, além de não serem sequenciais. 
 
 A ferramenta utilizada foi o [Lucidchart](https://www.lucidchart.com), que oferece suporte à modelagem de diagramas UML.
 
