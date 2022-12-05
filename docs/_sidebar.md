@@ -46,7 +46,7 @@
           - [MoSCoW](/Modelagem/tecnicasPriorizacao/moscow.md)
         - [Backlog](/Modelagem/backlog.md)
     - [2.2. Iniciativas Extras - Modelagem](/docs/Modelagem/2.2.IniciativasExtras.md)
-    - [2.3. Participações - Modelagem](/docs/Modelagem/2.3.ParticipacoesModelagem.md)
+    - [2.3. Participações - Modelagem](/Modelagem/2.3.ParticipacoesModelagem.md)
 
 - **Padrões de Projeto**
 

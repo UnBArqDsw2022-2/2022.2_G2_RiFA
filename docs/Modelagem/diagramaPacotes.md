@@ -1,8 +1,15 @@
 # Diagrama de Pacotes
 
+## Histórico de Versões
+
+| Data   | Versão | Descrição            | Autor(es)      |
+| ------ | ------ | -------------------- | -------------- |
+| 03-Dez | 0.1    | Construção da Página | Lucas Pimentel |
+
 ### Participantes do artefato
 
 - Lucas Pimentel
+- João Paulo
 
 ## 1. Introdução
 
@@ -56,9 +63,3 @@ Figura 3: Diagrama de Pacotes Front-end e-Rifas -> Fonte: Elaboração própria
 
 - UML Package Diagrams Overview - https://www.uml-diagrams.org/package-diagrams-overview.html
 - Por que usar um diagrama UML? - LucidChart - https://www.lucidchart.com/pages/pt/diagrama-de-pacotes-uml
-
-## Histórico de Versões
-
-| Data   | Versão | Descrição            | Autor(es)      |
-| ------ | ------ | -------------------- | -------------- |
-| 03-Dez | 0.1    | Construção da Página | Lucas Pimentel |
