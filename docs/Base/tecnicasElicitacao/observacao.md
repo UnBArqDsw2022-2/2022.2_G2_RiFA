@@ -1,5 +1,14 @@
 # Observação
 
+## Histórico de Versão
+
+| Data   | Versão | Descrição                 | Autor(es)    | Revisor(es) |
+| ------ | ------ | ------------------------- | ------------ | ----------- |
+| 02-Dec | 0.1    | Adição do documento       | Eurico Abreu | João Paulo  |
+| 02-Dec | 0.2    | Adição das imagens        | Eurico Abreu | João Paulo  |
+| 02-Dec | 0.3    | Adição do conteúdo        | Eurico Abreu | João Paulo  |
+| 02-Dec | 0.4    | Correção solicitada no PR | Eurico Abreu | -           |
+
 ## 1. Introdução
 
 &emsp;&emsp; A observação é uma técnica de elicitação de requisitos onde o engenheiro observa em um ambiente semelhante que o software será implantado, as tarefas sendo executadas, onde se obtém os requisitos, analisando essas tarefas.
@@ -73,13 +82,3 @@ Figura 3 -> Fonte: https://rifatech.com/
 ## Referências
 
 - AURUM, Aybuke; WOHLIN, Claes. Engineering and Managing Software Requirements. Springer, 2005
-
-
-## Histórico de Versão
-
-| Data   | Versão | Descrição                 | Autor(es)    | Revisor(es) |
-| ------ | ------ | ------------------------- | ------------ | ----------- |
-| 02-Dec | 0.1    | Adição do documento       | Eurico Abreu | João Paulo  |
-| 02-Dec | 0.2    | Adição das imagens        | Eurico Abreu | João Paulo  |
-| 02-Dec | 0.3    | Adição do conteúdo        | Eurico Abreu | João Paulo  |
-| 02-Dec | 0.4    | Correção solicitada no PR | Eurico Abreu | -           |

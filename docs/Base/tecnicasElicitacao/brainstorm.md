@@ -1,5 +1,14 @@
 # Brainstorming
 
+## Histórico de Versões
+
+| Data   | Versão | Descrição            | Autor(es)       | Revisor(es)  |
+| ------ | ------ | -------------------- | --------------- | ------------ |
+| 01-Dec | 0.1    | Construção da Página | Lucas Pimentel  | Eurico Abreu |
+| 02-Dec | 0.2    | Adiciona resultados  | Lucas Pimentel  | Eurico Abreu |
+| 02-Dec | 0.3    | Documento revisado   | Eurico Abreu    | -            |
+| 02-Dec | 0.4    | Formatação           | João Paulo Lima | -            |
+
 ## 1. Introdução
 
 De acordo com Barbosa (2010), brainstorming é uma técnica utilizada para levantar requisitos e aprender sobre características que os usuários gostariam no sistema. Sendo assim, a sessão de brainstorming é bastante livre, onde a equipe levanta um conjunto grande de ideias e opiniões.
@@ -84,12 +93,3 @@ A partir da sessão de brainstorming, conseguimos elicitar os seguintes requisit
 
 - BARBOSA, Simone; SILVA, Bruno. Interação Humano Computador. Rio de Janeiro. Elsevier Editora Ltda. 2010
 - COURAGE, Catherine; BAXTER, Kathy. Understanding Your Users: A pratical guide to user requirements methods, tools and techniques. 2005
-
-## Histórico de Versões
-
-| Data   | Versão | Descrição            | Autor(es)       | Revisor(es)  |
-| ------ | ------ | -------------------- | --------------- | ------------ |
-| 01-Dec | 0.1    | Construção da Página | Lucas Pimentel  | Eurico Abreu |
-| 02-Dec | 0.2    | Adiciona resultados  | Lucas Pimentel  | Eurico Abreu |
-| 02-Dec | 0.3    | Documento revisado   | Eurico Abreu    | -            |
-| 02-Dec | 0.4    | Formatação           | João Paulo Lima | -            |
