@@ -73,6 +73,8 @@ Esquemas desse serviço pode ser visto abaixo ou neste [link](encurtador.com.br/
 
 ## Histórico de Versões
 
-| Data   | Versão | Descrição            | Autor(es)       |
-|--------|--------|----------------------|-----------------|
-| 03-Dez | 0.1    | Construção da Página | Guilherme Brito |
+| Data   | Versão          | Descrição                           | Autor(es)       |
+|--------|-----------------|-------------------------------------|-----------------|
+| 02-Dez | 0.1 (Diagrama)  | Construção do Diagrama Macro        | Guilherme Brito |
+| 02-Dez | 0.1 (Diagrama)  | Construção do Diagrama de Entidades | Guilherme Brito |
+| 03-Dez | 0.1 (Documento) | Construção da Página                | Guilherme Brito |
