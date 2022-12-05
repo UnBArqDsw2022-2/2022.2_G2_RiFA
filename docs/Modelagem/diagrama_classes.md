@@ -1,8 +1,17 @@
 # Diagrama de Classes
 
+## Histórico de Versões
+
+| Data   | Versão          | Descrição                                                           | Autor(es)       |
+|--------|-----------------|---------------------------------------------------------------------|-----------------|
+| 02-Dez | 0.1 (Diagrama)  | Construção do Diagrama Macro                                        | Guilherme Brito |
+| 02-Dez | 0.1 (Diagrama)  | Construção do Diagrama de Entidades                                 | Guilherme Brito |
+| 03-Dez | 0.1 (Documento) | Construção da Página                                                | Guilherme Brito |
+| 05-Dez | 0.2 (Documento) | Ajuste de Página para Formatação descrita na página de CONTRIBUTING | Guilherme Brito |
+
 ### Participantes do Artefato
 
-- Guilherme Brito
+- Guilherme Brito (Autor)
 
 ## 1. Introdução
 
@@ -71,8 +80,4 @@ Esquemas desse serviço pode ser visto abaixo ou neste [link](encurtador.com.br/
 - Video Aula apresentado pela Professora Milene Serrano disponível no Aprender3
 - **O que é UML?** Disponível em: https://blog.betrybe.com/tecnologia/uml/
 
-## Histórico de Versões
 
-| Data   | Versão | Descrição            | Autor(es)       |
-|--------|--------|----------------------|-----------------|
-| 03-Dez | 0.1    | Construção da Página | Guilherme Brito |
