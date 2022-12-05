@@ -18,11 +18,11 @@ A ferramenta utilizada foi o [Lucidchart](https://www.lucidchart.com), que ofere
 
 ### 3.1 Interação do Comprador
 
-![comunicaçãoCliente](/../../assets/diagComunicacaoCliente.jpeg)
+![comunicaçãoCliente](../assets/diagComunicacaoCliente.jpeg)
 
 ### 3.2 Interação do Vendedor
 
-![comunicaçãoVendedor](/../../assets/diagComunicacaoVendedor.jpeg)
+![comunicaçãoVendedor](../assets/diagComunicacaoVendedor.jpeg)
 
 ## 4. Referências
 
