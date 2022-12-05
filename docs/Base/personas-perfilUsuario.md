@@ -1,5 +1,10 @@
 # Personas
 
+### Participantes do artefato
+
+- Lucas Pimentel
+- Eurico Abreu
+
 ## 1. Introdução
 
 De acordo com Simone Barbosa (2015), personas são personagens ficcionais, formulados a partir da síntese dos comportamentos observados entre os consumidores alvos do produto. Elas representam as expectativas e necessidades, reunindo as principais características de cada grupo.
