@@ -6,7 +6,7 @@
 
 ## 1. Introdução
 
-Pacote é o termo utilizado para agrupar elementos que possuem relações lógias e semânticas, sua principal função é organizar os elementos e promover uma melhor estrutura para o modelo do sistema.
+Pacote é o termo utilizado para agrupar elementos que possuem relações lógicas e semânticas, sua principal função é organizar os elementos e promover uma melhor estrutura para o modelo do sistema.
 
 Sendo assim, o diagrama de pacotes é um diagrama UML estrutural e estático. Este diagrama mostra a organização e disposição de um determinado sistema à nivel de pacotes, dessa forma, trazendo benefícios como:
 
@@ -18,7 +18,7 @@ Além disso, o diagrama de pacotes estabelece laços de dependência entre os v�
 
 ## 2. Metodologia
 
-A partir disso, para a elaboração do diagrama de pacotes do projeto, optamos por dividí-lo em 3 partes, um diagrama específico para o front-end da aplicação, onde utilizaremos o framework ReactJs, outro diagrama específico para o back-end da aplicação, onde optamos por utilizar Java e o framework Spring Boot e por fim um diagrama geral do sistema.
+A partir disso, para a elaboração do diagrama de pacotes do projeto, optamos por dividi-lo em 3 partes, um diagrama específico para o front-end da aplicação, onde utilizaremos o framework ReactJs, outro diagrama específico para o back-end da aplicação, onde optamos por utilizar Java e o framework Spring Boot e por fim um diagrama geral do sistema.
 
 ## 3. Diagrama de Pacotes
 
