@@ -2,12 +2,13 @@
 
 **Histórico de Versão**
 
-| Data       | Versão | Descrição               | Autor(es)       |
-| ---------- | ------ | ----------------------- | --------------- |
-| 29/11/2022 | 1.0    | Criação do documento.   | Erick Melo      |
-| 02/12/2022 | 2.0    | Adição do método MoSCoW | João Paulo Lima |
-| 03/12/2022 | 2.1    | Revisão do documento    | João Paulo Lima |
-| 04/12/2022 | 2.2    | Adição do método The 100 Dollar    | Erick Melo |
+| Data       | Versão | Descrição                                    | Autor(es)       |
+| ---------- | ------ | -------------------------------------------- | --------------- |
+| 29/11/2022 | 1.0    | Criação do documento.                        | Erick Melo      |
+| 02/12/2022 | 2.0    | Adição do método MoSCoW                      | João Paulo Lima |
+| 03/12/2022 | 2.1    | Revisão do documento                         | João Paulo Lima |
+| 04/12/2022 | 2.2    | Adição do método The 100 Dollar              | Erick Melo      |
+| 05/12/2022 | 2.3    | Revisão da priorização MosCoW dos requisitos | João Paulo Lima |
 
 ## 1. Introdução
 
@@ -44,7 +45,7 @@ Para levantar os recursos que seriam listados neste documento, foi utilizada a t
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Administrador</td> 
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Desejo visualizar todos os usuários do sistema.</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">BS</td>         
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Must</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Should</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">3,00</td>
         </tr>
         <tr>
@@ -69,7 +70,7 @@ Para levantar os recursos que seriam listados neste documento, foi utilizada a t
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Administrador</td> 
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Desejo visualizar todas as rifas por situação (Aguardando confirmação, fechadas, abertas ou canceladas).</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">BS</td> 
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Must</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Should</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">3,00</td>
         </tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">RF05</td>
@@ -160,7 +161,7 @@ Para levantar os recursos que seriam listados neste documento, foi utilizada a t
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Comprador</td> 
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Desejo buscar uma rifa pelo item rifado.</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">BS</td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Must</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Should</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">2,00</td>
         </tr>
         </tr>
@@ -241,7 +242,7 @@ Para levantar os recursos que seriam listados neste documento, foi utilizada a t
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Comprador</td> 
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Desejo comprar um número aleatório de uma rifa.</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">BS</td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Must</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Should</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">1,00</td>
         </tr>
         </tr>
@@ -249,7 +250,7 @@ Para levantar os recursos que seriam listados neste documento, foi utilizada a t
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Comprador</td> 
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Desejo visualizar apenas os números não comprados de uma rifa.</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">BS</td> 
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Must</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Should</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">2,00</td>
         </tr>
         </tr>
@@ -342,7 +343,7 @@ Para levantar os recursos que seriam listados neste documento, foi utilizada a t
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Usuário</td> 
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Desejo excluir minha conta da plataforma.</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">BS</td> 
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Should</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Must</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">1,00</td>
         </tr>
         </tr>
@@ -350,7 +351,7 @@ Para levantar os recursos que seriam listados neste documento, foi utilizada a t
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Usuário</td> 
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Desejo editar as informações da minha conta.</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">BS</td> 
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Should</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Could</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">2,00</td>
         </tr>
         </tr>
@@ -384,7 +385,7 @@ Para levantar os recursos que seriam listados neste documento, foi utilizada a t
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Comprador</td> 
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Desejo visualizar vencedor / número sorteado de uma rifa fechada.
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">BS</td> 
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Must</td></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Should</td></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">2,00</td>
         </tr>
         <tr>
@@ -393,7 +394,7 @@ Para levantar os recursos que seriam listados neste documento, foi utilizada a t
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Comprador</td> 
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Desejo filtrar as rifas por categoria.</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">BS</td> 
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Must</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Should</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">1,00</td>
         </tr>
         <tr>
@@ -402,18 +403,18 @@ Para levantar os recursos que seriam listados neste documento, foi utilizada a t
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Comprador</td> 
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Desejo filtrar as rifas por preço.</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">BS</td> 
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Must</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Should</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">1,00</td>
         </tr>
     </tbody>
 </table>
 
-| Lista de Abreviaturas e Siglas |                     |
-| :----------------------------: | ------------------- |
-|             **RF**             | Requisito funcional |
-|             **BS**             | [Brainstorming](../Base/tecnicasElicitacao/brainstorm.md)   |
-|             **OBS**            | [Observação](../Base/tecnicasElicitacao/observacao.md)          |
-|             **Q**              | [Questionário](../Base/tecnicasElicitacao/questionario.md)        |
+| Lista de Abreviaturas e Siglas |                                                            |
+| :----------------------------: | ---------------------------------------------------------- |
+|             **RF**             | Requisito funcional                                        |
+|             **BS**             | [Brainstorming](../Base/tecnicasElicitacao/brainstorm.md)  |
+|            **OBS**             | [Observação](../Base/tecnicasElicitacao/observacao.md)     |
+|             **Q**              | [Questionário](../Base/tecnicasElicitacao/questionario.md) |
 
 ## 4. Conclusão
 
