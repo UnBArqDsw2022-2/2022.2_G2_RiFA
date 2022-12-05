@@ -2,9 +2,10 @@
 
 ## 1. Histórico de versão
 
-| Versão | Data       | Descrição                                      | Autor           |
-| ------ | ---------- | ---------------------------------------------- | --------------- |
-| 1.0    | 04/12/2022 | Criação do documento                           |   Erick Melo    |
+| Versão | Data       | Descrição                                      | Autor           | Revisor |
+| ------ | ---------- | ---------------------------------------------- | --------------- | ---- |
+| 1.0    | 04/12/2022 | Criação do documento                           |   Erick Melo    | João Paulo
+| 1.1    | 05/12/2022 | Correções ortográficas                         |   Erick Melo    |  -
 
 ## 2. Introdução
 
@@ -12,11 +13,11 @@ Com os requisitos já elicitados, agora já é possível decidir quais deles ser
 
 ## 3. Definição do método
 
-A técnica dos 100 dólares consiste na distribuição de 100 dólares para cada uma das partes interessadas no projeto e, a partir disso, cada parte terá que "comprar" os requisitos, escolhendo quanto que pagaria por cada um deles. Essa limitação normalmente obriga os compradores a escolherem os requisitos com mais cautela, o que gera uma priorização mais distribuida. Além disso, esse método também pode ser assossiado ao método [MoSCoW](https://unbarqdsw2022-2.github.io/2022.2_G2_RiFA/#/Base/tecnicasPriorizacao/moscow), de modo que podem ser definidos limites de gastos para cada categoria deste método, ou seja, para requisitos que receberam a classificação **Must** podem ser comprados por mais de 10 dólares, para os que receberam **Should** só podem ser comprados por valores entre 7 e 10 dólares, e assim por diante.
+A técnica dos 100 dólares consiste na distribuição de 100 dólares para cada uma das partes interessadas no projeto e, a partir disso, cada parte terá que "comprar" os requisitos, escolhendo quanto que pagaria por cada um deles. Essa limitação normalmente obriga os compradores a escolherem os requisitos com mais cautela, o que gera uma priorização mais distribuída. Além disso, esse método também pode ser associado ao método [MoSCoW](https://unbarqdsw2022-2.github.io/2022.2_G2_RiFA/#/Base/tecnicasPriorizacao/moscow), de modo que podem ser definidos limites de gastos para cada categoria deste método, ou seja, para requisitos que receberam a classificação **Must** podem ser comprados por mais de 10 dólares, para os que receberam **Should** só podem ser comprados por valores entre 7 e 10 dólares, e assim por diante.
 
 ## 4. Participantes
 
-Devido ao cronograma do projeto, não seria possível realizar esse método com toda a equide, por isso, foram escolhidos 3 representantes para realizá-lo, sendo eles:
+Devido ao cronograma do projeto, não seria possível realizar esse método com toda a equipe, por isso, foram escolhidos 3 representantes para realizá-lo, sendo eles:
 
 - Erick Melo
 - Jackes da Fonseca
