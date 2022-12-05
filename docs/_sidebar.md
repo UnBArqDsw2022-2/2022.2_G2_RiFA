@@ -41,13 +41,14 @@
         - [Diagrama de Pacotes](/Modelagem/diagramaPacotes.md)
         - [Diagrama de Componentes](/Modelagem/diagrama-componentes.md)
       - 2.1.2. Notação UML – Diagramas Dinâmicos
-        - [Diagrama de Atividades](./Modelagem/diagrama_de_atividades.md)
+        - [Diagrama de Atividades](./Modelagm/diagrama_de_atividades.md)
         - [Diagrama de Estados](/Modelagem/diagrama-estados.md)
       - 2.1.3. Modelagem Ágil
         - Priorização
           - [MoSCoW](/Modelagem/tecnicasPriorizacao/moscow.md)
         - [Backlog](/Modelagem/backlog.md)
-    - [2.2. Iniciativas Extras - Modelagem](/docs/Modelagem/2.2.IniciativasExtras.md)
+    - 2.2. Iniciativas Extras - Modelagem
+      - [2.2.1. Protótipo de alta fidelidade](/Modelagem/2.2.1.PrototipoDeAlta.md)
     - [2.3. Participações - Modelagem](/Modelagem/2.3.ParticipacoesModelagem.md)
 
 - **Padrões de Projeto**
@@ -61,7 +62,7 @@
 
 - **Arquitetura de Software & Reutilização**
   - [4. Desenho de Software (Arquitetura & Reutilização de Software)](/docs/ArquiteturaReutilizacao/4.ArquiteturaReutilizacao.md)
-    - [4.1. Módulo Estilos e Padrões Arquiteturais](/docs/ArquiteturaReutilizacao/4.1.PadroesArquiteturais.md)
+    - [4.1. Módulo Estilos e Padrões Arquiteturais](/docs/ArquiteturaReutilizacao/4.1.PadroesArquiteurais.md)
     - [4.2. Módulo Reutilização de Software](/docs/ArquiteturaReutilizacao/4.2.ReutilizacaoDeSoftware.md)
     - [4.3. Iniciativas Extras - Arquitetura & Reutilização de Software](/docs/ArquiteturaReutilizacao/4.3.IniciativasExtras.md)
     - [4.4. Participações - Arquitetura & Reutilização de Software](/docs/ArquiteturaReutilizacao/4.4.ParticipacoesArqReutilizacao.md)
