@@ -36,9 +36,10 @@
 
   - 2.Desenho de Software (Modelagem)
     - 2.1.Módulo Projeto Orientado a Abordagens Tradicionais
-      - [2.1.1. Notação UML – Diagramas Estáticos](/docs/Modelagem/2.1.1.UMLEstaticos.md)
+      - 2.1.1. Notação UML – Diagramas Estáticos
+        - [Diagrama de Classes](/Modelagem/diagrama_classes.md)
         - [Diagrama de Pacotes](/Modelagem/diagramaPacotes.md)
-      - [2.1.2. Notação UML – Diagramas Dinâmicos](/docs/Modelagem/2.1.2.UMLDinamicos.md)
+      - 2.1.2. Notação UML – Diagramas Dinâmicos
       - 2.1.3. Modelagem Ágil
         - Priorização
           - [MoSCoW](/Modelagem/tecnicasPriorizacao/moscow.md)
