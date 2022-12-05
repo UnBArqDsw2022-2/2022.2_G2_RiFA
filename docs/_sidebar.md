@@ -18,8 +18,6 @@
           - [Brainstorming](/Base/tecnicasElicitacao/brainstorm.md)
           - [Questionário](/Base/tecnicasElicitacao/questionario.md)
           - [Obervação](/Base/tecnicasElicitacao/observacao.md)
-        - Priorização
-          - [MoSCoW](Base/tecnicasPriorizacao/moscow.md)
         - Modelagem
           - [Léxicos](/Base/artefatos-design-sprint/lexicos.md)
           - [Diagrama Causa-Efeito](/Base/artefatos-design-sprint/diagramaCausaEfeito.md)
@@ -36,15 +34,20 @@
 
 - **Modelagem**
 
-  - [2. Desenho de Software (Modelagem)](/Modelagem/2.Modelagem.md)
-    - [2.1. Módulo Projeto Orientado a Abordagens Tradicionais](/Modelagem/2.1.ModelagemTradicional.md)
-      - [2.1.1. Notação UML – Diagramas Estáticos](/Modelagem/2.1.1.UMLEstaticos.md)
+  - 2.Desenho de Software (Modelagem)
+    - 2.1.Módulo Projeto Orientado a Abordagens Tradicionais
+      - 2.1.1. Notação UML – Diagramas Estáticos
         - [Diagrama de Classes](/Modelagem/diagrama_classes.md)
+        - [Diagrama de Pacotes](/Modelagem/diagramaPacotes.md)
+        - [Diagrama de Componentes](/Modelagem/diagrama-componentes.md)
+      - 2.1.2. Notação UML – Diagramas Dinâmicos
+        - [Diagrama de Atividades](./Modelagem/diagrama_de_atividades.md)
         - [Diagrama de Estados](/Modelagem/diagrama-estados.md)
-      - [2.1.2. Notação UML – Diagramas Dinâmicos](/Modelagem/2.1.2.UMLDinamicos.md)
-      - [2.1.3. Modelagem Ágil](/Modelagem/2.1.3.Agil.md)
-      - [2.1.4. Diagrama de Estados](/Modelagem/diagrama-estados.md)
-    - [2.2. Iniciativas Extras - Modelagem](/Modelagem/2.2.IniciativasExtras.md)
+      - 2.1.3. Modelagem Ágil
+        - Priorização
+          - [MoSCoW](/Modelagem/tecnicasPriorizacao/moscow.md)
+        - [Backlog](/Modelagem/backlog.md)
+    - [2.2. Iniciativas Extras - Modelagem](/docs/Modelagem/2.2.IniciativasExtras.md)
     - [2.3. Participações - Modelagem](/Modelagem/2.3.ParticipacoesModelagem.md)
 
 - **Padrões de Projeto**

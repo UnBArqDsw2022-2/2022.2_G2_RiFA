@@ -1,5 +1,20 @@
 # Questionário
 
+## Histórico de Versões
+
+| Data   | Versão | Descrição                        | Autor(es)      | Revisor(es)  |
+| ------ | ------ | -------------------------------- | -------------- | ------------ |
+| 02-Nov | 0.1    | Construção da Página             | Lucas Pimentel | Eurico Abreu |
+| 02-Nov | 0.2    | Adicona introdução e perguntas   | Lucas Pimentel | Eurico Abreu |
+| 03-Nov | 0.3    | Adicona resultados               | Lucas Pimentel | Eurico Abreu |
+| 03-Nov | 0.4    | Revisão e formatação do MarkDown | Eurico Abreu   | -            |
+
+### Participantes do Artefato
+
+- Lucas Pimentel
+- Guilherme Brito
+- Eurico Abreu
+
 ## 1. Introdução
 
 A utilização de questionários como forma de técnica de elicitação de requisitos é interessante pois permite com que a equipe colete dados de um grande número de pessoas com um esforço reduzido.
@@ -154,12 +169,3 @@ A partir das respostas recebidas conseguimos chegar aos seguintes requisitos:
 ## Referências
 
 - BARBOSA, Simone; SILVA, Bruno. Interação Humano Computador. Rio de Janeiro. Elsevier Editora Ltda. 2010
-
-## Histórico de Versões
-
-| Data   | Versão | Descrição                        | Autor(es)      | Revisor(es)  |
-| ------ | ------ | -------------------------------- | -------------- | ------------ |
-| 02-Nov | 0.1    | Construção da Página             | Lucas Pimentel | Eurico Abreu |
-| 02-Nov | 0.2    | Adicona introdução e perguntas   | Lucas Pimentel | Eurico Abreu |
-| 03-Nov | 0.3    | Adicona resultados               | Lucas Pimentel | Eurico Abreu |
-| 03-Nov | 0.4    | Revisão e formatação do MarkDown | Eurico Abreu   | -            |
