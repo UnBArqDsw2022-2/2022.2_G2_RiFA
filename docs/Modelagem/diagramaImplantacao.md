@@ -1,5 +1,14 @@
 # Diagrama de Implantação
 
+## Histórico de Versões
+
+| Data   | Versão          | Descrição                                                                          | Autor(es)       |
+|--------|-----------------|------------------------------------------------------------------------------------|-----------------|
+| 02-Dez | 0.1             | Construção do Diagrama utilizando a ferramenta Visual Paradigm Online Free Edition | Guilherme Brito |
+| 05-Dez | 0.2 (Documento) | Ajuste de Página para Formatação descrita na página de CONTRIBUTING                | Guilherme Brito |
+| 05-Dez | 0.1             | Construção da Página e Documentação do Diagrama Construído                         | Guilherme Brito |
+
+
 ### Participantes do Artefato
 
 - Guilherme Brito (Autor)
@@ -36,9 +45,3 @@ No diagrama a seguir é apresentada uma visão de como o Ambiente da Aplicação
 - [1] - **O Guia Fácil de Diagramas de Implantação UML** Disponível
   em: https://creately.com/blog/pt/diagrama/tutorial-do-diagrama-de-implantacao/#:~:text=Um%20diagrama%20de%20implanta%C3%A7%C3%A3o%20%C3%A9,software%20f%C3%ADsico%20de%20um%20sistema.
 
-## Histórico de Versões
-
-| Data   | Versão | Descrição                                                                          | Autor(es)       |
-|--------|--------|------------------------------------------------------------------------------------|-----------------|
-| 02-Dez | 0.1    | Construção do Diagrama utilizando a ferramenta Visual Paradigm Online Free Edition |                 |
-| 05-Dez | 0.1    | Construção da Página e Documentação do Diagrama Construído                         | Guilherme Brito |
