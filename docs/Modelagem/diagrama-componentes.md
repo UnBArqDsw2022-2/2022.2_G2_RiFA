@@ -6,6 +6,10 @@ Um diagrama de componentes representa a relação estrutural dos componentes de 
 
 ## 2. Diagrama de Componentes
 
+| ![](../assets/diagrama-componentes.png)                        |
+| :------------------------------------------------------------- |
+| Figura 1: Diagrama de componentes. <br/> Autoria: Eurico Abreu |
+
 ## Referências
 
 - https://creately.com/blog/pt/diagrama/guia-de-tipos-de-diagramas-uml-aprenda-sobre-todos-os-tipos-de-diagramas-uml-com-exemplos/
