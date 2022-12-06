@@ -1,4 +1,4 @@
-# Diagrama de Classes
+# Diagrama de Sequência
 
 ## Histórico de Versões
 
@@ -39,6 +39,10 @@ Neste trabalho, foi construído um diagrama de sequência, sendo eles:
 1. O Diagrama representando a interação do usuário com o sistema durante o cadastro em uma rifa.
 
 ### 3.1 - Diagrama Sequência do Comprador de uma rifa
+
+| ![Diagrama de Sequência do Comprador](../assets/diagrama-sequencia.svg) |
+| :---------------------------------------------------------------------- |
+| Figura 1: Diagrama de Sequência do comprador.<br/>Autoria: André Alves  |
 
 ## Referências
 
