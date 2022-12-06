@@ -45,7 +45,15 @@ Neste trabalho, foi construído um diagrama de sequência, sendo eles:
 | :---------------------------------------------------------------------- |
 | Figura 1: Diagrama de Sequência do comprador.<br/>Autoria: André Alves  |
 
-### 4 - Tabela de símbolos
+### 3.2 - Diagrama Sequência do Vendedor de uma rifa
+
+| ![Diagrama de Sequência do Vendedor](../assets/diagrama-sequencia-vendedor.svg) |
+| :------------------------------------------------------------------------------ |
+| Figura 1: Diagrama de Sequência do vendedor.<br/>Autoria: André Alves           |
+
+### 4 - Tabelas de símbolos
+
+#### 4.1 Componentes básicos
 
 | Símbolo                                                                          | Nome                     | Descrição                                                                                                                                                                                                                                                                  |
 | :------------------------------------------------------------------------------- | ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -54,6 +62,8 @@ Neste trabalho, foi construído um diagrama de sequência, sendo eles:
 | ![Símbolo de ator](../assets/diagramaSequencia/uml-actor-symbol.svg)             | Símbolo de ator          | Mostra as entidades que interagem com, ou são externas ao sistema.                                                                                                                                                                                                         |
 | ![Símbolo de pacote](../assets/diagramaSequencia/uml-package-symbol.svg)         | Símbolo de pacote        | Representa a passagem do tempo, conforme estende-se para baixo. Esta linha vertical tracejada mostra os eventos sequenciais que ocorrem a um objeto durante o processo no gráfico. Linhas da vida podem começar com uma forma de retângulo rotulado ou um símbolo de ator. |
 | ![Símbolo de linha de vida](../assets/diagramaSequencia/uml-lifeline-symbol.svg) | Símbolo de linha de vida | Representa a passagem do tempo, conforme estende-se para baixo. Esta linha vertical tracejada mostra os eventos sequenciais que ocorrem a um objeto durante o processo no gráfico. Linhas da vida podem começar com uma forma de retângulo rotulado ou um símbolo de ator. |
+
+#### 4.2 Símbolos de mensagens
 
 ## Referências
 
