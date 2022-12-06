@@ -20,7 +20,7 @@ Até o momento foi criado o diagrama de atividades para um cliente que compra um
 ### 3.1 - Compra de rifa
 
 <figure>
-<img src="../assets/Activity%20diagram.png" />
+<img src="../assets/Activity-diagram.png" />
 <figcaption align="center">
   <p>Figura 1 - Diagrama de Atividades para Compra de Rifa</p>
 </figcaption>
@@ -29,7 +29,7 @@ Até o momento foi criado o diagrama de atividades para um cliente que compra um
 ### 3.2 - Criação de rifa
 
 <figure>
-<img src="../assets/Diagrama%20de%20atividade%20-%20criar%20rifa.png" />
+<img src="../assets/Diagrama-de-atividade-criar-rifa.png" />
 <figcaption align="center">
   <p>Figura 2 - Diagrama de Atividades para Criação de Rifa</p>
 </figcaption>
