@@ -65,6 +65,12 @@ Neste trabalho, foi construído um diagrama de sequência, sendo eles:
 
 #### 4.2 Símbolos de mensagens
 
+| Símbolo                                                                                              | Nome                             | Descrição                                                                                                                                                                                             |
+| :--------------------------------------------------------------------------------------------------- | -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Símbolo de mensagens síncronas](../assets/diagramaSequencia/uml-synchronous-message-symbol.svg)    | Símbolo de mensagens síncronas   | Representa uma classe ou objetos em UML. O símbolo do objeto demonstra como um objeto se comportará no contexto do sistema. Atributos de classe não devem ser listados nesta forma.                   |
+| ![Símbolo de mensagens assíncronas](../assets/diagramaSequencia/uml-asynchronous-message-symbol.svg) | Símbolo de mensagens assíncronas | Representado por uma linha sólida com uma ponta de seta em linha. Mensagens assíncronas não necessitam de uma resposta para que o remetente continue. Apenas a chamada deve ser incluída no diagrama. |
+| ![Símbolo de responder à mensagem](../assets/diagramaSequencia/uml-return-message-symbol.svg)        | Símbolo de responder à mensagem  | Representado por uma linha tracejada com uma ponta de seta em linha, estas mensagens são respostas às chamadas.                                                                                       |
+
 ## Referências
 
 - [1] - **O que é um diagrama de sequência UML?** Disponível
