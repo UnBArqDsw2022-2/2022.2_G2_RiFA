@@ -2,11 +2,11 @@
 
 ## Histórico de Versões
 
-| Data   | Versão          | Descrição                                          | Autor(es)   |
-| ------ | --------------- | -------------------------------------------------- | ----------- |
-| 02-Dez | 0.1 (Diagrama)  | Estudo sobre a criação de um diagrama de sequência | André Alves |
-| 04-Dez | 0.1 (Diagrama)  | Construção do Diagrama de Sequência                | André Alves |
-| 05-Dez | 0.1 (Documento) | Construção da Página                               | André Alves |
+| Data   | Versão          | Descrição                                          | Autor(es)   | Revisor(es)  |
+| ------ | --------------- | -------------------------------------------------- | ----------- | ------------ |
+| 02-Dez | 0.1 (Diagrama)  | Estudo sobre a criação de um diagrama de sequência | André Alves | Eurico Abreu |
+| 04-Dez | 0.1 (Diagrama)  | Construção do Diagrama de Sequência                | André Alves | Eurico Abreu |
+| 05-Dez | 0.1 (Documento) | Construção da Página                               | André Alves | Eurico Abreu |
 
 ### Participantes do Artefato
 
