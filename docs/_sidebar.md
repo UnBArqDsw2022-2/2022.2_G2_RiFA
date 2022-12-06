@@ -17,7 +17,7 @@
           - [Personas](/Base/personas-perfilUsuario.md)
           - [Brainstorming](/Base/tecnicasElicitacao/brainstorm.md)
           - [Questionário](/Base/tecnicasElicitacao/questionario.md)
-          - [Obervação](/Base/tecnicasElicitacao/observacao.md)
+          - [Observação](/Base/tecnicasElicitacao/observacao.md)
         - Modelagem
           - [Léxicos](/Base/artefatos-design-sprint/lexicos.md)
           - [Diagrama Causa-Efeito](/Base/artefatos-design-sprint/diagramaCausaEfeito.md)
