@@ -49,7 +49,7 @@ Neste trabalho, foi construído um diagrama de sequência, sendo eles:
 
 | ![Diagrama de Sequência do Vendedor](../assets/diagrama-sequencia-vendedor.svg) |
 | :------------------------------------------------------------------------------ |
-| Figura 1: Diagrama de Sequência do vendedor.<br/>Autoria: André Alves           |
+| Figura 2: Diagrama de Sequência do vendedor.<br/>Autoria: André Alves           |
 
 ### 4 - Tabelas de símbolos
 
