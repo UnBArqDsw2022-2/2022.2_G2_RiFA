@@ -41,7 +41,7 @@
         - [Diagrama de Pacotes](/Modelagem/diagramaPacotes.md)
         - [Diagrama de Componentes](/Modelagem/diagrama-componentes.md)
       - 2.1.2. Notação UML – Diagramas Dinâmicos
-        - [Diagrama de Comunicação](/docs/Modelagem/diagramaComunicacao.md)
+        - [Diagrama de Comunicação](/Modelagem/diagramaComunicacao.md)
         - [Diagrama de Atividades](./Modelagem/diagrama_de_atividades.md)
         - [Diagrama de Estados](/Modelagem/diagrama-estados.md)
         - [Diagrama de Sequência](/Modelagem/diagrama_sequencia.md)
