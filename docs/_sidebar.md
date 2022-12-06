@@ -44,6 +44,7 @@
         - [Diagrama de Comunicação](/docs/Modelagem/diagramaComunicacao.md)
         - [Diagrama de Atividades](./Modelagem/diagrama_de_atividades.md)
         - [Diagrama de Estados](/Modelagem/diagrama-estados.md)
+        - [Diagrama de Sequência](/Modelagem/diagrama_sequencia.md)
       - 2.1.3. Modelagem Ágil
         - Priorização
           - [MoSCoW](/Modelagem/tecnicasPriorizacao/moscow.md)
