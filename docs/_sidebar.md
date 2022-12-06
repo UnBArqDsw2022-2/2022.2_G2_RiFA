@@ -17,7 +17,7 @@
           - [Personas](/Base/personas-perfilUsuario.md)
           - [Brainstorming](/Base/tecnicasElicitacao/brainstorm.md)
           - [Questionário](/Base/tecnicasElicitacao/questionario.md)
-          - [Obervação](/Base/tecnicasElicitacao/observacao.md)
+          - [Observação](/Base/tecnicasElicitacao/observacao.md)
         - Modelagem
           - [Léxicos](/Base/artefatos-design-sprint/lexicos.md)
           - [Diagrama Causa-Efeito](/Base/artefatos-design-sprint/diagramaCausaEfeito.md)
@@ -50,7 +50,8 @@
           - [MoSCoW](/Modelagem/tecnicasPriorizacao/moscow.md)
           - [The 100 Dollar](/Modelagem/tecnicasPriorizacao/the-100-dollar.md)
         - [Backlog](/Modelagem/backlog.md)
-    - [2.2. Iniciativas Extras - Modelagem](/docs/Modelagem/2.2.IniciativasExtras.md)
+    - 2.2. Iniciativas Extras - Modelagem
+      - [2.2.1. Protótipo de alta fidelidade](/Modelagem/2.2.1.PrototipoDeAlta.md)
     - [2.3. Participações - Modelagem](/Modelagem/2.3.ParticipacoesModelagem.md)
 
 - **Padrões de Projeto**
