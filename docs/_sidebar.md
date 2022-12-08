@@ -40,6 +40,7 @@
         - [Diagrama de Classes](/Modelagem/diagrama_classes.md)
         - [Diagrama de Pacotes](/Modelagem/diagramaPacotes.md)
         - [Diagrama de Componentes](/Modelagem/diagrama-componentes.md)
+        - [Diagrama de Implantação](/Modelagem/diagramaImplantacao.md)
       - 2.1.2. Notação UML – Diagramas Dinâmicos
         - [Diagrama de Comunicação](/Modelagem/diagramaComunicacao.md)
         - [Diagrama de Atividades](/Modelagem/diagrama_de_atividades.md)
