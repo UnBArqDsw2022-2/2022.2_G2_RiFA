@@ -42,7 +42,7 @@ ou desassinar a corrente de eventos. Esse mecanismo consiste em:
 1. Um vetor para armazenar uma lista de referências de Objetos Interessados.
 2. Alguns métodos públicos que permitem adicionar assinantes e removê-los da lista.
 
-A imagem abaixo a seguir exemplifica essa fala.
+A imagem abaixo exemplifica essa fala.
 
 <center>
 
@@ -69,7 +69,7 @@ Para a modelagem do cenário descrito no começo dessa sessão, foi montado o se
 
 <center>
 
-|                                 ![img_2.png](../../../assets/observerDiagramClass.png)                                  |
+|                  ![img_2.png](../../../assets/observerDiagramClass.png)                  |
 |:----------------------------------------------------------------------------------------:|
 | Figura 3: Diagrama de Classes modelando o cenário proposto. <br/> Autor: Guilherme Brito |
 
@@ -84,20 +84,20 @@ cenário.
 <center>
 
 > #### Interface Subscriber: TODA parte interessada deverá implementar essa interface.
-> | ![img.png](../../../assets/observerSubscriberInt.png) |
----------------------------------------------------|:-----:|
+> | ![Interface Subscriber](../../../assets/observerSubscriberInt.png) |
+> |:-----:|
 
 > #### Classes Interessadas no evento de Nova Rifa. (Classes diferentes, porém implementam a mesma interface)
-> | ![img_1.png](../../../assets/observerUsuarioClass.png) | ![img_4.png](../../../assets/observerAdminClass.png)  |
-------------------------------------------------------|:------------------------:|:-----:|
+> | ![Classe Interessada (Usuario)](../../../assets/observerUsuarioClass.png) | ![Classe Interessada (Admin)](../../../assets/observerAdminClass.png)  |
+> |:------------------------:|:-----:|
 
 > #### Classe Notificadora (Com os métodos de Inscrição e Desinscrição)
-> | ![img_5.png](../../../assets/observerPublisher.png) |
----------------------------------------------------|:-----:|
+> | ![Classe Notificadora](../../../assets/observerPublisher.png) |
+> |:-----:|
 
 > #### Classe responsável pela emissão de eventos
-> | ![img_6.png](../../../assets/observerCatalogoRifas.png) |
--------------------------------------------------------|:-----:|
+> | ![Classe emissora de eventos](../../../assets/observerCatalogoRifas.png) |
+> |:-----:|
 
 </center>
 
