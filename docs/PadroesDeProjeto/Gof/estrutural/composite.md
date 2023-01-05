@@ -33,3 +33,67 @@ Para um produto, ele simplesmente retornaria o preço dele. Para uma caixa, ele 
     Fonte: <a href="https://refactoring.guru/pt-br/design-patterns/composite">Design Patterns</a>
   </figcaption>
 </figure>
+
+## 3. Exemplos no código
+
+<figure>
+  <figcaption style="text-align: center !important">
+    Figura 2: Product Component (Interface)
+  </figcaption>
+
+  ![product-component](https://user-images.githubusercontent.com/53023400/210824976-6945254d-7c41-468e-877b-32f01277dee4.png)
+
+  <figcaption style="text-align: center !important">
+    Fonte: Próprio autor
+  </figcaption>
+</figure>
+
+<figure>
+  <figcaption style="text-align: center !important">
+    Figura 3: Product (Leaf)
+  </figcaption>
+
+  <div style="background-color:#000">
+
+  ![product](https://user-images.githubusercontent.com/53023400/210825985-ddbed8fa-0ef1-47b3-b895-43fea66234b6.png)
+
+  </div>
+
+  <figcaption style="text-align: center !important">
+    Fonte: Próprio autor
+  </figcaption>
+</figure>
+
+
+<figure>
+  <figcaption style="text-align: center !important">
+    Figura 4: ItemOrder (Leaf)
+  </figcaption>
+
+  <div style="background-color:#000">
+
+  
+![item-order](https://user-images.githubusercontent.com/53023400/210826226-5f518d99-53a5-4749-9063-91945c461cbb.png)
+
+  </div>
+
+  <figcaption style="text-align: center !important">
+    Fonte: Próprio autor
+  </figcaption>
+</figure>
+
+<figure>
+  <figcaption style="text-align: center !important">
+    Figura 5: Pedido (Composite)
+  </figcaption>
+
+  <div style="background-color:#000">
+
+  ![order](https://user-images.githubusercontent.com/53023400/210826789-02ae71a6-ab05-4b24-8ae2-d92985464217.png)
+
+  </div>
+
+  <figcaption style="text-align: center !important">
+    Fonte: Próprio autor
+  </figcaption>
+</figure>
