@@ -58,7 +58,8 @@
 - **Padrões de Projeto**
 
   - [3. Desenho de Software (Padrões de Projeto)](/docs/PadroesDeProjeto/3.PadroesDeProjeto.md)
-    - [3.1. Módulo Padrões de Projeto GRASPs](/docs/PadroesDeProjeto/3.1.GRASPs.md)
+    - [3.1. Módulo Padrões de Projeto GRASPs](/PadroesDeProjeto/3.1.GRASPs.md)
+      - [3.1.1 Controlador](/PadroesDeProjeto/Grasps/GraspController.md)
     - [3.2. Módulo Padrões de Projeto GoFs](/docs/PadroesDeProjeto/3.2.GoFs.md)
     - [3.3. Modelagem Ágil](/docs/PadroesDeProjeto/3.3.PadroesExtra.md)
     - [3.4. Iniciativas Extras - Padrões de Projeto](/docs/PadroesDeProjeto/3.4.IniciativasExtras.md)
