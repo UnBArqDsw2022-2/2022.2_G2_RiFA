@@ -97,3 +97,9 @@ Para um produto, ele simplesmente retornaria o preço dele. Para uma caixa, ele 
     Fonte: Próprio autor
   </figcaption>
 </figure>
+
+## 4. Conclusão
+O maior benefício dessa abordagem é que você não precisa se preocupar sobre as classes concretas dos objetos que compõem essa árvore. Você não precisa saber se um objeto é um produto simples ou uma caixa sofisticada. Você pode tratar todos eles com a mesma interface. Quando você chama um método os próprios objetos passam o pedido pela árvore.
+
+## 5. Bibliografia
+> [1] Composite. Disponível em: <https://refactoring.guru/pt-br/design-patterns/composite>. Acesso em: 22 de novembro de 2022.
