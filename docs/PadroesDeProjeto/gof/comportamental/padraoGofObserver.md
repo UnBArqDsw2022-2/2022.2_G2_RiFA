@@ -2,9 +2,11 @@
 
 ## Histórico de Versões
 
-| Data       | Versão | Descrição | Autor(es) |
-|------------|--------|-----------|-----------|
-| 03/01/2023 | 0.1    |           |           |
+| Data       | Versão | Descrição                                       | Autor(es)       |
+|------------|--------|-------------------------------------------------|-----------------|
+| 03/01/2023 | 0.1    | Redação Introdução                              | Guilherme Brito |
+| 04/01/2023 | 0.2    | Redação Modelagem e Estudo de Caso              | Guilherme Brito |
+| 05/01/2023 | 10.0   | Redação Implementação e Finalização do Artefato | Guilherme Brito |
 
 ### Participantes do artefato
 
@@ -82,20 +84,20 @@ cenário.
 <center>
 
 > #### Interface Subscriber: TODA parte interessada deverá implementar essa interface.
-> | ![img.png](../../assets/observerSubscriberInt.png) |
+> | ![img.png](../../../assets/observerSubscriberInt.png) |
 ---------------------------------------------------|:-----:|
 
 > #### Classes Interessadas no evento de Nova Rifa. (Classes diferentes, porém implementam a mesma interface)
-> | ![img_1.png](../../assets/observerUsuarioClass.png)| ![img_4.png](../../../assets/observerAdminClass.png)  |
-> |:------------------------:|:-----:|
+> | ![img_1.png](../../../assets/observerUsuarioClass.png) | ![img_4.png](../../../assets/observerAdminClass.png)  |
+------------------------------------------------------|:------------------------:|:-----:|
 
 > #### Classe Notificadora (Com os métodos de Inscrição e Desinscrição)
-> |  ![img_5.png](../../assets/observerPublisher.png)   |
-> |:-----:|
+> | ![img_5.png](../../../assets/observerPublisher.png) |
+---------------------------------------------------|:-----:|
 
 > #### Classe responsável pela emissão de eventos
-> | ![img_6.png](../../assets/observerCatalogoRifas.png)    |
-> |:-----:|
+> | ![img_6.png](../../../assets/observerCatalogoRifas.png) |
+-------------------------------------------------------|:-----:|
 
 </center>
 
