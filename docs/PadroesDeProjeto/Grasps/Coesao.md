@@ -14,7 +14,7 @@ Um dos principais benefícios da alta coesão é que ela torna o código mais f�
 
 ## 2. Aplicação
 
-Em nosso projeto, é possivel notar um exemplo de alta coesão na classe "Foto" do [diagrama de classes](https://unbarqdsw2022-2.github.io/2022.2_G2_RiFA/#/Modelagem/diagrama_classes), como mostrado abaixo, que possui atributos e métodos relacionados exclusivamente com o escopo da classe. Com essa focalização será possível utilizar essa classe tanto para fotos do produto quanto para fotos do usuário.
+Em nosso projeto, é possível notar um exemplo de alta coesão na classe "Foto" do [diagrama de classes](https://unbarqdsw2022-2.github.io/2022.2_G2_RiFA/#/Modelagem/diagrama_classes), como mostrado abaixo, que possui atributos e métodos relacionados exclusivamente com o escopo da classe. Com essa focalização será possível utilizar essa classe tanto para fotos do produto quanto para fotos do usuário.
 
 <center>
 <img src="https://user-images.githubusercontent.com/48844857/210676285-45109b8d-aee4-44de-8c4b-d57fd5996afb.png">
