@@ -1,11 +1,13 @@
-# Controller
+# Controlador
 
 ## Histórico de Versões
 
-| Data   | Versão | Descrição            | Autor(es)      |
-| ------ | ------ | -------------------- | -------------- |
-| 04-Jan | 0.1    | Construção da Página | Lucas Pimentel |
-| 04-Jan | 0.2    | Adiciona introdução  | Lucas Pimentel |
+| Data   | Versão | Descrição                       | Autor(es)      |
+| ------ | ------ | ------------------------------- | -------------- |
+| 04-Jan | 0.1    | Construção da Página            | Lucas Pimentel |
+| 04-Jan | 0.2    | Adiciona introdução             | Lucas Pimentel |
+| 04-Jan | 0.3    | Adiciona aplicação e introdução | Lucas Pimentel |
+| 04-Jan | 0.4    | Arquivo revisado                | Eurico         |
 
 ## 1. Introdução
 
@@ -17,21 +19,19 @@ No entanto, é importante notar que o uso de um controlador também pode levar a
 
 ## 2. Aplicação no projeto
 
-<center>
-
-![Imagem](../../assets/Aplicacao_controler_e-rifas.png)
-
-Figura 1 -> Fonte: Diagrama de pacotes do projeto
-
-</center>
+Sendo assim, por se tratar de um padrão de projeto amplamente utilizado, durante a elaboração do diagrama de pacotes do projeto já havíamos identificado a necessidade de implementar classes que fizessem o papel de controladores em nosso Front-end. Dessa forma, as controllers terão a função de coletar informações solicitadas pelos usuários nas classes de interface (pacote pages) e então delegar as solicitações feitas para as devidas classes do pacote service, como podemos ver pela imagem abaixo.
 
 <center>
 
 ![Imagem](../../assets/Aplicacao_controler_e-rifas_2.png)
 
-Figura 2 -> Fonte: Diagrama de pacotes do projeto
+Figura 1 -> Fonte: Diagrama de pacotes do projeto
 
 </center>
+
+## 3. Conclusão
+
+Em conclusão, o uso de classes controladoras pode ser extremamente útil em projetos de software complexos, pois permite atribuir responsabilidades de maneira clara e gerenciar a interação entre as diferentes partes do sistema, mantendo a coesão e o baixo acoplamento do código. No entanto, é importante tomar cuidado ao implementar, pois o uso de um controlador pode adicionar uma camada de abstração adicional e, se não for feito corretamente, pode levar a sistemas mais complexos e menos escaláveis em casos de controladores sobrecarregados. Com isso, cabe a equipe tomar decisões adequadas de quantas controladoras existirão no projeto e a responsabilidade de cada uma.
 
 ## Referências
 
