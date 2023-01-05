@@ -5,8 +5,11 @@
 | Data   | Versão | Descrição            | Autor(es)    | Revisor(es) |
 | ------ | ------ | -------------------- | ------------ | ----------- |
 | 05-Jan | 0.1    | Criação do documento | Eurico Abreu | -           |
+| 05-Jan | 0.1    | Introdução           | Eurico Abreu | -           |
 
 ## 1. Introdução
+
+O padrão GRASP especialista tem a sua preocupação principal em atribuir responsabilidades para a entidade mais especialista em um dado aspecto, não apenas na criação de instâncias, mas em todos os aspectos do sistema.
 
 ## 2. Aplicação no projeto
 
