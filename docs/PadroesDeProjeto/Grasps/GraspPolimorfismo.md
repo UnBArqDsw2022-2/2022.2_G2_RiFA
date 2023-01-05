@@ -4,8 +4,8 @@
 
 | Data   | Versão | Descrição            | Autor(es)    | Revisor(es) |
 | ------ | ------ | -------------------- | ------------ | ----------- |
-| 04-Jan | 0.1    | Criação do documento | Eurico Abreu | -           |
-| 04-Jan | 0.2    | Adição do conteúdo   | Eurico Abreu | -           |
+| 04-Jan | 0.1    | Criação do documento | Eurico Abreu | Jackes Fonseca           |
+| 04-Jan | 0.2    | Adição do conteúdo   | Eurico Abreu | Jackes Fonseca          |
 
 ## 1. Introdução
 
