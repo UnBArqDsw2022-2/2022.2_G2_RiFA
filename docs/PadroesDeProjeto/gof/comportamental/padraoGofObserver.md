@@ -82,19 +82,19 @@ cenário.
 <center>
 
 > #### Interface Subscriber: TODA parte interessada deverá implementar essa interface.
-> | ![img.png](../../../assets/observerSubscriberInt.png)                                                                       |
-> |:-----:|
+> | ![img.png](../../assets/observerSubscriberInt.png) |
+---------------------------------------------------|:-----:|
 
 > #### Classes Interessadas no evento de Nova Rifa. (Classes diferentes, porém implementam a mesma interface)
-> | ![img_1.png](../../../assets/observerUsuarioClass.png)| ![img_4.png](../../../assets/observerAdminClass.png)  |
+> | ![img_1.png](../../assets/observerUsuarioClass.png)| ![img_4.png](../../../assets/observerAdminClass.png)  |
 > |:------------------------:|:-----:|
 
 > #### Classe Notificadora (Com os métodos de Inscrição e Desinscrição)
-> |  ![img_5.png](../../../assets/observerPublisher.png)   |
+> |  ![img_5.png](../../assets/observerPublisher.png)   |
 > |:-----:|
 
 > #### Classe responsável pela emissão de eventos
-> | ![img_6.png](../../../assets/observerCatalogoRifas.png)    |
+> | ![img_6.png](../../assets/observerCatalogoRifas.png)    |
 > |:-----:|
 
 </center>
