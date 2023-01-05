@@ -7,6 +7,7 @@
 | 05-Jan | 0.1    | Construção da Página            | Lucas Pimentel |
 | 05-Jan | 0.2    | Adiciona introdução e aplicação | Lucas Pimentel |
 | 05-Jan | 0.3    | Adiciona conclusão              | Lucas Pimentel |
+| 05-Jan | 0.4    | Arquivo revisado                | Eurico         |
 
 ## 1. Introdução
 
