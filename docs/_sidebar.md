@@ -62,6 +62,8 @@
       - [3.1.1 Controlador](/PadroesDeProjeto/Grasps/GraspController.md)
       - [3.1.2 Alta Coesão](/PadroesDeProjeto/Grasps/Coesao.md)
       - [3.1.3 Invenção Pura](/PadroesDeProjeto/Grasps/InvencaoPura.md)
+      - [3.1.4 Especialista](/PadroesDeProjeto/Grasps/GraspEspecialista.md)
+      - [3.1.5 Polimorfismo](/PadroesDeProjeto/Grasps/GraspPolimorfismo.md)
     - [3.2. Módulo Padrões de Projeto GoFs](/PadroesDeProjeto/3.2.GoFs.md)
       - Padrões Comportamentais
         - [Observer](/PadroesDeProjeto/gof/comportamental/padraoGofObserver.md)
