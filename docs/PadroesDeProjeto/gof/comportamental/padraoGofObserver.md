@@ -2,11 +2,12 @@
 
 ## Histórico de Versões
 
-| Data       | Versão | Descrição                                       | Autor(es)       |
-|------------|--------|-------------------------------------------------|-----------------|
-| 03/01/2023 | 0.1    | Redação Introdução                              | Guilherme Brito |
-| 04/01/2023 | 0.2    | Redação Modelagem e Estudo de Caso              | Guilherme Brito |
-| 05/01/2023 | 10.0   | Redação Implementação e Finalização do Artefato | Guilherme Brito |
+| Data       | Versão | Descrição                                                         | Autor(es)       |
+|------------|--------|-------------------------------------------------------------------|-----------------|
+| 03/01/2023 | 0.1    | Redação Introdução                                                | Guilherme Brito |
+| 04/01/2023 | 0.2    | Redação Modelagem e Estudo de Caso                                | Guilherme Brito |
+| 05/01/2023 | 1.0    | Redação Implementação e Finalização do Artefato                   | Guilherme Brito |
+| 05/01/2023 | 1.1    | Algumas correções, como caminho de imagens e correções de tabelas | Guilherme Brito |
 
 ### Participantes do artefato
 
