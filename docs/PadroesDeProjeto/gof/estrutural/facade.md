@@ -2,10 +2,15 @@
 
 ## Histórico de Versões
 
-| Data       | Versão | Descrição            | Autor(es)        | Revisor(es) |
-| ---------- | ------ | -------------------- | ---------------- | ----------- |
-| 05/01/2023 | 1.0    | Criação do documento | Marcos Cabeceira | Karla Feliciano |
+| Data       | Versão | Descrição                         | Autor(es)        | Revisor(es)     |
+| ---------- | ------ | --------------------------------- | ---------------- | --------------- |
+| 05/01/2023 | 1.0    | Criação do documento              | Marcos Cabeceira | Karla Feliciano |
+| 05/01/2023 | 2.0    | Inclusão de exemplos de aplicação | Karla Feliciano  |                 |
 
+## Participantes do artefato
+
+- Marcos Cabeceira
+- Karla Feliciano
 
 ## Introdução
 
@@ -76,7 +81,6 @@ O padrão Facade disponibiliza uma interface simples para um sistema complexo, o
 ## Aplicação no projeto
 
 ### Exemplo 1
-
 
 No nosso sistema, e-Rifas, um exemplo do Facade seria:
 
@@ -157,3 +161,69 @@ raffle.addPrize("Livro de receitas de bolo");
 String winner = raffle.drawWinner();
 ```
 
+### Exemplo 2
+
+Outra aplicação possível no projeto é no cadastro de rifas, onde é necessário atualizar e realizar ações em outras partes do sistema, elevando a complexidade para o usuário. Para resolver isso, uma alternativa seria acoplar todos essas subsistemas em uma só Fachada, como exemplificado a seguir.
+
+<center>
+
+|  ![diagrama.png](../../../assets/facade/diagramaFacade.png)   |
+| :-----------------------------------------------------------: |
+| Figura 1: Diagrama da aplicação do Facade. <br/> Autor: Karla |
+
+</center>
+
+<center>
+
+| ![classRifa.png](../../../assets/facade/rifaClass.png) |
+| :----------------------------------------------------: |
+|  Figura 2: Código da classe Rifa. <br/> Autor: Karla   |
+
+</center>
+
+<center>
+
+| ![classCatalogo.png](../../../assets/facade/catalogoClass.png) |
+| :------------------------------------------------------------: |
+|  Figura 3: Código da classe CatalogoRifas. <br/> Autor: Karla  |
+
+</center>
+
+<center>
+
+| ![classAdministrador.png](../../../assets/facade/adminClass.png) |
+| :--------------------------------------------------------------: |
+|   Figura 4: Código da classe Administrador. <br/> Autor: Karla   |
+
+</center>
+
+<center>
+
+|  ![cod1.png](../../../assets/facade/notificadorClass.png)  |
+| :--------------------------------------------------------: |
+| Figura 5: Código da classe Notificador. <br/> Autor: Karla |
+
+</center>
+
+<center>
+
+| ![cod1.png](../../../assets/facade/cadastraFacadeClass.png) |
+| :---------------------------------------------------------: |
+|   Figura 6: Código da classe Fachada. <br/> Autor: Karla    |
+
+</center>
+
+Classe main para testar o código:
+
+<center>
+
+|  ![cod1.png](../../../assets/facade/mainClass.png)  |
+| :-------------------------------------------------: |
+| Figura 7: Código da classe Main. <br/> Autor: Karla |
+
+</center>
+
+## Referências
+
+- Observer Pattern - https://refactoring.guru/pt-br/design-patterns/facade
+- Façade Teoria e Prática - Padrões de Projeto - https://youtu.be/A7mNiaBACYs
