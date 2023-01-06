@@ -33,3 +33,98 @@ Para um produto, ele simplesmente retornaria o preço dele. Para uma caixa, ele 
     Fonte: <a href="https://refactoring.guru/pt-br/design-patterns/composite">Design Patterns</a>
   </figcaption>
 </figure>
+
+## 3. Exemplos no código
+
+Conforme o diagrama de componentes abaixo, foi feita uma sugestão de utilização do padrão composite para o escopo de rifas usando o sistema de carrinho de compras.
+
+<figure>
+  <figcaption style="text-align: center !important">
+    Figura 2: Diagrama de componentes
+  </figcaption>
+
+  ![carrinho-compras](https://user-images.githubusercontent.com/53023400/210902718-04109e26-2c1b-4460-b89f-56bdbe4886c7.png)
+
+  <figcaption style="text-align: center !important">
+    Fonte: Próprio autor
+  </figcaption>
+</figure>
+
+
+<figure>
+  <figcaption style="text-align: center !important">
+    Figura 3: Rifa Componente (Interface)
+  </figcaption>
+
+  ![rifa-component](https://user-images.githubusercontent.com/53023400/210902779-5704171c-04a9-448c-8508-85c112369101.png)
+
+  <figcaption style="text-align: center !important">
+    Fonte: Próprio autor
+  </figcaption>
+</figure>
+
+
+<figure>
+  <figcaption style="text-align: center !important">
+    Figura 4: Produto
+  </figcaption>
+
+  <div style="background-color:#000">
+
+  ![produto](https://user-images.githubusercontent.com/53023400/210902908-91eb3ac5-a14b-4a06-a308-4f7e80ac50ba.png)
+
+  </div>
+
+  <figcaption style="text-align: center !important">
+    Fonte: Próprio autor
+  </figcaption>
+</figure>
+
+<figure>
+  <figcaption style="text-align: center !important">
+    Figura 5: Rifa (Leaf)
+  </figcaption>
+
+  <div style="background-color:#000">
+
+  ![rifa](https://user-images.githubusercontent.com/53023400/210903001-8a9f5287-aacc-4c13-ab31-dff76544cbf3.png)
+
+  </div>
+
+  <figcaption style="text-align: center !important">
+    Fonte: Próprio autor
+  </figcaption>
+</figure>
+
+
+<figure>
+  <figcaption style="text-align: center !important">
+    Figura 6: Pedido (leaf)
+  </figcaption>
+
+  <div style="background-color:#000">
+
+  ![pedido](https://user-images.githubusercontent.com/53023400/210904194-f296fba9-bb5e-49e9-8511-4008f347e35f.png)
+
+  </div>
+
+  <figcaption style="text-align: center !important">
+    Fonte: Próprio autor
+  </figcaption>
+</figure>
+
+<figure>
+  <figcaption style="text-align: center !important">
+    Figura 6: Rifa composite (Composite)
+  </figcaption>
+
+  <div style="background-color:#000">
+
+  ![rifa-composite](https://user-images.githubusercontent.com/53023400/210904378-7b90846f-4f0f-4172-ac50-f7d82bcc6a88.png)
+
+  </div>
+
+  <figcaption style="text-align: center !important">
+    Fonte: Próprio autor
+  </figcaption>
+</figure>
