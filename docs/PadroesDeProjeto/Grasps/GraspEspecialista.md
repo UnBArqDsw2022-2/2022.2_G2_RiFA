@@ -2,11 +2,11 @@
 
 ## Histórico de Versões
 
-| Data   | Versão | Descrição                | Autor(es)    | Revisor(es) |
-| ------ | ------ | ------------------------ | ------------ | ----------- |
-| 05-Jan | 0.1    | Criação do documento     | Eurico Abreu | -           |
-| 05-Jan | 0.2    | Introdução               | Eurico Abreu | -           |
-| 05-Jan | 0.3    | Finalização do documento | Eurico Abreu | -           |
+| Data   | Versão | Descrição                | Autor(es)    | Revisor(es)    |
+| ------ | ------ | ------------------------ | ------------ | -------------- |
+| 05-Jan | 0.1    | Criação do documento     | Eurico Abreu | Lucas Pimentel |
+| 05-Jan | 0.2    | Introdução               | Eurico Abreu | Lucas Pimentel |
+| 05-Jan | 0.3    | Finalização do documento | Eurico Abreu | Lucas Pimentel |
 
 ## 1. Introdução
 
