@@ -73,6 +73,7 @@
         - [Iterator](/PadroesDeProjeto/gof/comportamental/padraoGofIterator.md)
       - Padrões Estruturais
         - [Composite](PadroesDeProjeto/gof/estrutural/composite.md)
+        - [Facade](PadroesDeProjeto/gof/estrutural/facade.md)
       - Padrões Emergentes
         - [Injeção de Dependências](PadroesDeProjeto/emergente/injecao-de-dependencias.md)
     - [3.3. Modelagem Ágil](/docs/PadroesDeProjeto/3.3.PadroesExtra.md)
