@@ -67,6 +67,8 @@
     - [3.2. Módulo Padrões de Projeto GoFs](/PadroesDeProjeto/3.2.GoFs.md)
       - Padrões Comportamentais
         - [Observer](/PadroesDeProjeto/gof/comportamental/padraoGofObserver.md)
+      - Padrões Estruturais
+        - [Composite](PadroesDeProjeto/gof/estrutural/composite.md) 
     - [3.3. Modelagem Ágil](/docs/PadroesDeProjeto/3.3.PadroesExtra.md)
     - [3.4. Iniciativas Extras - Padrões de Projeto](/docs/PadroesDeProjeto/3.4.IniciativasExtras.md)
     - [3.5. Participações - Padrões de Projeto](/docs/PadroesDeProjeto/3.5.ParticipacoesPadroes.md)
