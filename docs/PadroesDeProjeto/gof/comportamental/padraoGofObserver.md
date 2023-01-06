@@ -1,4 +1,4 @@
-# Diagrama de Pacotes
+# Observer
 
 ## Histórico de Versões
 
@@ -8,11 +8,13 @@
 | 04/01/2023 | 0.2    | Redação Modelagem e Estudo de Caso                                | Guilherme Brito |
 | 05/01/2023 | 1.0    | Redação Implementação e Finalização do Artefato                   | Guilherme Brito |
 | 05/01/2023 | 1.1    | Algumas correções, como caminho de imagens e correções de tabelas | Guilherme Brito |
-| 05/01/2023 | 1.1    | Revisão do artefato                                               | André Alves     |
+| 05/01/2023 | 1.2    | Revisão do artefato                                               | André Alves     |
+| 05/01/2023 | 1.3    | Correção do título                                                | André Alves     |
 
 ### Participantes do artefato
 
 - Guilherme Brito (Autor)
+- André Alves (Revisor)
 
 ## 1. Introdução
 
