@@ -67,7 +67,7 @@ A imagem a seguir mostra a modelagem da estrutura da aplicação desse padrão.
 
 </center>
 
-Para a modelagem do cenário descrito no começo dessa sessão, foi montado o seguinte diagrama a seguir:
+Para a modelagem do cenário descrito no começo dessa seção, foi montado o seguinte diagrama:
 
 <center>
 
