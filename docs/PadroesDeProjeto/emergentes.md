@@ -1,8 +1,9 @@
 # Módulo Padrões de Projeto Emergentes
 
-| Data   | Versão | Descrição            | Autor(es)  | Revisor(es) |
-| ------ | ------ | -------------------- | ---------- | ----------- |
-| 05-Jan | 0.1    | Criação do documento | João Paulo | -           |
+| Data   | Versão | Descrição            | Autor(es)       | Revisor(es)     |
+| ------ | ------ | -------------------- | --------------- | --------------- |
+| 05-Jan | 0.1    | Criação do documento | João Paulo      | Karla Feliciano |
+| 06-Jan | 0.2    | Revisão do documento | Karla Feliciano | -               |
 
 # O que são os padrões de projeto emergentes?
 
@@ -14,7 +15,7 @@ Os padrões de projeto emergentes são importantes porque podem ajudar a melhora
 
 # Aplicação no Projeto.
 
-[Injeção de Dependências](../PadroesDeProjeto/emergente/injecao-de-dependencias.md)
+[Injeção de Dependências](/PadroesDeProjeto/emergente/injecao-de-dependencias.md)
 
 ## Referências
 
