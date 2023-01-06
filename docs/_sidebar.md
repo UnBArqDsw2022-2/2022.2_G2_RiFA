@@ -76,9 +76,9 @@
         - [Facade](PadroesDeProjeto/gof/estrutural/facade.md)
       - Padrões Emergentes
         - [Injeção de Dependências](PadroesDeProjeto/emergente/injecao-de-dependencias.md)
-    - [3.3. Modelagem Ágil](/docs/PadroesDeProjeto/3.3.PadroesExtra.md)
-    - [3.4. Iniciativas Extras - Padrões de Projeto](/docs/PadroesDeProjeto/3.4.IniciativasExtras.md)
-    - [3.5. Participações - Padrões de Projeto](/docs/PadroesDeProjeto/3.5.ParticipacoesPadroes.md)
+    - [3.3. Modelagem Ágil](PadroesDeProjeto/3.3.PadroesExtra.md)
+    - [3.4. Iniciativas Extras - Padrões de Projeto](PadroesDeProjeto/3.4.IniciativasExtras.md)
+    - [3.5. Participações - Padrões de Projeto](PadroesDeProjeto/3.5.ParticipacoesPadroes.md)
 
 - **Arquitetura de Software & Reutilização**
   - [4. Desenho de Software (Arquitetura & Reutilização de Software)](/docs/ArquiteturaReutilizacao/4.ArquiteturaReutilizacao.md)
