@@ -3,11 +3,12 @@
 ## Histórico de Versões
 
 | Data       | Versão | Descrição                                                         | Autor(es)       |
-|------------|--------|-------------------------------------------------------------------|-----------------|
+| ---------- | ------ | ----------------------------------------------------------------- | --------------- |
 | 03/01/2023 | 0.1    | Redação Introdução                                                | Guilherme Brito |
 | 04/01/2023 | 0.2    | Redação Modelagem e Estudo de Caso                                | Guilherme Brito |
 | 05/01/2023 | 1.0    | Redação Implementação e Finalização do Artefato                   | Guilherme Brito |
 | 05/01/2023 | 1.1    | Algumas correções, como caminho de imagens e correções de tabelas | Guilherme Brito |
+| 05/01/2023 | 1.1    | Revisão do artefato                                               | André Alves     |
 
 ### Participantes do artefato
 
@@ -48,7 +49,7 @@ A imagem abaixo exemplifica essa fala.
 <center>
 
 |                      ![img.png](../../../assets/observer1.png)                      |
-|:-----------------------------------------------------------------------------------:|
+| :---------------------------------------------------------------------------------: |
 | Figura 1: Mecanismo de Assinatura do Padrão Observer. <br/> Fonte: Guru.Refactoring |
 
 </center>
@@ -61,7 +62,7 @@ A imagem a seguir mostra a modelagem da estrutura da aplicação desse padrão.
 <center>
 
 |                    ![img.png](../../../assets/observer2.png)                     |
-|:--------------------------------------------------------------------------------:|
+| :------------------------------------------------------------------------------: |
 | Figura 2: Estrutura de Classes do Padrão Observer. <br/> Fonte: Guru.Refactoring |
 
 </center>
@@ -71,7 +72,7 @@ Para a modelagem do cenário descrito no começo dessa sessão, foi montado o se
 <center>
 
 |                  ![img_2.png](../../../assets/observerDiagramClass.png)                  |
-|:----------------------------------------------------------------------------------------:|
+| :--------------------------------------------------------------------------------------: |
 | Figura 3: Diagrama de Classes modelando o cenário proposto. <br/> Autor: Guilherme Brito |
 
 </center>
@@ -85,20 +86,24 @@ cenário.
 <center>
 
 > #### Interface Subscriber: TODA parte interessada deverá implementar essa interface.
+>
 > | ![Interface Subscriber](../../../assets/observerSubscriberInt.png) |
-> |:-----:|
+> | :----------------------------------------------------------------: |
 
 > #### Classes Interessadas no evento de Nova Rifa. (Classes diferentes, porém implementam a mesma interface)
-> | ![Classe Interessada (Usuario)](../../../assets/observerUsuarioClass.png) | ![Classe Interessada (Admin)](../../../assets/observerAdminClass.png)  |
-> |:------------------------:|:-----:|
+>
+> | ![Classe Interessada (Usuario)](../../../assets/observerUsuarioClass.png) | ![Classe Interessada (Admin)](../../../assets/observerAdminClass.png) |
+> | :-----------------------------------------------------------------------: | :-------------------------------------------------------------------: |
 
 > #### Classe Notificadora (Com os métodos de Inscrição e Desinscrição)
+>
 > | ![Classe Notificadora](../../../assets/observerPublisher.png) |
-> |:-----:|
+> | :-----------------------------------------------------------: |
 
 > #### Classe responsável pela emissão de eventos
+>
 > | ![Classe emissora de eventos](../../../assets/observerCatalogoRifas.png) |
-> |:-----:|
+> | :----------------------------------------------------------------------: |
 
 </center>
 
@@ -107,7 +112,7 @@ cenário.
 Para uma pequena demonstração, foi criada uma classe App com o método main e nela foi simulado eventos de inscrições e
 desinscrições de Usuários ao evento de nova rifa, assim como a adição de novas rifas no catálogo.
 
-~~~ java
+```java
 
 import java.util.Arrays;
 
@@ -133,16 +138,15 @@ public class App {
     }
 }
 
-~~~
+```
 
 A execução desse código gerou a seguinte saída (como o esperado):
 
 <center>
 
-| ![img7.png](../../../assets/saidaObserver.png) |
-|:--:|
+|           ![img7.png](../../../assets/saidaObserver.png)            |
+| :-----------------------------------------------------------------: |
 | Imagem 1: Saída da execução da demonstração. Autor: Guilherme Brito |
-
 
 </center>
 
