@@ -2,11 +2,13 @@
 
 ## Histórico de Versões
 
-| Data   | Versão | Descrição                       | Autor(es)      |
-| ------ | ------ | ------------------------------- | -------------- |
-| 05-Jan | 0.1    | Construção da Página            | Jackes Fonseca |
-| 05-Jan | 0.2    | Adiciona introdução             | Jackes Fonseca |
-| 05-Jan | 0.3    | Adiciona aplicação e introdução | Jackes Fonseca |
+| Data   | Versão | Descrição                        | Autor(es)       |
+|--------|--------|----------------------------------|-----------------|
+| 05-Jan | 0.1    | Construção da Página             | Jackes Fonseca  |
+| 05-Jan | 0.2    | Adiciona introdução              | Jackes Fonseca  |
+| 05-Jan | 0.3    | Adiciona aplicação e introdução  | Jackes Fonseca  |
+| 05-Jan | 0.4    | Revisão do Artefato              | Guilherme Brito |
+| 05-Jan | 0.5    | Correção do Artefato e Conclusão | Jackes Fonseca  |
 
 ## 1. Introdução
 
