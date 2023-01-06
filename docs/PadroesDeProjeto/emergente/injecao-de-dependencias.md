@@ -5,7 +5,7 @@
 | Data       | Versão | Descrição          | Autor(es)       |
 | ---------- | ------ | ------------------ | --------------- |
 | 05/01/2023 | 0.1    | Criação do Arquivo | João Paulo Lima |
-| 05/01/2023 | 0.1    | Renomeando arquivo | João Paulo Lima |
+| 05/01/2023 | 0.2    | Renomeando arquivo | João Paulo Lima |
 
 ### Participantes do artefato
 
