@@ -69,6 +69,7 @@
         - [Observer](/PadroesDeProjeto/gof/comportamental/padraoGofObserver.md)
       - Padrões Estruturais
         - [Composite](PadroesDeProjeto/gof/estrutural/composite.md)
+        - [Facade](PadroesDeProjeto/gof/estrutural/facade.md)
     - [3.3. Modelagem Ágil](/docs/PadroesDeProjeto/3.3.PadroesExtra.md)
     - [3.4. Iniciativas Extras - Padrões de Projeto](/docs/PadroesDeProjeto/3.4.IniciativasExtras.md)
     - [3.5. Participações - Padrões de Projeto](/PadroesDeProjeto/3.5.ParticipacoesPadroes.md)
