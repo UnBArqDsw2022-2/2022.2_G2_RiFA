@@ -101,7 +101,24 @@ Conforme o diagrama de componentes abaixo, foi feita uma sugestão de utilizaç�
 
 <figure>
   <figcaption style="text-align: center !important">
-    Figura 6: Pedido (leaf)
+    Figura 5: Rifa composite (leaf)
+  </figcaption>
+
+  <div style="background-color:#000">
+
+  ![rifa-composite](https://user-images.githubusercontent.com/53023400/210904378-7b90846f-4f0f-4172-ac50-f7d82bcc6a88.png)
+
+  </div>
+
+  <figcaption style="text-align: center !important">
+    Fonte: Próprio autor
+  </figcaption>
+</figure>
+
+
+<figure>
+  <figcaption style="text-align: center !important">
+    Figura 6: Pedido (composite)
   </figcaption>
 
   <div style="background-color:#000">
@@ -115,21 +132,7 @@ Conforme o diagrama de componentes abaixo, foi feita uma sugestão de utilizaç�
   </figcaption>
 </figure>
 
-<figure>
-  <figcaption style="text-align: center !important">
-    Figura 6: Rifa composite (Composite)
-  </figcaption>
 
-  <div style="background-color:#000">
-
-  ![rifa-composite](https://user-images.githubusercontent.com/53023400/210904378-7b90846f-4f0f-4172-ac50-f7d82bcc6a88.png)
-
-  </div>
-
-  <figcaption style="text-align: center !important">
-    Fonte: Próprio autor
-  </figcaption>
-</figure>
 
 ## 4. Conclusão
 O maior benefício dessa abordagem é que você não precisa se preocupar sobre as classes concretas dos objetos que compõem essa árvore. Você não precisa saber se um objeto é um produto simples ou uma caixa sofisticada. Você pode tratar todos eles com a mesma interface. Quando você chama um método os próprios objetos passam o pedido pela árvore.
