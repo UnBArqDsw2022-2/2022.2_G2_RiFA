@@ -1,10 +1,11 @@
-# 3.7 Padrões de Projeto Emergentes - Facade
+# Facade
 
 ## Histórico de Versões
 
 | Data       | Versão | Descrição            | Autor(es)        | Revisor(es) |
 | ---------- | ------ | -------------------- | ---------------- | ----------- |
-| 05/01/2023 | 1.0    | Criação do documento | Marcos Cabeceira |             |
+| 05/01/2023 | 1.0    | Criação do documento | Marcos Cabeceira | Karla Feliciano |
+
 
 ## Introdução
 
@@ -54,7 +55,7 @@ class Subsystem2 {
 }
 ```
 
-O Facade Facade expõe dois métodos públicos: operation1 e operation2. Esses métodos são a interface simplificada para o sistema complexo composto pelos subsistemas Subsystem1 e Subsystem2. Eles encapsulam a lógica mais complexa que está sendo executada pelos subsistemas e fornecem uma interface mais simples para os usuários do sistema.
+O Facade expõe dois métodos públicos: operation1 e operation2. Esses métodos são a interface simplificada para o sistema complexo composto pelos subsistemas Subsystem1 e Subsystem2. Eles encapsulam a lógica mais complexa que está sendo executada pelos subsistemas e fornecem uma interface mais simples para os usuários do sistema.
 
 Para usar o sistema, um usuário pode criar uma instância do Facade Facade e chamar os métodos públicos nele. Por exemplo:
 
@@ -70,7 +71,12 @@ Imagine que você deve fazer seu código funcionar com vários objetos e que pod
 
 ## Solução
 
-O padrão Facade disponibiliza uma interface simples para um sistema complexo, onde você pode ter um uso limitado de uma biblioteca maior
+O padrão Facade disponibiliza uma interface simples para um sistema complexo, onde você pode ter um uso limitado de uma biblioteca maior.
+
+## Aplicação no projeto
+
+### Exemplo 1
+
 
 No nosso sistema, e-Rifas, um exemplo do Facade seria:
 
@@ -150,3 +156,4 @@ raffle.addPrize("Livro de receitas de bolo");
 // Sorteie um vencedor
 String winner = raffle.drawWinner();
 ```
+
