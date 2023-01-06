@@ -69,6 +69,8 @@
         - [Observer](/PadroesDeProjeto/gof/comportamental/padraoGofObserver.md)
       - Padrões Estruturais
         - [Composite](PadroesDeProjeto/gof/estrutural/composite.md)
+      - Padrões Emergentes
+        - [Injeção de Dependências](PadroesDeProjeto/emergente/injecao-de-dependencias.md)
     - [3.3. Modelagem Ágil](/docs/PadroesDeProjeto/3.3.PadroesExtra.md)
     - [3.4. Iniciativas Extras - Padrões de Projeto](/docs/PadroesDeProjeto/3.4.IniciativasExtras.md)
     - [3.5. Participações - Padrões de Projeto](/PadroesDeProjeto/3.5.ParticipacoesPadroes.md)
