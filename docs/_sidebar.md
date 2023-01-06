@@ -65,6 +65,9 @@
             - [3.1.4 Especialista](/PadroesDeProjeto/Grasps/GraspEspecialista.md)
             - [3.1.5 Polimorfismo](/PadroesDeProjeto/Grasps/GraspPolimorfismo.md)
         - [3.2. Módulo Padrões de Projeto GoFs](/PadroesDeProjeto/3.2.GoFs.md)
+            - Padrões Criacionais
+                - [Factory Method](/PadroesDeProjeto/gof/criacional/factoryMethod.md)
+                - [Singleton](/PadroesDeProjeto/gof/criacional/singleton.md)
             - Padrões Comportamentais
                 - [Observer](/PadroesDeProjeto/gof/comportamental/padraoGofObserver.md)
             - Padrões Estruturais
