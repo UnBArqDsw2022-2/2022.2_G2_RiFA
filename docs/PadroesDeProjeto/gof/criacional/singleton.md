@@ -19,7 +19,7 @@ A ContextAPI proporciona a transmissão de dados, sem a necessidade de aninhamen
 
 O uso da Api se da da seguinte forma
 
-![contextApi](../../assets/contextApi.png)
+![contextApi](../../../assets/contextApi.png)
 
 Após, é necessário criar o provider desse Context. Na propriedade values, será disponibilizado os atributos que serão globais
 
