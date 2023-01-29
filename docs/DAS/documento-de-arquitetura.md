@@ -2,15 +2,22 @@
 
 ## Histórico de Versões
 
-| Data | Versão | Descrição | Autor(es) | Revisor(es) |
-| ---- | ------ | --------- | --------- | ----------- |
-|      |        |           |           |             |
+| Data  | Versão | Descrição                            | Autor(es) | Revisor(es) |
+| ----- | ------ | ------------------------------------ | --------- | ----------- |
+| 29-01 | 1.0    | Criação do documento                 | Eurico    | Lucas       |
+| 29-01 | 1.1    | Estrutura do documento               | Lucas     | Eurico      |
+| 29-01 | 1.2    | Visão de implantação e implementação | Eurico    | Lucas       |
 
 ## 1. Introdução
 
 ## 2. Visão Lógica
 
 ## 3. Visão de Implantação
+
+A visão de implantação é uma forma de demonstrar as relações entre os componentes. Abaixo temos um diagrama de implantação, que demonstra quais partes dependem de quais.
+![Diagrama de Implantação](docs/assets/diagrama-de-implantacao.png)
+
+> Figura 1: Diagrama de Implantação. Autor: Eurico Abreu.
 
 ## 4. Visão de Implementação
 
