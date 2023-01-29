@@ -75,14 +75,18 @@
         - [Composite](/PadroesDeProjeto/gof/estrutural/composite.md)
         - [Facade](/PadroesDeProjeto/gof/estrutural/facade.md)
     - [3.3. Módulo Padrões de Projeto Emergentes](/PadroesDeProjeto/emergentes.md)
-       - [Injeção de Dependências](/PadroesDeProjeto/emergente/injecao-de-dependencias.md)
+      - [Injeção de Dependências](/PadroesDeProjeto/emergente/injecao-de-dependencias.md)
     - [3.3. Modelagem Ágil](/PadroesDeProjeto/3.3.PadroesExtra.md)
     - [3.4. Iniciativas Extras - Padrões de Projeto](/PadroesDeProjeto/3.4.IniciativasExtras.md)
     - [3.5. Participações - Padrões de Projeto](/PadroesDeProjeto/3.5.ParticipacoesPadroes.md)
 
 - **Arquitetura de Software & Reutilização**
+
   - [4. Desenho de Software (Arquitetura & Reutilização de Software)](/docs/ArquiteturaReutilizacao/4.ArquiteturaReutilizacao.md)
     - [4.1. Módulo Estilos e Padrões Arquiteturais](/docs/ArquiteturaReutilizacao/4.1.PadroesArquiteturais.md)
     - [4.2. Módulo Reutilização de Software](/docs/ArquiteturaReutilizacao/4.2.ReutilizacaoDeSoftware.md)
     - [4.3. Iniciativas Extras - Arquitetura & Reutilização de Software](/docs/ArquiteturaReutilizacao/4.3.IniciativasExtras.md)
     - [4.4. Participações - Arquitetura & Reutilização de Software](/docs/ArquiteturaReutilizacao/4.4.ParticipacoesArqReutilizacao.md)
+
+- **DAS**
+  - [Documento de Arquitetura de Software](docs/DAS/documento-de-arquitetura.md)
