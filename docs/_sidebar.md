@@ -87,6 +87,4 @@
     - [4.2. Módulo Reutilização de Software](/docs/ArquiteturaReutilizacao/4.2.ReutilizacaoDeSoftware.md)
     - [4.3. Iniciativas Extras - Arquitetura & Reutilização de Software](/docs/ArquiteturaReutilizacao/4.3.IniciativasExtras.md)
     - [4.4. Participações - Arquitetura & Reutilização de Software](/docs/ArquiteturaReutilizacao/4.4.ParticipacoesArqReutilizacao.md)
-
-- **DAS**
-  - [Documento de Arquitetura de Software](docs/DAS/documento-de-arquitetura.md)
+    - [Documento de Arquitetura de Software](docs/DAS/documento-de-arquitetura.md)
