@@ -9,7 +9,7 @@
 | 29-01 | 1.2    | Visão de implantação e implementação | Eurico    | Lucas       |
 | 29-01 | 1.3    | Representação arquitetural           | Lucas     | Eurico      |
 | 29-01 | 1.4    | Introdução e Visão Lógica            | Karla     |             |
-| 29-01 | 1.5    | Metas e Restrições da Arquitetura    | Lucas     | Eurico      |
+| 30-01 | 1.5    | Metas e Restrições da Arquitetura    | Lucas     | Eurico      |
 
 ## 1. Introdução
 
