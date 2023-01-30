@@ -157,6 +157,12 @@ Autor: Guilherme Brito
 
 ## 6. Visão de Processos
 
+A visão de processos descreve como o sistema de tempo-de-execução é estruturado na forma de um conjunto de elementos que têm interações e comportamento de tempo-de-execução. A estrutura de tempo-de-execução normalmente tem pouca semelhança com a estrutura de código. Além disso, permite a visualização das partes dinâmicas do sistema, onde são evidenciados os processos, as threads e as interações entre elas.
+
+Nessa visão, nós podemos ter as seguintes representações que auxiliam em seu entendimento:
+
+### 6.1 Diagrama de atividades
+
 ## 7. Visão de Implantação
 
 A visão de implantação é uma forma de demonstrar as relações entre os componentes. Abaixo temos um diagrama de implantação, que demonstra quais partes dependem de quais.
