@@ -11,6 +11,7 @@
 | 29-01 | 1.4    | Introdução e Visão Lógica            | Karla      | João Paulo  |
 | 30-01 | 1.5    | Metas e Restrições da Arquitetura    | Lucas      | Eurico      |
 | 30-01 | 1.6    | Visão de Processos                   | Jackes     | João Paulo  |
+| 30-01 | 1.7    | Requisitos Mínimos                   | João Paulo |             |
 
 ## 1. Introdução
 
