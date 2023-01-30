@@ -2,18 +2,18 @@
 
 ## Histórico de Versões
 
-| Data  | Versão | Descrição                            | Autor(es)       | Revisor(es) |
-|-------|--------|--------------------------------------|-----------------|-------------|
-| 29-01 | 1.0    | Criação do documento                 | Eurico          | Lucas       |
-| 29-01 | 1.1    | Estrutura do documento               | Lucas           | Eurico      |
-| 29-01 | 1.2    | Visão de implantação e implementação | Eurico          | Lucas       |
-| 29-01 | 1.3    | Representação arquitetural           | Lucas           | Eurico      |
-| 29-01 | 1.4    | Introdução e Visão Lógica            | Karla           | João Paulo  |
-| 30-01 | 1.5    | Metas e Restrições da Arquitetura    | Lucas           | Eurico      |
-| 30-01 | 1.6    | Visão de Processos                   | Jackes          | João Paulo  |
-| 30-01 | 1.7    | Requisitos Mínimos                   | João Paulo      |             |
-| 30-01 | 1.8    | Visão Geral                          | João Paulo      |             |
-| 30-01 | 1.9    | Visão de Dados                       | Guilherme Brito |             |
+| Data  | Versão | Descrição                            | Autor(es)       | Revisor(es)     |
+|-------|--------|--------------------------------------|-----------------|-----------------|
+| 29-01 | 1.0    | Criação do documento                 | Eurico          | Lucas           |
+| 29-01 | 1.1    | Estrutura do documento               | Lucas           | Eurico          |
+| 29-01 | 1.2    | Visão de implantação e implementação | Eurico          | Lucas           |
+| 29-01 | 1.3    | Representação arquitetural           | Lucas           | Eurico          |
+| 29-01 | 1.4    | Introdução e Visão Lógica            | Karla           | João Paulo      |
+| 30-01 | 1.5    | Metas e Restrições da Arquitetura    | Lucas           | Eurico          |
+| 30-01 | 1.6    | Visão de Processos                   | Jackes          | João Paulo      |
+| 30-01 | 1.7    | Requisitos Mínimos                   | João Paulo      | Guilherme Brito |
+| 30-01 | 1.8    | Visão Geral                          | João Paulo      | Guilherme Brito |
+| 30-01 | 1.9    | Visão de Dados                       | Guilherme Brito | João Paulo      |
 
 ## 1. Introdução
 

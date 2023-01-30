@@ -42,11 +42,12 @@ consequentemente efetuar a compra dessas rifas.
 
 ## Screenshots Segunda Entrega <<FOCO: DSW(Modelagem)>>
 
-Adicione 2 ou mais screenshots do projeto em termos de artefatos da Segunda Entrega.
+![img.png](assets/classes_spring.png)
+![img_1.png](assets/diagrama_estados.png)
 
 ## Screenshots Terceira Entrega <<FOCO: DSW(Padrões de Projeto)>>
 
-Adicione 2 ou mais screenshots do projeto em termos de artefatos da Terceira Entrega.
+
 
 ## Screenshots Quarta Entrega (FINAL) <<FOCOS: Arquitetura & Reutilização de Software & PROJETO FINAL>>
 
