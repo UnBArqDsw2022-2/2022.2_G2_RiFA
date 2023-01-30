@@ -7,7 +7,7 @@
 | 29-01 | 1.0    | Criação do documento                 | Eurico    | Lucas       |
 | 29-01 | 1.1    | Estrutura do documento               | Lucas     | Eurico      |
 | 29-01 | 1.2    | Visão de implantação e implementação | Eurico    | Lucas       |
-| 29-01 | 1.3    | Introdução e Visão Lógica            | Karla     |             |
+| 29-01 | 1.3    | Introdução e Visão Lógica            | Karla     | João Paulo  |
 
 ## 1. Introdução
 
