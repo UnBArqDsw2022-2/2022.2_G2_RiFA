@@ -163,6 +163,20 @@ Nessa visão, nós podemos ter as seguintes representações que auxiliam em seu
 
 ### 6.1 Diagrama de atividades
 
+Esse diagrama já está disponível no escopo do nosso projeto, basta acessar: [Processos Envolvidos](../Base/processos.md)
+
+#### 6.1.1 Processo de Sprint Planning
+
+<iframe src="https://modeler.cloud.camunda.io/embed/bcacc039-0a37-4de7-bb23-1cbc1b26fc66" style="width:700px;height:500px;border:1px solid #ccc" allowfullscreen></iframe>
+
+#### 6.1.2 Processo de Desenvolvimento
+
+<iframe src="https://modeler.cloud.camunda.io/embed/2fa059a0-04f9-4bf5-ad35-070e88fdfcc3" style="width:700px;height:500px;border:1px solid #ccc" allowfullscreen></iframe>
+
+#### 6.1.3 Processo de Sprint Review
+
+<iframe src="https://modeler.cloud.camunda.io/embed/02762bb7-a16e-4ae3-a522-6a0cfc7078cb" style="width:700px;height:500px;border:1px solid #ccc" allowfullscreen></iframe>
+
 ## 7. Visão de Implantação
 
 A visão de implantação é uma forma de demonstrar as relações entre os componentes. Abaixo temos um diagrama de implantação, que demonstra quais partes dependem de quais.
