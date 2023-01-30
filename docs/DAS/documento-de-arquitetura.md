@@ -212,6 +212,10 @@ O seguinte diagrama já se encontra no nosso repositório e pode ser encontrado 
 - Ubuntu 18.04+ de 64 bits, Debian 10+, openSUSE 15.2+ ou Fedora Linux 32+.
 - Android 7.0 Nougat.
 
+### 10.2 Visão Geral
+
+Os ambientes são separados em 2 repositórios. Front-End e Back-end os dois estão somados em 800 megabytes necessários para a instalação miníma do ambiente de desenvolvimento. O sistema funciona sem a necessidade de instalar outros programas. Para usá-lo, é preciso ter conexão à internet. O dispositivo pode ser usado em computadores de todos os tipos. O desempenho leva em conta o grande número de usuários diários, incluindo gestores de rifas e administradores.
+
 ## 11. Qualidade
 
 ## Referências
