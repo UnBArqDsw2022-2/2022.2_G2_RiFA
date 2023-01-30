@@ -7,8 +7,9 @@
 | 29-01 | 1.0    | Criação do documento                 | Eurico    | Lucas       |
 | 29-01 | 1.1    | Estrutura do documento               | Lucas     | Eurico      |
 | 29-01 | 1.2    | Visão de implantação e implementação | Eurico    | Lucas       |
-| 29-01 | 1.3    | Representação arquitetural           | Lucas     |             |
+| 29-01 | 1.3    | Representação arquitetural           | Lucas     | Eurico      |
 | 29-01 | 1.4    | Introdução e Visão Lógica            | Karla     |             |
+| 29-01 | 1.5    | Metas e Restrições da Arquitetura    | Lucas     | Eurico      |
 
 ## 1. Introdução
 
@@ -140,9 +141,19 @@ Para o banco de dados, nós optamos por utilizar o PostgreSQL, que é um sistema
 
 ### 4.1. Metas
 
+- <b>Usabilidade:</b> A interface do aplicativo deve ser intuitiva e fácil de ser utilizada.
+- <b>Escalabilidade:</b> O código deve estar estruturado de forma com que permita futuras evoluções.
+- <b>Manutenibilidade:</b> O código da aplicação deve permitir manutenção e melhorias que não custem tempo e esforço acima do normal.
+- <b>Segurança:</b> A aplicação deverá manter os dados confidenciais de seus usuários armazenados em segurança por meio de ferramentas de encriptação de dados.
+- <b>Portabilidade:</b> A aplicação deverá operar com desempenho similar em todos os navegadores que suportar.
+
 ### 4.2. Restrições
 
-- <b>Idioma:</b> A aplicação
+- <b>Idioma:</b> A aplicação deverá ser desenvolvido no idioma português do Brasil.
+- <b>Conectividade:</b> É necessário estar conectado a internet para utilizar a aplicação.
+- <b>Plataforma:</b> A aplicação deverá ter suporte para os browsers Chrome, Safari e Firefox.
+- <b>Tecnologia:</b> A aplicação será desenvolvida utilizando o framework Java Spring boot e a biblioteca TypeScript React.
+- <b>Prazo:</b> A aplicação com as funcionalidades propostas deverá ser finalizada até o dia 30/01/2023
 
 ## 5. Visão de Implantação
 
