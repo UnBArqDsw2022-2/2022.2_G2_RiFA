@@ -82,9 +82,9 @@
 
 - **Arquitetura de Software & Reutilização**
 
-  - [4. Desenho de Software (Arquitetura & Reutilização de Software)](/docs/ArquiteturaReutilizacao/4.ArquiteturaReutilizacao.md)
-    - [4.1. Módulo Estilos e Padrões Arquiteturais](/docs/ArquiteturaReutilizacao/4.1.PadroesArquiteturais.md)
-    - [4.2. Módulo Reutilização de Software](/docs/ArquiteturaReutilizacao/4.2.ReutilizacaoDeSoftware.md)
-    - [4.3. Iniciativas Extras - Arquitetura & Reutilização de Software](/docs/ArquiteturaReutilizacao/4.3.IniciativasExtras.md)
-    - [4.4. Participações - Arquitetura & Reutilização de Software](/docs/ArquiteturaReutilizacao/4.4.ParticipacoesArqReutilizacao.md)
-    - [4.5. Documento de Arquitetura de Software](/DAS/documento-de-arquitetura.md)
+  - [4. Desenho de Software (Arquitetura & Reutilização de Software)](ArquiteturaReutilizacao/4.ArquiteturaReutilizacao.md)
+    - [4.1. Módulo Estilos e Padrões Arquiteturais](ArquiteturaReutilizacao/4.1.PadroesArquiteturais.md)
+    - [4.2. Módulo Reutilização de Software](/ArquiteturaReutilizacao/4.2.ReutilizacaoDeSoftware.md)
+    - [4.3. Iniciativas Extras - Arquitetura & Reutilização de Software](ArquiteturaReutilizacao/4.3.IniciativasExtras.md)
+    - [4.4. Participações - Arquitetura & Reutilização de Software](ArquiteturaReutilizacao/4.4.ParticipacoesArqReutilizacao.md)
+    - [4.5. Documento de Arquitetura de Software](DAS/documento-de-arquitetura.md)
