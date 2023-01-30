@@ -10,6 +10,7 @@
 | 29-01 | 1.3    | Representação arquitetural           | Lucas     | Eurico      |
 | 29-01 | 1.4    | Introdução e Visão Lógica            | Karla     | João Paulo  |
 | 30-01 | 1.5    | Metas e Restrições da Arquitetura    | Lucas     | Eurico      |
+| 30-01 | 1.6    | Visão de Processos    | Jackes     |       |
 
 ## 1. Introdução
 
@@ -156,6 +157,26 @@ Autor: Guilherme Brito
 </center>
 
 ## 6. Visão de Processos
+
+A visão de processos descreve como o sistema de tempo-de-execução é estruturado na forma de um conjunto de elementos que têm interações e comportamento de tempo-de-execução. A estrutura de tempo-de-execução normalmente tem pouca semelhança com a estrutura de código. Além disso, permite a visualização das partes dinâmicas do sistema, onde são evidenciados os processos, as threads e as interações entre elas.
+
+Nessa visão, nós podemos ter as seguintes representações que auxiliam em seu entendimento:
+
+### 6.1 Diagrama de atividades
+
+Esse diagrama já está disponível no escopo do nosso projeto, basta acessar: [Processos Envolvidos](../Base/processos.md)
+
+#### 6.1.1 Processo de Sprint Planning
+
+<iframe src="https://modeler.cloud.camunda.io/embed/bcacc039-0a37-4de7-bb23-1cbc1b26fc66" style="width:700px;height:500px;border:1px solid #ccc" allowfullscreen></iframe>
+
+#### 6.1.2 Processo de Desenvolvimento
+
+<iframe src="https://modeler.cloud.camunda.io/embed/2fa059a0-04f9-4bf5-ad35-070e88fdfcc3" style="width:700px;height:500px;border:1px solid #ccc" allowfullscreen></iframe>
+
+#### 6.1.3 Processo de Sprint Review
+
+<iframe src="https://modeler.cloud.camunda.io/embed/02762bb7-a16e-4ae3-a522-6a0cfc7078cb" style="width:700px;height:500px;border:1px solid #ccc" allowfullscreen></iframe>
 
 ## 7. Visão de Implantação
 
