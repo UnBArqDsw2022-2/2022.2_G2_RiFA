@@ -2,15 +2,17 @@
 
 ## Histórico de Versões
 
-| Data  | Versão | Descrição                            | Autor(es) | Revisor(es) |
-| ----- | ------ | ------------------------------------ | --------- | ----------- |
-| 29-01 | 1.0    | Criação do documento                 | Eurico    | Lucas       |
-| 29-01 | 1.1    | Estrutura do documento               | Lucas     | Eurico      |
-| 29-01 | 1.2    | Visão de implantação e implementação | Eurico    | Lucas       |
-| 29-01 | 1.3    | Representação arquitetural           | Lucas     | Eurico      |
-| 29-01 | 1.4    | Introdução e Visão Lógica            | Karla     | João Paulo  |
-| 30-01 | 1.5    | Metas e Restrições da Arquitetura    | Lucas     | Eurico      |
-| 30-01 | 1.6    | Visão de Processos    | Jackes     |       |
+| Data  | Versão | Descrição                            | Autor(es)  | Revisor(es) |
+| ----- | ------ | ------------------------------------ | ---------- | ----------- |
+| 29-01 | 1.0    | Criação do documento                 | Eurico     | Lucas       |
+| 29-01 | 1.1    | Estrutura do documento               | Lucas      | Eurico      |
+| 29-01 | 1.2    | Visão de implantação e implementação | Eurico     | Lucas       |
+| 29-01 | 1.3    | Representação arquitetural           | Lucas      | Eurico      |
+| 29-01 | 1.4    | Introdução e Visão Lógica            | Karla      | João Paulo  |
+| 30-01 | 1.5    | Metas e Restrições da Arquitetura    | Lucas      | Eurico      |
+| 30-01 | 1.6    | Visão de Processos                   | Jackes     | João Paulo  |
+| 30-01 | 1.7    | Requisitos Mínimos                   | João Paulo |             |
+| 30-01 | 1.8    | Visão Geral                          | João Paulo |             |
 
 ## 1. Introdução
 
@@ -57,7 +59,7 @@ Para facilitar o entendimento, o documento de arquitetura é dividido da seguint
 
 </center>
 
-Para o desenvolvimento da backend da aplicação, optamos por utilizar Java com o framework Spring Boot. Sendo assim, o Spring Boot é uma parte especializada do Spring Framework, que por sua vez é um framework que oferece uma programação e um modelo de configuração mais compreensivo para aplicações Java. A escolha da equipe em relação ao Spring Boot se deu em parte pela experência prévia de alguns membros com a configuração do ambiente e denvolvimento de aplicações com o framework e, também, pelo framework permitir o desenvolvimento de aplicações de alta qualidade com menores esforços de configuração e deploy.
+Para o desenvolvimento da backend da aplicação, optamos por utilizar Java com o framework Spring Boot. Sendo assim, o Spring Boot é uma parte especializada do Spring Framework, que por sua vez é um framework que oferece uma programação e um modelo de configuração mais compreensivo para aplicações Java. A escolha da equipe em relação ao Spring Boot se deu em parte pela experiência prévia de alguns membros com a configuração do ambiente e desenvolvimento de aplicações com o framework e, também, pelo framework permitir o desenvolvimento de aplicações de alta qualidade com menores esforços de configuração e deploy.
 
 No quesito arquitetural, o Spring Boot consiste de 4 camadas: Camada de Apresentação, Camada de Negócio, Camada de Persistência e Camada de Dados. Estas camadas se relacionam da seguinte maneira:
 
@@ -110,7 +112,7 @@ Para o banco de dados, nós optamos por utilizar o PostgreSQL, que é um sistema
 - <b>Idioma:</b> A aplicação deverá ser desenvolvido no idioma português do Brasil.
 - <b>Conectividade:</b> É necessário estar conectado a internet para utilizar a aplicação.
 - <b>Plataforma:</b> A aplicação deverá ter suporte para os browsers Chrome, Safari e Firefox.
-- <b>Tecnologia:</b> A aplicação será desenvolvida utilizando o framework Java Spring boot e a biblioteca TypeScript React.
+- <b>Tecnologia:</b> A aplicação será desenvolvida utilizando o framework Java Spring Boot e a biblioteca TypeScript React.
 - <b>Prazo:</b> A aplicação com as funcionalidades propostas deverá ser finalizada até o dia 30/01/2023
 
 ## 4. Visões de Caso de Uso
@@ -131,15 +133,16 @@ Esse diagrama foi desenvolvido em outras etapas do projeto e pode ser encontrado
 
 **Figura 5: Diagrama de Pacotes do Backend**  
 Autor: Lucas Pimentel
-</center>
 
+</center>
 
 <center>
 
-![pacotesFront](../assets/diagramaPacotesFrontEnd.png)  
+![pacotesFront](../assets/diagramaPacotesFrontEnd.png)
 
 **Figura 6: Diagrama de Pacotes do Frontend**  
 Autor: Lucas Pimentel
+
 </center>
 
 ### 5.2 Diagrama de Classes
@@ -148,12 +151,12 @@ Os Diagramas de classes estão entre os tipos mais úteis de diagramas UML pois 
 
 Esse diagrama foi desenvolvido em outras etapas do projeto e pode ser encontrado em mais detalhes em: [Diagrama de Pacotes](Modelagem/diagrama_classes.md).
 
-
 <center>
 
 ![classes](../assets/uml_classes_ent.png)
 **Figura 7: Diagrama de Classes**  
 Autor: Guilherme Brito
+
 </center>
 
 ## 6. Visão de Processos
@@ -164,7 +167,7 @@ Nessa visão, nós podemos ter as seguintes representações que auxiliam em seu
 
 ### 6.1 Diagrama de atividades
 
-Esse diagrama já está disponível no escopo do nosso projeto, basta acessar: [Processos Envolvidos]([../Base/processos.md](https://unbarqdsw2022-2.github.io/2022.2_G2_RiFA/#/Base/processos))
+Esse diagrama já está disponível no escopo do nosso projeto, basta acessar: [Processos Envolvidos](<[../Base/processos.md](https://unbarqdsw2022-2.github.io/2022.2_G2_RiFA/#/Base/processos)>)
 
 #### 6.1.1 Processo de Sprint Planning
 
@@ -201,12 +204,26 @@ O seguinte diagrama já se encontra no nosso repositório e pode ser encontrado 
 
 ## 10. Tamanho e Performance
 
+### 10.1 Requisitos Mínimos
+
+- Para acessar o e-Rifas é necessário o uso de internet estável.
+- Navegador de Internet com suporte para Html5, CSS, Javascript.
+- Windows 10 ou mais recente.
+- macOS High Sierra 10.13 ou mais recentes.
+- Ubuntu 18.04+ de 64 bits, Debian 10+, openSUSE 15.2+ ou Fedora Linux 32+.
+- Android 7.0 Nougat.
+
+### 10.2 Visão Geral
+
+Os ambientes são separados em 2 repositórios. Front-End e Back-end os dois estão somados em 800 megabytes necessários para a instalação miníma do ambiente de desenvolvimento. O sistema funciona sem a necessidade de instalar outros programas. Para usá-lo, é preciso ter conexão à internet. O dispositivo pode ser usado em computadores de todos os tipos. O desempenho leva em conta o grande número de usuários diários, incluindo gestores de rifas e administradores.
+
 ## 11. Qualidade
 
 ## Referências
 
 - Template - Software Architecture Document. Disponibilizado pela professora no moodle da disciplina. Acesso em: 29 de jan. de 2022.
-- Spring Boot – Architecture. Disponível em https://www.geeksforgeeks.org/spring-boot-architecture/ Acesso em 29 de janeiro de 2023.
+- Spring Boot – Architecture. Disponível em https://www.geeksforgeeks.org/spring-boot-architecture/. Acesso em 29 de janeiro de 2023.
 - Documentação React. Disponível em https://reactjs.org/ Acesso em 29 de janeiro de 2023.
 - Spring Boot Architecture – Detailed Explanation. Disponível em https://www.interviewbit.com/blog/spring-boot-architecture/ Acesso em 29 de janeiro de 2023.
 - Chapa Quente, Documento de Arquitetura. Disponível em: https://unbarqdsw2021-2.github.io/2021.2_G1_chapa_quente/#/pages/fase_04/documento_de_arquitetura. Acesso em: 29 de jan. de 2022.
+- Recursos Mínimos Chrome. Disponivel em https://support.google.com/chrome/a/answer/7100626?hl=pt-BR. Acesso em 30 de janeiro de 2023.
