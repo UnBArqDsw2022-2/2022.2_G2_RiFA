@@ -194,7 +194,7 @@ em: [Diagrama de Pacotes](Modelagem/diagrama_classes.md).
 
 <center>
 
-![classes](../assets/uml_classes_ent.png)
+![classes](../assets/uml_classes_ent_intellij.png)
 **Figura 7: Diagrama de Classes**  
 Autor: Guilherme Brito
 
