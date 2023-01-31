@@ -82,5 +82,5 @@
 
 - **Arquitetura de Software & Reutilização**
 
-  - [4. Documento de Arquitetura](DAS/documento-de-arquitetura.md)
-  
+  - [4.1 Documento de Arquitetura](DAS/documento-de-arquitetura.md)
+  - [4.2 Reutilização de Software](ArquiteturaReutilizacao/4.2.ReutilizacaoDeSoftware.md)
