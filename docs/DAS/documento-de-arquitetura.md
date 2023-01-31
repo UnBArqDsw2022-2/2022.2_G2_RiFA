@@ -197,8 +197,9 @@ A visão de implementação tem o foco principal em mostrar como o sistema foi d
 
 O seguinte diagrama já se encontra no nosso repositório e pode ser encontrado em: [Diagrama de Componentes](docs/Modelagem/diagrama-componentes.md)
 
-<center><iframe height="600" width="700" src="https://github.com/UnBArqDsw2022-2/2022.2_G2_RiFA/blob/main/docs/Modelagem/diagrama-componentes.md#diagrama-de-componentes"></iframe>
-</center>
+![](../assets/diagrama-componentes.png)
+
+> Figura 9: Diagrama de Componentes. Autor: Eurico Abreu.
 
 ## 9. Visão de Dados
 
