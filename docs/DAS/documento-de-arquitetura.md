@@ -14,7 +14,7 @@
 | 30-01 | 1.7    | Requisitos Mínimos                   | João Paulo      | Guilherme Brito |
 | 30-01 | 1.8    | Visão Geral                          | João Paulo      | Guilherme Brito |
 | 30-01 | 1.9    | Visão de Dados                       | Guilherme Brito | João Paulo      |
-| 30-01 | 1.10   | Qualidade                            | Lucas           |                 |
+| 30-01 | 1.10   | Qualidade                            | Lucas           | Jackes Fonseca  |
 
 ## 1. Introdução
 
