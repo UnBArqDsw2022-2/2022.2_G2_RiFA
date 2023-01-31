@@ -42,29 +42,48 @@ consequentemente efetuar a compra dessas rifas.
 
 ## Screenshots Segunda Entrega <<FOCO: DSW(Modelagem)>>
 
-![img.png](assets/classes_spring.png)
-![img_1.png](assets/diagrama_estados.png)
+![img.png](assets/ent_spring.png)
+![img_1.png](assets/seq_dia.png)
 
 ## Screenshots Terceira Entrega <<FOCO: DSW(Padrões de Projeto)>>
 
-
+![img_2.png](assets/conc_obs.png)
+![img_3.png](assets/facade_print.png)
 
 ## Screenshots Quarta Entrega (FINAL) <<FOCOS: Arquitetura & Reutilização de Software & PROJETO FINAL>>
 
-Adicione 2 ou mais screenshots do projeto em termos de interface e/ou funcionamento.
+![img_4.png](assets/tela_abertura_rifas.png)
+![img_5.png](assets/login.png)
 
 ## Descritivo dos Principais Aspectos Técnicos
 
-**Principal(is) Metodologia(s) Adotada(s)**: xxxxxx<br>
-**Principais Linguagens Utilizadas e/ou Pretendidas**: xxxxxx<br>
-**Principais Tecnologias Utilizadas e/ou Pretendidas**: xxxxxx<br>
-**Principal(is) Estilo(s) Arquitetural(is) Adotado(s)**: xxxxxx<br>
+**Principal(is) Metodologia(s) Adotada(s)**: Kanban Board, Scrum<br>
+**Principais Linguagens Utilizadas e/ou Pretendidas**: Java no Backend e Typescript no Frontend<br>
+**Principais Tecnologias Utilizadas e/ou Pretendidas**: Spring Boot no Backend e React no Frontend<br>
+**Principal(is) Estilo(s) Arquitetural(is) Adotado(s)**: MVC, Cliente-Servidor<br>
 
 ## O Projeto está rodando?
 
-( ) SIM
+(X) SIM
 ( ) NÃO
 Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados em consultar o projeto.
+
+### Instruções para a execução do projeto
+
+#### 1. Início de ambiente com Docker Compose
+
+Executar o comando no terminal `docker-compose up -d` no diretório ambiente do repositório do Backend ou se preferir execute o comando `make up` na raiz do projeto.
+
+#### 2. Início da Aplicação - Backend
+
+Executar o comando ``./mvnw spring-boot:run`` no diretório raiz do backend. Esse comando inicializará a aplicação Spring
+Boot.
+
+#### 3. Início da Aplicação - Frontend
+
+Execute o comando `npm install` para instalar as dependências do projeto.
+Executar o comando ``npm run start`` no diretório my-app do repositório do Frontend. Este comando será responsável pela
+execução de um servidor de desenvolvimento para servir a aplicação React.
 
 ## Informações Complementares
 
