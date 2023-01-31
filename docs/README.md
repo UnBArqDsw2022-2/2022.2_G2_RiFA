@@ -72,7 +72,7 @@ Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados
 
 #### 1. Início de ambiente com Docker Compose
 
-Executar o comando no terminal ``docker-compose up -d`` no diretório ambiente do repositório do Backend.
+Executar o comando no terminal `docker-compose up -d` no diretório ambiente do repositório do Backend ou se preferir execute o comando `make up` na raiz do projeto.
 
 #### 2. Início da Aplicação - Backend
 
