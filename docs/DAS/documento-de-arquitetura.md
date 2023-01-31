@@ -10,7 +10,7 @@
 | 29-01 | 1.3    | Representação arquitetural           | Lucas     | Eurico      |
 | 29-01 | 1.4    | Introdução e Visão Lógica            | Karla     | João Paulo  |
 | 30-01 | 1.5    | Metas e Restrições da Arquitetura    | Lucas     | Eurico      |
-| 30-01 | 1.6    | Visão de Processos    | Jackes     |       |
+| 30-01 | 1.6    | Visão de Processos                   | Jackes    |             |
 
 ## 1. Introdução
 
@@ -131,15 +131,16 @@ Esse diagrama foi desenvolvido em outras etapas do projeto e pode ser encontrado
 
 **Figura 5: Diagrama de Pacotes do Backend**  
 Autor: Lucas Pimentel
-</center>
 
+</center>
 
 <center>
 
-![pacotesFront](../assets/diagramaPacotesFrontEnd.png)  
+![pacotesFront](../assets/diagramaPacotesFrontEnd.png)
 
 **Figura 6: Diagrama de Pacotes do Frontend**  
 Autor: Lucas Pimentel
+
 </center>
 
 ### 5.2 Diagrama de Classes
@@ -148,12 +149,12 @@ Os Diagramas de classes estão entre os tipos mais úteis de diagramas UML pois 
 
 Esse diagrama foi desenvolvido em outras etapas do projeto e pode ser encontrado em mais detalhes em: [Diagrama de Pacotes](Modelagem/diagrama_classes.md).
 
-
 <center>
 
 ![classes](../assets/uml_classes_ent.png)
 **Figura 7: Diagrama de Classes**  
 Autor: Guilherme Brito
+
 </center>
 
 ## 6. Visão de Processos
@@ -164,7 +165,7 @@ Nessa visão, nós podemos ter as seguintes representações que auxiliam em seu
 
 ### 6.1 Diagrama de atividades
 
-Esse diagrama já está disponível no escopo do nosso projeto, basta acessar: [Processos Envolvidos]([../Base/processos.md](https://unbarqdsw2022-2.github.io/2022.2_G2_RiFA/#/Base/processos))
+Esse diagrama já está disponível no escopo do nosso projeto, basta acessar: [Processos Envolvidos](<[../Base/processos.md](https://unbarqdsw2022-2.github.io/2022.2_G2_RiFA/#/Base/processos)>)
 
 #### 6.1.1 Processo de Sprint Planning
 
@@ -203,6 +204,13 @@ O seguinte diagrama já se encontra no nosso repositório e pode ser encontrado 
 
 ## 11. Qualidade
 
+O último tópico deste documento de arquitetura de software abordará a qualidade do sistema produzido. Para isso, faremos uma breve análise da qualidade de diferentes partes do sistema. Sendo assim, para nos guiar durante essa avaliação, utilizamos como base a ISO 25000, também conhecida como a norma SQuaRE. Esta norma tem como objetivo criar uma estrutura para a avaliação da qualidade dos produtos de software, e sua Divisão de Modelo de Qualidade define características que devem ser levadas em consideração ao avaliar as propriedades de um produto de software. Dessa forma, utilizamos algumas destas características para fazer nossa breve análise da qualidade do produto desenvolvido durante o projeto. Com isso, temos:
+
+- <b>Usabilidade</b>: Neste aspecto, com o ojetivo de alcançarmos as metas propostas no item 3.1 deste documento, fizemos a utilização de um protótipo de alta fidelidade. Dessa forma, a equipe pode testar a usabilidade e validá-la antes de começar o desenvolvimento das telas da aplicação, assim garantindo uma interface simples e intuitiva.
+- <b>Segurança</b>: Para lidar com a segurança do software, optamos por utilzar um serviço externo que nos garantisse que os dados sigilosos de nossos usuários estivessem protegidos. Neste caso, a plataforma escolhida para fazer este serviço foi o Keycloak que gerencia as permissões do sistema e armazena os dados sensíveis como as senhas dos usuários.
+- <b>Manutenibilidade </b>: Na questão da manutenibilidade, para garantir que correções e melhorias em nosso software não se tornassem desnecessariamente custosas, focamos em aplicar padrões de projeto e tentar maximixar a reutilização de códiigo durante todo o projeto.
+- <b>Portabilidade</b>: Graças as tecnologias escolhidas para desenvolver o projeto serem, a meta portabilidade do sistema foi contemplada, tendo o mesmo desempenho em diferentes navegadores.
+
 ## Referências
 
 - Template - Software Architecture Document. Disponibilizado pela professora no moodle da disciplina. Acesso em: 29 de jan. de 2022.
@@ -210,3 +218,4 @@ O seguinte diagrama já se encontra no nosso repositório e pode ser encontrado 
 - Documentação React. Disponível em https://reactjs.org/ Acesso em 29 de janeiro de 2023.
 - Spring Boot Architecture – Detailed Explanation. Disponível em https://www.interviewbit.com/blog/spring-boot-architecture/ Acesso em 29 de janeiro de 2023.
 - Chapa Quente, Documento de Arquitetura. Disponível em: https://unbarqdsw2021-2.github.io/2021.2_G1_chapa_quente/#/pages/fase_04/documento_de_arquitetura. Acesso em: 29 de jan. de 2022.
+- ISO/IEC25000: Software engineering-Software product Quality Requirements and Evaluation (SQuaRE) - Guide to SQuaRE
