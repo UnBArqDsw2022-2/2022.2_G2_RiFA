@@ -3,7 +3,7 @@
 ## Histórico de Versões
 
 | Data  | Versão | Descrição                            | Autor(es)       | Revisor(es)     |
-|-------|--------|--------------------------------------|-----------------|-----------------|
+| ----- | ------ | ------------------------------------ | --------------- | --------------- |
 | 29-01 | 1.0    | Criação do documento                 | Eurico          | Lucas           |
 | 29-01 | 1.1    | Estrutura do documento               | Lucas           | Eurico          |
 | 29-01 | 1.2    | Visão de implantação e implementação | Eurico          | Lucas           |
@@ -14,6 +14,7 @@
 | 30-01 | 1.7    | Requisitos Mínimos                   | João Paulo      | Guilherme Brito |
 | 30-01 | 1.8    | Visão Geral                          | João Paulo      | Guilherme Brito |
 | 30-01 | 1.9    | Visão de Dados                       | Guilherme Brito | João Paulo      |
+| 30-01 | 1.10   | Qualidade                            | Lucas           | Jackes Fonseca  |
 
 ## 1. Introdução
 
@@ -253,7 +254,7 @@ Para a visão de dados, foi utilizado da ferramenta Intellij para a geração do
 utilizado do SGBD Postgresql. Na imagem abaixo é possível ver o diagrama gerado:
 
 |         ![diagram.png](../assets/db_schema.png)         |
-|:-------------------------------------------------------:|
+| :-----------------------------------------------------: |
 | Figura 9: Diagrama de Entidades <br/> Autoria: Própria. |
 
 ## 10. Tamanho e Performance
@@ -276,6 +277,13 @@ tipos. O desempenho leva em conta o grande número de usuários diários, inclui
 
 ## 11. Qualidade
 
+O último tópico deste documento de arquitetura de software abordará a qualidade do sistema produzido. Para isso, faremos uma breve análise da qualidade de diferentes partes do sistema. Sendo assim, para nos guiar durante essa avaliação, utilizamos como base a ISO 25000, também conhecida como a norma SQuaRE. Esta norma tem como objetivo criar uma estrutura para a avaliação da qualidade dos produtos de software, e sua Divisão de Modelo de Qualidade define características que devem ser levadas em consideração ao avaliar as propriedades de um produto de software. Dessa forma, utilizamos algumas destas características que julgamos mais importantes neste contexto para fazer nossa breve análise da qualidade do produto desenvolvido durante o projeto. Com isso, temos:
+
+- <b>Usabilidade</b>: Neste aspecto, com o ojetivo de alcançarmos as metas propostas no item 3.1 deste documento, fizemos a utilização de um protótipo de alta fidelidade. Dessa forma, a equipe pode testar a usabilidade e validá-la antes de começar o desenvolvimento das telas da aplicação, assim garantindo uma interface simples e intuitiva.
+- <b>Segurança</b>: Para lidar com a segurança do software, optamos por utilzar um serviço externo que nos garantisse que os dados sigilosos de nossos usuários estivessem protegidos. Neste caso, a plataforma escolhida para fazer este serviço foi o Keycloak que gerencia as permissões do sistema e armazena os dados sensíveis como as senhas dos usuários.
+- <b>Manutenibilidade </b>: Na questão da manutenibilidade, para garantir que correções e melhorias em nosso software não se tornassem desnecessariamente custosas, focamos em aplicar padrões de projeto e tentar maximixar a reutilização de códiigo durante todo o projeto.
+- <b>Portabilidade</b>: Graças as tecnologias escolhidas para desenvolver o projeto serem, a meta portabilidade do sistema foi contemplada, tendo o mesmo desempenho em diferentes navegadores.
+
 ## Referências
 
 - Template - Software Architecture Document. Disponibilizado pela professora no moodle da disciplina. Acesso em: 29 de
@@ -283,6 +291,8 @@ tipos. O desempenho leva em conta o grande número de usuários diários, inclui
 - Spring Boot – Architecture. Disponível em https://www.geeksforgeeks.org/spring-boot-architecture/. Acesso em 29 de
   janeiro de 2023.
 - Documentação React. Disponível em https://reactjs.org/ Acesso em 29 de janeiro de 2023.
+- Chapa Quente, Documento de Arquitetura. Disponível em: https://unbarqdsw2021-2.github.io/2021.2_G1_chapa_quente/#/pages/fase_04/documento_de_arquitetura. Acesso em: 29 de jan. de 2022.
+- ISO/IEC25000: Software engineering-Software product Quality Requirements and Evaluation (SQuaRE) - Guide to SQuaRE
 - Spring Boot Architecture – Detailed Explanation. Disponível
   em https://www.interviewbit.com/blog/spring-boot-architecture/ Acesso em 29 de janeiro de 2023.
 - Chapa Quente, Documento de Arquitetura. Disponível
