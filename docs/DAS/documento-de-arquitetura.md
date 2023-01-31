@@ -52,14 +52,13 @@ Para facilitar o entendimento, o documento de arquitetura é dividido da seguint
   representado.
 - [Metas e Restrições da Arquitetura](#_3-metas-e-restrições-da-arquitetura): descreve os objetivos e requisitos do
   software.
-- [Visão de Casos de Uso](#_4-visões-de-caso-de-uso): lista os casos de uso ou cenários das funcionalidades do sistema.
-- [Visão Lógica](#_5-visão-lógica): descreve as partes arquiteturais significantes dos modelos de design.
-- [Visão de Processos](#_6-visão-de-processos): descreve a decomposição do sistema em processos leves ou pesados.
-- [Visão de Implantação](#_7-visão-de-implantação): descreve as configurações físicas (hardware).
-- [Visão de Implementação](#_8-visão-de-implementação): descreve a estrutura geral do modelo de implementação.
-- [Visão de Dados](#_9-visão-de-dados): descreve a camada de persistência do sistema.
-- [Tamanho e Performance](#_10-tamanho-e-performance): descreve as características de dimensão do software.
-- [Qualidade](#_11-qualidade): descreve como a arquitetura de software contribui para todas as capacidades do sistema.
+- [Visão Lógica](#_4-visão-lógica): descreve as partes arquiteturais significantes dos modelos de design.
+- [Visão de Processos](#_5-visão-de-processos): descreve a decomposição do sistema em processos leves ou pesados.
+- [Visão de Implantação](#_6-visão-de-implantação): descreve as configurações físicas (hardware).
+- [Visão de Implementação](#_7-visão-de-implementação): descreve a estrutura geral do modelo de implementação.
+- [Visão de Dados](#_8-visão-de-dados): descreve a camada de persistência do sistema.
+- [Tamanho e Performance](#_9-tamanho-e-performance): descreve as características de dimensão do software.
+- [Qualidade](#_10-qualidade): descreve como a arquitetura de software contribui para todas as capacidades do sistema.
 
 ## 2. Representação Arquitetural
 
@@ -85,7 +84,7 @@ Persistência e Camada de Dados. Estas camadas se relacionam da seguinte maneira
 
 <center>
 
-![Arquitetura Spring Boot](../../assets/Spring_Boot-Flow.png)
+![Arquitetura Spring Boot](../assets/Spring_Boot-Flow.png)
 
 > Figura 2: Relacionamento entre camadas Spring Boot. Fonte: https://spring.io .
 
@@ -95,7 +94,7 @@ Persistência e Camada de Dados. Estas camadas se relacionam da seguinte maneira
 
 <center>
 
-![react](../../assets/react-logo.png)
+![react](../assets/react-logo.png)
 
 > Figura 3: Logo React. Fonte: https://reactjs.org/ .
 
@@ -116,7 +115,7 @@ partes da aplicação, mas também em ensinar outros colegas com menos experiên
 
 <center>
 
-![react](../../assets/postgre-logo.png)
+![react](../assets/postgre-logo.png)
 
 > Figura 4: Logo postgreSQL. Fonte: https://www.postgresql.org/ .
 
@@ -151,20 +150,18 @@ gama de ferramentas, extensões e recursos disponíveis para ajudar na implement
   React.
 - <b>Prazo:</b> A aplicação com as funcionalidades propostas deverá ser finalizada até o dia 30/01/2023
 
-## 4. Visões de Caso de Uso
-
-## 5. Visão Lógica
+## 4. Visão Lógica
 
 A Visão Lógica descreve as partes significantes do modelo de design e mostra as decomposições em subsistemas e pacotes e
 classes da arquitetura do sistema. Essa visão pode ser representada pelos Diagrama de Pacotes e Diagrama de Classes.
 
-### 5.1 Diagrama de Pacotes
+### 4.1 Diagrama de Pacotes
 
 O diagrama de pacotes é um diagrama UML estrutural e estático que mostra a organização e disposição de um determinado
 sistema à nível de pacotes.
 
 Esse diagrama foi desenvolvido em outras etapas do projeto e pode ser encontrado em mais detalhes
-em: [Diagrama de Classes](Modelagem/diagramaPacotes.md).
+em: [Diagrama de Pacotes](Modelagem/diagramaPacotes.md).
 
 <center>
 
@@ -184,23 +181,23 @@ Autor: Lucas Pimentel
 
 </center>
 
-### 5.2 Diagrama de Classes
+### 4.2 Diagrama de Classes
 
 Os Diagramas de classes estão entre os tipos mais úteis de diagramas UML pois mapeiam de forma clara a estrutura de um
 determinado sistema ao modelar suas classes, seus atributos, operações e relações entre objetos.
 
 Esse diagrama foi desenvolvido em outras etapas do projeto e pode ser encontrado em mais detalhes
-em: [Diagrama de Pacotes](Modelagem/diagrama_classes.md).
+em: [Diagrama de Classes](Modelagem/diagrama_classes.md).
 
 <center>
 
-![classes](../assets/uml_classes_ent_intellij.png)
+[![classes](../assets/uml_classes_ent_intellij.png)](https://user-images.githubusercontent.com/78981063/215635614-6e8e5318-7052-43b8-9177-697cc18acb3a.png)
 **Figura 7: Diagrama de Classes**  
 Autor: Guilherme Brito
 
 </center>
 
-## 6. Visão de Processos
+## 5. Visão de Processos
 
 A modelagem de processos permite a identificação de cada atividade e de seus desdobramentos envolvidos nos seus fluxos.
 Assim, é possível ter a visão dos autores dos processos, das atividades, tarefas, subprocessos e também de toda a
@@ -208,24 +205,24 @@ conexão com os fluxos dentro da entrega de valor do seu negócio.
 
 Nessa visão, nós podemos ter as seguintes representações que auxiliam em seu entendimento:
 
-### 6.1 Diagrama de atividades
+### 5.1 Diagrama de atividades
 
 Esse diagrama já está disponível no escopo do nosso projeto, basta
 acessar: [Processos Envolvidos](<[../Base/processos.md](https://unbarqdsw2022-2.github.io/2022.2_G2_RiFA/#/Base/processos)>)
 
-#### 6.1.1 Processo de Sprint Planning
+#### 5.1.1 Processo de Sprint Planning
 
 <iframe src="https://modeler.cloud.camunda.io/embed/bcacc039-0a37-4de7-bb23-1cbc1b26fc66" style="width:700px;height:500px;border:1px solid #ccc" allowfullscreen></iframe>
 
-#### 6.1.2 Processo de Desenvolvimento
+#### 5.1.2 Processo de Desenvolvimento
 
 <iframe src="https://modeler.cloud.camunda.io/embed/2fa059a0-04f9-4bf5-ad35-070e88fdfcc3" style="width:700px;height:500px;border:1px solid #ccc" allowfullscreen></iframe>
 
-#### 6.1.3 Processo de Sprint Review
+#### 5.1.3 Processo de Sprint Review
 
 <iframe src="https://modeler.cloud.camunda.io/embed/02762bb7-a16e-4ae3-a522-6a0cfc7078cb" style="width:700px;height:500px;border:1px solid #ccc" allowfullscreen></iframe>
 
-## 7. Visão de Implantação
+## 6. Visão de Implantação
 
 A visão de implantação é uma forma de demonstrar as relações entre os componentes. Abaixo temos um diagrama de
 implantação, que demonstra quais partes dependem de quais.
@@ -234,12 +231,12 @@ implantação, que demonstra quais partes dependem de quais.
 
 > Figura 8: Diagrama de Implantação. Autor: Eurico Abreu.
 
-## 8. Visão de Implementação
+## 7. Visão de Implementação
 
 A visão de implementação tem o foco principal em mostrar como o sistema foi desenvolvido e organizado. Para demonstrar
 esse tópico podemos usar o Diagrama de Componentes.
 
-### 8.1. Diagrama de componentes
+### 7.1. Diagrama de componentes
 
 O seguinte diagrama já se encontra no nosso repositório e pode ser encontrado
 em: [Diagrama de Componentes](docs/Modelagem/diagrama-componentes.md)
@@ -248,7 +245,7 @@ em: [Diagrama de Componentes](docs/Modelagem/diagrama-componentes.md)
 
 > Figura 9: Diagrama de Componentes. Autor: Eurico Abreu.
 
-## 9. Visão de Dados
+## 8. Visão de Dados
 
 Para a visão de dados, foi utilizado da ferramenta Intellij para a geração do Diagrama das entidades. Neste projeto, foi
 utilizado do SGBD Postgresql. Na imagem abaixo é possível ver o diagrama gerado:
@@ -257,9 +254,9 @@ utilizado do SGBD Postgresql. Na imagem abaixo é possível ver o diagrama gerad
 | :-----------------------------------------------------: |
 | Figura 9: Diagrama de Entidades <br/> Autoria: Própria. |
 
-## 10. Tamanho e Performance
+## 9. Tamanho e Performance
 
-### 10.1 Requisitos Mínimos
+### 9.1 Requisitos Mínimos
 
 - Para acessar o e-Rifas é necessário o uso de internet estável.
 - Navegador de Internet com suporte para Html5, CSS, Javascript.
@@ -268,14 +265,14 @@ utilizado do SGBD Postgresql. Na imagem abaixo é possível ver o diagrama gerad
 - Ubuntu 18.04+ de 64 bits, Debian 10+, openSUSE 15.2+ ou Fedora Linux 32+.
 - Android 7.0 Nougat.
 
-### 10.2 Visão Geral
+### 9.2 Visão Geral
 
 Os ambientes são separados em 2 repositórios. Front-End e Back-end os dois estão somados em 800 megabytes necessários
 para a instalação miníma do ambiente de desenvolvimento. O sistema funciona sem a necessidade de instalar outros
 programas. Para usá-lo, é preciso ter conexão à internet. O dispositivo pode ser usado em computadores de todos os
 tipos. O desempenho leva em conta o grande número de usuários diários, incluindo gestores de rifas e administradores.
 
-## 11. Qualidade
+## 10. Qualidade
 
 O último tópico deste documento de arquitetura de software abordará a qualidade do sistema produzido. Para isso, faremos uma breve análise da qualidade de diferentes partes do sistema. Sendo assim, para nos guiar durante essa avaliação, utilizamos como base a ISO 25000, também conhecida como a norma SQuaRE. Esta norma tem como objetivo criar uma estrutura para a avaliação da qualidade dos produtos de software, e sua Divisão de Modelo de Qualidade define características que devem ser levadas em consideração ao avaliar as propriedades de um produto de software. Dessa forma, utilizamos algumas destas características que julgamos mais importantes neste contexto para fazer nossa breve análise da qualidade do produto desenvolvido durante o projeto. Com isso, temos:
 
