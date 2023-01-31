@@ -81,6 +81,7 @@ Boot.
 
 #### 3. Início da Aplicação - Frontend
 
+Execute o comando `npm install` para instalar as dependências do projeto.
 Executar o comando ``npm run start`` no diretório my-app do repositório do Frontend. Este comando será responsável pela
 execução de um servidor de desenvolvimento para servir a aplicação React.
 
