@@ -85,3 +85,5 @@
   - [4.1 Documento de Arquitetura](DAS/documento-de-arquitetura.md)
   - [4.2 Reutilização de Software](ArquiteturaReutilizacao/4.2.ReutilizacaoDeSoftware.md)
   - [4.3 Participações - Arquitetura de Software & Reutilização](/ArquiteturaReutilizacao/4.4.ParticipacoesArqReutilizacao.md)
+  - 4.4 Iniciativas Extras
+    - [4.4.1 Dojo ](ArquiteturaReutilizacao/ExtrasDojo.md)

@@ -85,7 +85,7 @@ Persistência e Camada de Dados. Estas camadas se relacionam da seguinte maneira
 
 <center>
 
-![Arquitetura Spring Boot](../../assets/Spring_Boot-Flow.png)
+![Arquitetura Spring Boot](../assets/Spring_Boot-Flow.png)
 
 > Figura 2: Relacionamento entre camadas Spring Boot. Fonte: https://spring.io .
 
@@ -95,7 +95,7 @@ Persistência e Camada de Dados. Estas camadas se relacionam da seguinte maneira
 
 <center>
 
-![react](../../assets/react-logo.png)
+![react](../assets/react-logo.png)
 
 > Figura 3: Logo React. Fonte: https://reactjs.org/ .
 
@@ -116,7 +116,7 @@ partes da aplicação, mas também em ensinar outros colegas com menos experiên
 
 <center>
 
-![react](../../assets/postgre-logo.png)
+![react](../assets/postgre-logo.png)
 
 > Figura 4: Logo postgreSQL. Fonte: https://www.postgresql.org/ .
 
